@@ -1,0 +1,22 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|151558369|gb|ABDV01000025.1| -         5S_rRNA              RF00001    cm        1      119    29067    29184      +    no    1 0.52   0.0   69.5     5e-14 !   Clostridium perfringens B str. ATCC 3626 gcontig_1106202601680, whole genome shotgun sequence
+gi|151558378|gb|ABDV01000016.1| -         5S_rRNA              RF00001    cm        1      119    75314    75197      -    no    1 0.53   0.0   67.4   1.7e-13 !   Clostridium perfringens B str. ATCC 3626 gcontig_1106202603914, whole genome shotgun sequence
+gi|151558369|gb|ABDV01000025.1| -         5S_rRNA              RF00001    cm        1      119    28866    28983      +    no    1 0.53   0.0   67.4   1.7e-13 !   Clostridium perfringens B str. ATCC 3626 gcontig_1106202601680, whole genome shotgun sequence
+gi|151558364|gb|ABDV01000030.1| -         5S_rRNA              RF00001    cm        1      119     4105     4222      +    no    1 0.53   0.0   67.4   1.7e-13 !   Clostridium perfringens B str. ATCC 3626 gcontig_1106202603866, whole genome shotgun sequence
+gi|151558359|gb|ABDV01000035.1| -         5S_rRNA              RF00001    cm        1      119    28796    28679      -    no    1 0.53   0.0   67.4   1.7e-13 !   Clostridium perfringens B str. ATCC 3626 gcontig_1106202603854, whole genome shotgun sequence
+gi|151558353|gb|ABDV01000041.1| -         5S_rRNA              RF00001    cm        1      119    17313    17196      -    no    1 0.53   0.0   67.4   1.7e-13 !   Clostridium perfringens B str. ATCC 3626 gcontig_1106202603834, whole genome shotgun sequence
+gi|151558342|gb|ABDV01000052.1| -         5S_rRNA              RF00001    cm        1      119     9863     9746      -    no    1 0.53   0.0   67.4   1.7e-13 !   Clostridium perfringens B str. ATCC 3626 gcontig_1106202601690, whole genome shotgun sequence
+gi|151558341|gb|ABDV01000053.1| -         5S_rRNA              RF00001    cm        1      119     4104     4221      +    no    1 0.53   0.0   67.4   1.7e-13 !   Clostridium perfringens B str. ATCC 3626 gcontig_1106202603862, whole genome shotgun sequence
+gi|151558379|gb|ABDV01000015.1| -         5S_rRNA              RF00001    cm        1      119     4770     4888      +    no    1 0.52   0.0   65.5   5.1e-13 !   Clostridium perfringens B str. ATCC 3626 gcontig_1106202601694, whole genome shotgun sequence
+gi|151558358|gb|ABDV01000036.1| -         5S_rRNA              RF00001    cm        1      119    23422    23304      -    no    1 0.52   0.0   65.5   5.1e-13 !   Clostridium perfringens B str. ATCC 3626 gcontig_1106202603930, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./RF00001.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Clostridium_perfringens_B_str._ATCC_3626/210638-DENOVO-20150207-1327.1453644/output/bacterial_annot/ABDV01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Clostridium_perfringens_B_str._ATCC_3626.5S.tbl -T 40 --rfam --cpu 0 --nohmmonly ./RF00001.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Clostridium_perfringens_B_str._ATCC_3626/210638-DENOVO-20150207-1327.1453644/output/bacterial_annot/ABDV01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:35 2015
+# [ok]

@@ -1,0 +1,20 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|169757190|gb|CP000949.1| -         5S_rRNA              RF00001    cm        1      119   844746   844861      +    no    1 0.52   0.1   98.7   1.6e-21 !   Pseudomonas putida W619, complete genome
+gi|169757190|gb|CP000949.1| -         5S_rRNA              RF00001    cm        1      119  1299777  1299892      +    no    1 0.52   0.1   98.7   1.6e-21 !   Pseudomonas putida W619, complete genome
+gi|169757190|gb|CP000949.1| -         5S_rRNA              RF00001    cm        1      119  3775923  3775808      -    no    1 0.52   0.1   98.7   1.6e-21 !   Pseudomonas putida W619, complete genome
+gi|169757190|gb|CP000949.1| -         5S_rRNA              RF00001    cm        1      119  5036719  5036604      -    no    1 0.52   0.1   98.7   1.6e-21 !   Pseudomonas putida W619, complete genome
+gi|169757190|gb|CP000949.1| -         5S_rRNA              RF00001    cm        1      119  5251237  5251122      -    no    1 0.52   0.1   98.7   1.6e-21 !   Pseudomonas putida W619, complete genome
+gi|169757190|gb|CP000949.1| -         5S_rRNA              RF00001    cm        1      119  5611328  5611213      -    no    1 0.52   0.1   98.7   1.6e-21 !   Pseudomonas putida W619, complete genome
+gi|169757190|gb|CP000949.1| -         5S_rRNA              RF00001    cm        1      119  5616923  5616808      -    no    1 0.52   0.1   98.7   1.6e-21 !   Pseudomonas putida W619, complete genome
+gi|169757190|gb|CP000949.1| -         5S_rRNA              RF00001    cm        1      119  5611103  5610988      -    no    1 0.53   0.1   98.6   1.7e-21 !   Pseudomonas putida W619, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./RF00001.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Pseudomonas_putida_W619/20248-DENOVO-20150207-1327.1452624/output/bacterial_annot/ASM1944v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Pseudomonas_putida_W619.5S.tbl -T 40 --rfam --cpu 0 --nohmmonly ./RF00001.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Pseudomonas_putida_W619/20248-DENOVO-20150207-1327.1452624/output/bacterial_annot/ASM1944v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:38 2015
+# [ok]

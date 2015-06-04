@@ -1,0 +1,5 @@
+gi|228031884|gb|GG665866.1|	cmsearch-1.1.1	rna	464022	464417	295.7	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=3.4e-96
+gi|228031882|gb|GG665867.1|	cmsearch-1.1.1	rna	51065	51198	82.7	+	.	gb_key=FMN;rfam_acc=RF00050;evalue=3.4e-19
+gi|228031882|gb|GG665867.1|	cmsearch-1.1.1	rna	237114	237213	68.6	-	.	gb_key=SAM;rfam_acc=RF00162;evalue=3.2e-14
+gi|228031884|gb|GG665866.1|	cmsearch-1.1.1	rna	1366629	1366910	95.2	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=7.7e-22
+gi|228031882|gb|GG665867.1|	cmsearch-1.1.1	rna	616764	616912	67.2	+	.	gb_key=L10_leader;rfam_acc=RF00557;evalue=5.2e-10

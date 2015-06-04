@@ -1,0 +1,23 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|690330613|gb|CP009483.1| -         RNaseP_bact_a        RF00010    cm        1      367   721353   720937      -    no    1 0.66  24.3  287.3   6.3e-93 !   Mycobacterium kansasii 824, complete genome
+gi|690330613|gb|CP009483.1| -         Cobalamin            RF00174    cm        1      191  1733984  1734181      +    no    1 0.69   8.4  102.4   6.2e-27 !   Mycobacterium kansasii 824, complete genome
+gi|690330613|gb|CP009483.1| -         Cobalamin            RF00174    cm        1      191  4438182  4438367      +    no    1 0.67   4.6   95.8   5.4e-25 !   Mycobacterium kansasii 824, complete genome
+gi|690330613|gb|CP009483.1| -         Glycine              RF00504    cm        1       94    88433    88530      +    no    1 0.68   0.1   58.4   3.4e-11 !   Mycobacterium kansasii 824, complete genome
+gi|690330613|gb|CP009483.1| -         ALIL                 RF01497    cm        1      117   429616   429485      -    no    1 0.67   0.1   77.6   1.1e-19 !   Mycobacterium kansasii 824, complete genome
+gi|690330613|gb|CP009483.1| -         ALIL                 RF01497    cm        1      117  1001411  1001280      -    no    1 0.67   0.1   77.6   1.1e-19 !   Mycobacterium kansasii 824, complete genome
+gi|690330613|gb|CP009483.1| -         ASpks                RF01782    cm        1       75  5235107  5235033      -    no    1 0.63   0.0   73.3   2.5e-13 !   Mycobacterium kansasii 824, complete genome
+gi|690330613|gb|CP009483.1| -         ASpks                RF01782    cm        1       75   384307   384375      +    no    1 0.70   0.6   66.9     8e-12 !   Mycobacterium kansasii 824, complete genome
+gi|690330613|gb|CP009483.1| -         ASpks                RF01782    cm        1       75   378250   378318      +    no    1 0.71   0.3   64.0   3.7e-11 !   Mycobacterium kansasii 824, complete genome
+gi|690330613|gb|CP009483.1| -         ASpks                RF01782    cm        1       75  6199655  6199575      -    no    1 0.73   0.7   53.2   1.3e-08 !   Mycobacterium kansasii 824, complete genome
+gi|690330613|gb|CP009483.1| -         ASpks                RF01782    cm        1       75  6206033  6205953      -    no    1 0.73   1.1   52.2   2.2e-08 !   Mycobacterium kansasii 824, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Mycobacterium_kansasii_824/1509258-DENOVO-20150208-1207.1467414/output/bacterial_annot/ASM83130v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Mycobacterium_kansasii_824.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Mycobacterium_kansasii_824/1509258-DENOVO-20150208-1207.1467414/output/bacterial_annot/ASM83130v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:09 2015
+# [ok]

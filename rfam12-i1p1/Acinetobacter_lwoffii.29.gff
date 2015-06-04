@@ -1,0 +1,3 @@
+gi|752490350|dbj|BBSQ01000008.1|	cmsearch-1.1.1	rna	77753	78130	318.9	+	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=9.1e-104
+gi|752490344|dbj|BBSQ01000014.1|	cmsearch-1.1.1	rna	29332	29537	88.8	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=3.4e-23
+gi|752490328|dbj|BBSQ01000030.1|	cmsearch-1.1.1	rna	11108	11195	67.2	+	.	gb_key=Glycine;rfam_acc=RF00504;evalue=8.6e-14

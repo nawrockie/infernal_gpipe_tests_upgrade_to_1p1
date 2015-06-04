@@ -1,0 +1,15 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|521017106|gb|CP003696.1| -         RNaseP_bact_a        RF00010    cm        1      367  1015274  1015731      +    no    1 0.67  39.3  238.9   3.2e-81 !   Corynebacterium terpenotabidum Y-11, complete genome
+gi|521017106|gb|CP003696.1| -         FMN                  RF00050    cm        1      139  1883209  1883341      +    no    1 0.65   6.3  105.8   1.9e-26 !   Corynebacterium terpenotabidum Y-11, complete genome
+gi|521017106|gb|CP003696.1| -         Glycine              RF00504    cm        1       94   365010   365136      +    no    1 0.62   4.6   47.2   7.7e-09 !   Corynebacterium terpenotabidum Y-11, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Corynebacterium_terpenotabidum_Y-11/725818-DENOVO-20150121-1607.1442514/output/bacterial_annot/ASM41836v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Corynebacterium_terpenotabidum_Y-11.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Corynebacterium_terpenotabidum_Y-11/725818-DENOVO-20150121-1607.1442514/output/bacterial_annot/ASM41836v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:57 2015
+# [ok]

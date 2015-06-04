@@ -1,0 +1,38 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam12-i1p0/Leptospira_kirschneri_serovar_Valbuzzi_str._Brem_179.5S.tbl ./RF00001.rfam12.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Leptospira_kirschneri_serovar_Valbuzzi_str._Brem_179/430988-DENOVO-20150207-1527.1456324/output/bacterial_annot/AHQG01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:10 2015
+# num seqs:   321
+# dbsize(Mb): 8.621598
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     169.945     8.84   0.0054  00:01:10.35
+#   2   cm  cyk  loc  1e-07       8.297     9.30   0.0003  00:00:15.67
+#   3   cm  ins  loc  1e-15     7.3e-07    40.00  9.6e-12  00:00:04.15
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:30.18
+#
+#
+# CM: 5S_rRNA
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|374643925|gb|AHQG01000212.1|       17483       17367      1    119     86.34  5.04e-19   57
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     169.945       15    0.0054   0.0005
+#   2   cm  cyk  loc  1e-07       8.297        1    0.0003  3.1e-05
+#   3   cm  ins  loc  1e-15     7.3e-07        1   9.6e-12  1.4e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:30.18    00:01:10.00

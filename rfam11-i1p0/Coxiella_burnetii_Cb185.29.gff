@@ -1,0 +1,5 @@
+gi|544183928|emb|HG428641.1|	cmsearch-1.0	rna	103045	103386	318.29	+	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=3.94e-109
+gi|544183928|emb|HG428641.1|	cmsearch-1.0	rna	594037	594173	116.14	+	.	gb_key=FMN;rfam_acc=RF00050;evalue=1.77e-29
+gi|544183928|emb|HG428641.1|	cmsearch-1.0	rna	103048	103379	61.46	+	.	gb_key=RNaseP_arch;rfam_acc=RF00373;evalue=1.37e-18
+gi|544183928|emb|HG428641.1|	cmsearch-1.0	rna	849991	850078	23.04	+	.	gb_key=isrK;rfam_acc=RF01394;evalue=5.05e-03
+gi|544183928|emb|HG428641.1|	cmsearch-1.0	rna	947123	947192	22.11	-	.	gb_key=isrK;rfam_acc=RF01394;evalue=8.81e-03

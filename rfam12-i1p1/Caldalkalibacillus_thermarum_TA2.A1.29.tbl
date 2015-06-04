@@ -1,0 +1,34 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|334180825|gb|AFCE01000106.1| -         RNaseP_bact_a        RF00010    cm        1      367     4757     4306      -    no    1 0.56   0.0  295.2   6.8e-96 !   Caldalkalibacillus thermarum TA2.A1 ctg194, whole genome shotgun sequence
+gi|334180575|gb|AFCE01000120.1| -         FMN                  RF00050    cm        1      140     1974     2142      +    no    1 0.53   0.0   92.2   1.2e-21 !   Caldalkalibacillus thermarum TA2.A1 ctg206, whole genome shotgun sequence
+gi|334179623|gb|AFCE01000152.1| -         SAM                  RF00162    cm        1      108    16850    16740      -    no    1 0.57   0.0   96.1   2.3e-21 !   Caldalkalibacillus thermarum TA2.A1 ctg235, whole genome shotgun sequence
+gi|334180055|gb|AFCE01000141.1| -         SAM                  RF00162    cm        1      108     9907    10018      +    no    1 0.54   0.0   94.5   6.1e-21 !   Caldalkalibacillus thermarum TA2.A1 ctg225, whole genome shotgun sequence
+gi|334180135|gb|AFCE01000139.1| -         SAM                  RF00162    cm        1      108    20720    20847      +    no    1 0.55   0.0   89.0   1.7e-19 !   Caldalkalibacillus thermarum TA2.A1 ctg223, whole genome shotgun sequence
+gi|334180362|gb|AFCE01000130.1| -         Purine               RF00167    cm        1      102    26309    26410      +    no    1 0.45   0.0   88.7   3.6e-17 !   Caldalkalibacillus thermarum TA2.A1 ctg215, whole genome shotgun sequence
+gi|334180879|gb|AFCE01000103.1| -         Purine               RF00167    cm        1      102    17310    17208      -    no    1 0.45   0.0   80.5   3.8e-15 !   Caldalkalibacillus thermarum TA2.A1 ctg191, whole genome shotgun sequence
+gi|334178812|gb|AFCE01000165.1| -         Cobalamin            RF00174    cm        1      191    87082    86888      -    no    1 0.54   0.0  131.6   6.5e-36 !   Caldalkalibacillus thermarum TA2.A1 ctg247, whole genome shotgun sequence
+gi|334178812|gb|AFCE01000165.1| -         Cobalamin            RF00174    cm        1      191    42391    42180      -    no    1 0.53   0.0  127.5   1.1e-34 !   Caldalkalibacillus thermarum TA2.A1 ctg247, whole genome shotgun sequence
+gi|334179172|gb|AFCE01000160.1| -         T-box                RF00230    cm        1      224    27723    27957      +    no    1 0.54   0.0  126.2   1.1e-29 !   Caldalkalibacillus thermarum TA2.A1 ctg242, whole genome shotgun sequence
+gi|334179623|gb|AFCE01000152.1| -         T-box                RF00230    cm        1      224    28010    28287      +    no    1 0.47   0.0  118.5     1e-27 !   Caldalkalibacillus thermarum TA2.A1 ctg235, whole genome shotgun sequence
+gi|334179513|gb|AFCE01000154.1| -         T-box                RF00230    cm        1      224    40888    41151      +    no    1 0.49   0.0  117.8   1.5e-27 !   Caldalkalibacillus thermarum TA2.A1 ctg237, whole genome shotgun sequence
+gi|334179460|gb|AFCE01000155.1| -         T-box                RF00230    cm        1      224    43605    43866      +    no    1 0.50   0.0  115.6   5.8e-27 !   Caldalkalibacillus thermarum TA2.A1 ctg238, whole genome shotgun sequence
+gi|334178910|gb|AFCE01000164.1| -         T-box                RF00230    cm        1      224    25783    26140      +    no    1 0.53   0.0  112.5   3.6e-26 !   Caldalkalibacillus thermarum TA2.A1 ctg246, whole genome shotgun sequence
+gi|334178910|gb|AFCE01000164.1| -         T-box                RF00230    cm        1      224    82249    82482      +    no    1 0.52   0.0  102.7   1.2e-23 !   Caldalkalibacillus thermarum TA2.A1 ctg246, whole genome shotgun sequence
+gi|334179771|gb|AFCE01000149.1| -         T-box                RF00230    cm        1      224    36260    35980      -    no    1 0.53   0.0   94.3   1.8e-21 !   Caldalkalibacillus thermarum TA2.A1 ctg232, whole genome shotgun sequence
+gi|334180660|gb|AFCE01000116.1| -         Glycine              RF00504    cm        1       94    12562    12653      +    no    1 0.54   0.0   72.7   2.6e-15 !   Caldalkalibacillus thermarum TA2.A1 ctg202, whole genome shotgun sequence
+gi|334181711|gb|AFCE01000026.1| -         L10_leader           RF00557    cm        1      139     2565     2717      +    no    1 0.47   0.0   68.2   4.6e-10 !   Caldalkalibacillus thermarum TA2.A1 ctg121, whole genome shotgun sequence
+gi|334181369|gb|AFCE01000067.1| -         L20_leader           RF00558    cm        1      127       74      191      +    no    1 0.51   0.0   62.2   1.1e-11 !   Caldalkalibacillus thermarum TA2.A1 ctg159, whole genome shotgun sequence
+gi|334178910|gb|AFCE01000164.1| -         L21_leader           RF00559    cm        1       78    54418    54486      +    no    1 0.45   0.0   52.0   3.4e-09 !   Caldalkalibacillus thermarum TA2.A1 ctg246, whole genome shotgun sequence
+gi|334181118|gb|AFCE01000088.1| -         c-di-GMP-I           RF01051    cm        1       87       17      103      +    no    1 0.56   0.0   82.7   3.3e-16 !   Caldalkalibacillus thermarum TA2.A1 ctg178, whole genome shotgun sequence
+gi|334179172|gb|AFCE01000160.1| -         c-di-GMP-I           RF01051    cm        1       87    14647    14734      +    no    1 0.51   0.0   79.7   1.7e-15 !   Caldalkalibacillus thermarum TA2.A1 ctg242, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Caldalkalibacillus_thermarum_TA2.A1/290898-DENOVO-20150207-1427.1454654/output/bacterial_annot/AFCE01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Caldalkalibacillus_thermarum_TA2.A1.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Caldalkalibacillus_thermarum_TA2.A1/290898-DENOVO-20150207-1427.1454654/output/bacterial_annot/AFCE01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:49 2015
+# [ok]

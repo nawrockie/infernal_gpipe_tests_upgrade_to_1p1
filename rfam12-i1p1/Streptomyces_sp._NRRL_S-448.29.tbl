@@ -1,0 +1,23 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|662081005|gb|KL586670.1| -         RNaseP_bact_a        RF00010    cm        1      367     6604     6203      -    no    1 0.70  35.1  301.0   2.7e-97 !   Streptomyces sp. NRRL S-448 P274_Doro1_scaffold176, whole genome shotgun sequence
+gi|662080531|gb|KL586760.1| -         FMN                  RF00050    cm        1      140     5029     5159      +    no    1 0.66   0.0  100.1   2.9e-23 !   Streptomyces sp. NRRL S-448 P274_Doro1_scaffold268, whole genome shotgun sequence
+gi|662081095|gb|KL586654.1| -         SAM                  RF00162    cm        1      108     2829     2985      +    no    1 0.66   0.2   78.9   2.8e-16 !   Streptomyces sp. NRRL S-448 P274_Doro1_scaffold160, whole genome shotgun sequence
+gi|662080452|gb|KL586776.1| -         Cobalamin            RF00174    cm        1      191    22730    22908      +    no    1 0.66   0.7  103.4   4.9e-27 !   Streptomyces sp. NRRL S-448 P274_Doro1_scaffold285, whole genome shotgun sequence
+gi|662081473|gb|KL586588.1| -         Cobalamin            RF00174    cm        1      191    19520    19291      -    no    1 0.70  12.0  102.4   9.9e-27 !   Streptomyces sp. NRRL S-448 P274_Doro1_scaffold92, whole genome shotgun sequence
+gi|662081756|gb|KL586539.1| -         Cobalamin            RF00174    cm        1      191     9179     9308      +    no    1 0.64   0.0   47.7   1.4e-10 !   Streptomyces sp. NRRL S-448 P274_Doro1_scaffold43, whole genome shotgun sequence
+gi|662081537|gb|KL586577.1| -         Cobalamin            RF00174    cm       45      170    14126    14041      -    no    1 0.72   0.3   45.7   5.7e-10 !   Streptomyces sp. NRRL S-448 P274_Doro1_scaffold81, whole genome shotgun sequence
+gi|662081879|gb|KL586520.1| -         Cobalamin            RF00174    cm       46      170    38824    38904      +    no    1 0.75   2.5   42.7   4.3e-09 !   Streptomyces sp. NRRL S-448 P274_Doro1_scaffold24, whole genome shotgun sequence
+gi|662081356|gb|KL586608.1| -         Cobalamin            RF00174    cm       46      170    66955    66872      -    no    1 0.71   0.1   41.6   9.2e-09 !   Streptomyces sp. NRRL S-448 P274_Doro1_scaffold113, whole genome shotgun sequence
+gi|662081902|gb|KL586516.1| -         Glycine              RF00504    cm        1       94    71563    71666      +    no    1 0.68   0.1   67.2   2.5e-13 !   Streptomyces sp. NRRL S-448 P274_Doro1_scaffold20, whole genome shotgun sequence
+gi|662081001|gb|KL586671.1| -         Glycine              RF00504    cm        1       94     7295     7393      +    no    1 0.63   0.0   66.5     4e-13 !   Streptomyces sp. NRRL S-448 P274_Doro1_scaffold177, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Streptomyces_sp._NRRL_S-448/1161328-DENOVO-20150124-1127.1447564/output/bacterial_annot/JOCZ01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Streptomyces_sp._NRRL_S-448.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Streptomyces_sp._NRRL_S-448/1161328-DENOVO-20150124-1127.1447564/output/bacterial_annot/JOCZ01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:34 2015
+# [ok]

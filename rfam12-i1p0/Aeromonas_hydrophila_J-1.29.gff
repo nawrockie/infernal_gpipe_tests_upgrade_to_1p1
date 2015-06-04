@@ -1,0 +1,17 @@
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	425218	425604	304.34	+	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=1.64e-97
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	3560690	3560847	108.35	-	.	gb_key=FMN;rfam_acc=RF00050;evalue=3.75e-26
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	1033595	1033710	84.95	+	.	gb_key=S15;rfam_acc=RF00114;evalue=6.01e-23
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	81319	81496	113.12	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=5.23e-31
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	3602833	3602943	65.02	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=2.75e-13
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	3602944	3603028	36.50	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=9.79e-06
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	4477545	4477630	82.99	+	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=1.97e-18
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	4380732	4380817	74.98	+	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=2.54e-16
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	885529	885614	57.54	+	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=9.92e-12
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	3927767	3927854	78.94	-	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=2.30e-17
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	633349	633425	70.63	+	.	gb_key=isrK;rfam_acc=RF01394;evalue=4.32e-17
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	1682015	1682091	62.77	+	.	gb_key=isrK;rfam_acc=RF01394;evalue=8.04e-15
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	4000060	4000139	70.11	-	.	gb_key=isrK;rfam_acc=RF01394;evalue=6.10e-17
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	1543537	1543901	80.08	+	.	gb_key=cspA;rfam_acc=RF01766;evalue=1.37e-23
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	359096	359540	150.50	-	.	gb_key=cspA;rfam_acc=RF01766;evalue=8.96e-47
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	3787489	3787623	68.75	+	.	gb_key=Phe_leader;rfam_acc=RF01859;evalue=6.09e-15
+gi|748231934|gb|CP006883.1|	cmsearch-1.0	rna	3365610	3365679	67.18	-	.	gb_key=Hammerhead_II;rfam_acc=RF02276;evalue=1.35e-14

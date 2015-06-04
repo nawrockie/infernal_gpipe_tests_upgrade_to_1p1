@@ -1,0 +1,52 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|332341332|gb|CP002729.1| -         RNaseP_bact_a        RF00010    cm        1      367  3756938  3756562      -    no    1 0.62  17.8  292.4   1.3e-99 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         FMN                  RF00050    cm        1      139  3672297  3672149      -    no    1 0.58   1.1  123.4   4.6e-31 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         QUAD                 RF00113    cm        1      147  2504446  2504594      +    no    1 0.46   0.1  151.0   4.6e-34 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         QUAD                 RF00113    cm        1      147  3681141  3680993      -    no    1 0.42   0.3  140.9   1.4e-31 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         QUAD                 RF00113    cm        1      147  3681516  3681367      -    no    1 0.41   0.5  139.0   4.2e-31 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         QUAD                 RF00113    cm        1      147  2504781  2504923      +    no    1 0.48   0.1  136.1   2.2e-30 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         QUAD                 RF00113    cm        1      147  3490336  3490486      +    no    1 0.41   0.4  132.6   1.6e-29 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         S15                  RF00114    cm        1      116  3800393  3800279      -    no    1 0.40   0.9  106.4   6.2e-27 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         Cobalamin            RF00174    cm        1      190  4681840  4682030      +    no    1 0.54   0.1   86.1   1.8e-21 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         DnaX                 RF00382    cm        1       65   529357   529421      +    no    1 0.62   4.6   87.4   1.8e-20 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         RtT                  RF00391    cm        1      131  1494634  1494503      -    no    1 0.57   1.4  134.1   2.6e-29 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         RtT                  RF00391    cm        1      131  1494337  1494206      -    no    1 0.62   4.2  133.8   3.2e-29 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         RtT                  RF00391    cm        1      131  1493980  1493849      -    no    1 0.62   4.5  129.8   3.1e-28 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         RtT                  RF00391    cm        1      131  1494158  1494027      -    no    1 0.62   4.5  129.8   3.1e-28 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         RtT                  RF00391    cm        1      131   806458   806601      +    no    1 0.53   0.3   44.0   3.6e-07 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         RtT                  RF00391    cm        1      131  2901345  2901470      +    no    1 0.60   2.1   44.0   3.7e-07 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         RtT                  RF00391    cm        1      131   807174   807317      +    no    1 0.51   0.1   37.4   1.5e-05 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         RtT                  RF00391    cm        1      131   988418   988283      -    no    1 0.66   9.6   37.0   1.9e-05 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         L20_leader           RF00558    cm        1      127  4129095  4129193      +    no    1 0.46   0.8   31.3   5.2e-05 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         isrK                 RF01394    cm        1       77  3009543  3009619      +    no    1 0.53   0.1   61.0     2e-12 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         isrK                 RF01394    cm        1       77  1035962  1035888      -    no    1 0.59   0.2   58.5     9e-12 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         isrK                 RF01394    cm        1       77  4308642  4308718      +    no    1 0.57   0.1   57.2   1.9e-11 !   Escherichia coli UMNK88, complete genome
+gi|332346539|gb|CP002731.1| -         isrK                 RF01394    cm        1       77    90435    90350      -    no    1 0.50   0.1   30.5   0.00016 !   Escherichia coli UMNK88 plasmid pUMNK88_91, complete sequence
+gi|332341332|gb|CP002729.1| -         isrK                 RF01394    cm        1       77  1379947  1380019      +    no    1 0.42   0.1   23.9    0.0083 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         isrK                 RF01394    cm        1       77  3927022  3926971      -    no    1 0.50   0.1   22.5      0.02 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         ALIL                 RF01497    cm        1      117  2833026  2832910      -    no    1 0.56   0.2  111.0   5.3e-29 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         ALIL                 RF01497    cm        1      117  4928660  4928544      -    no    1 0.56   0.2  111.0   5.3e-29 !   Escherichia coli UMNK88, complete genome
+gi|332346539|gb|CP002731.1| -         ALIL                 RF01497    cm        1      117    69769    69653      -    no    1 0.56   0.2  111.0   5.3e-29 !   Escherichia coli UMNK88 plasmid pUMNK88_91, complete sequence
+gi|332341332|gb|CP002729.1| -         ALIL                 RF01497    cm        1      117  1019197  1019080      -    no    1 0.56   0.2  105.6     2e-27 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         ALIL                 RF01497    cm        1      117  3571253  3571369      +    no    1 0.56   0.1  103.9   5.9e-27 !   Escherichia coli UMNK88, complete genome
+gi|332346451|gb|CP002730.1| -         ALIL                 RF01497    cm        1      117    17309    17193      -    no    1 0.63   2.1   82.7   8.2e-21 !   Escherichia coli UMNK88 plasmid pUMNK88_K88, complete sequence
+gi|332341332|gb|CP002729.1| -         cspA                 RF01766    cm        1      428  4209835  4210262      +    no    1 0.45   0.6  483.3  3.8e-158 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         cspA                 RF01766    cm        1      428  1150554  1150970      +    no    1 0.42   2.7  151.3   1.5e-47 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         cspA                 RF01766    cm        1      428  1933058  1932634      -    no    1 0.37  18.4  139.9     9e-44 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         cspA                 RF01766    cm        1      428  2213365  2212940      -    no    1 0.44   1.6  129.5   2.8e-40 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         cspA                 RF01766    cm        1      428   682154   682526      +    no    1 0.41   4.4  117.4   2.8e-36 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         cspA                 RF01766    cm        1      428  1930155  1929770      -    no    1 0.36  19.9   90.8   2.1e-27 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         ROSE_2               RF01832    cm        1       73  4370411  4370339      -    no    1 0.45   0.4   92.9   4.3e-24 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         Phe_leader           RF01859    cm        1      126  3149584  3149709      +    no    1 0.45   0.1  134.0   8.2e-32 !   Escherichia coli UMNK88, complete genome
+gi|332341332|gb|CP002729.1| -         Phe_leader           RF01859    cm        1      126  2103452  2103328      -    no    1 0.46   0.1   75.9   1.7e-16 !   Escherichia coli UMNK88, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Escherichia_coli_UMNK88/516798-DENOVO-20150227-1757.1481944/output/bacterial_annot/ASM21271v2.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Escherichia_coli_UMNK88.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Escherichia_coli_UMNK88/516798-DENOVO-20150227-1757.1481944/output/bacterial_annot/ASM21271v2.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:04 2015
+# [ok]

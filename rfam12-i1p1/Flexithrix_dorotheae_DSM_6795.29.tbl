@@ -1,0 +1,17 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|482581665|gb|KB903431.1| -         RNaseP_bact_a        RF00010    cm        1      367   542819   543212      +    no    1 0.40   1.7  250.4   1.9e-80 !   Flexithrix dorotheae DSM 6795 A3EMDRAFT_scaffold_1.2, whole genome shotgun sequence
+gi|482581665|gb|KB903431.1| -         SAM                  RF00162    cm        1      108   345462   345341      -    no    1 0.41   0.0   79.7   1.6e-16 !   Flexithrix dorotheae DSM 6795 A3EMDRAFT_scaffold_1.2, whole genome shotgun sequence
+gi|482581653|gb|KB903443.1| -         SAM                  RF00162    cm        1      108   431479   431586      +    no    1 0.39   0.0   71.3   2.7e-14 !   Flexithrix dorotheae DSM 6795 A3EMDRAFT_scaffold_2.3, whole genome shotgun sequence
+gi|482581598|gb|KB903498.1| -         Cobalamin            RF00174    cm        1      191   139982   139795      -    no    1 0.41   0.0  101.3     2e-26 !   Flexithrix dorotheae DSM 6795 A3EMDRAFT_scaffold_7.8, whole genome shotgun sequence
+gi|482581653|gb|KB903443.1| -         Cobalamin            RF00174    cm        1      191   319816   320046      +    no    1 0.45   0.0   88.8     1e-22 !   Flexithrix dorotheae DSM 6795 A3EMDRAFT_scaffold_2.3, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Flexithrix_dorotheae_DSM_6795/602918-DENOVO-20150227-1757.1482664/output/bacterial_annot/ARBP01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Flexithrix_dorotheae_DSM_6795.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Flexithrix_dorotheae_DSM_6795/602918-DENOVO-20150227-1757.1482664/output/bacterial_annot/ARBP01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:11:31 2015
+# [ok]

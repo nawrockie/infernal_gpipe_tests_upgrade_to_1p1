@@ -1,0 +1,2 @@
+gi|525460620|gb|APHI01000001.2|	cmsearch-1.0	rna	215009	215346	258.95	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=1.73e-88
+gi|525460620|gb|APHI01000001.2|	cmsearch-1.0	rna	215012	215347	60.79	-	.	gb_key=RNaseP_arch;rfam_acc=RF00373;evalue=1.73e-18

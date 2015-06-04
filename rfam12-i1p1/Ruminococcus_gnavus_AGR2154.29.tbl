@@ -1,0 +1,28 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|573973165|gb|JAGQ01000002.1| -         RNaseP_bact_a        RF00010    cm        1      367   172692   172341      -    no    1 0.52   0.0  299.4   3.4e-97 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000027_quiver.2_C, whole genome shotgun sequence
+gi|573973165|gb|JAGQ01000002.1| -         FMN                  RF00050    cm        1      140  1271269  1271124      -    no    1 0.48   0.0   99.8   1.3e-23 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000027_quiver.2_C, whole genome shotgun sequence
+gi|573973158|gb|JAGQ01000004.1| -         SAM                  RF00162    cm        1      108   151739   151643      -    no    1 0.53   0.0   67.2   1.3e-13 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000028_quiver.4_C, whole genome shotgun sequence
+gi|573973165|gb|JAGQ01000002.1| -         Purine               RF00167    cm        1      102   208180   208275      +    no    1 0.36   0.0   58.1   1.7e-09 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000027_quiver.2_C, whole genome shotgun sequence
+gi|573973165|gb|JAGQ01000002.1| -         Purine               RF00167    cm        1      102   771586   771490      -    no    1 0.43   0.0   55.6   6.5e-09 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000027_quiver.2_C, whole genome shotgun sequence
+gi|573973158|gb|JAGQ01000004.1| -         Cobalamin            RF00174    cm        1      191  1552163  1552350      +    no    1 0.46   0.0   86.2   2.3e-22 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000028_quiver.4_C, whole genome shotgun sequence
+gi|573973165|gb|JAGQ01000002.1| -         Cobalamin            RF00174    cm        1      191   116773   116597      -    no    1 0.44   0.0   75.9   2.4e-19 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000027_quiver.2_C, whole genome shotgun sequence
+gi|573973158|gb|JAGQ01000004.1| -         T-box                RF00230    cm        1      224  1606989  1607222      +    no    1 0.46   0.0  129.6   1.8e-30 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000028_quiver.4_C, whole genome shotgun sequence
+gi|573973165|gb|JAGQ01000002.1| -         T-box                RF00230    cm        1      224  1056811  1056594      -    no    1 0.46   0.0  113.9     2e-26 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000027_quiver.2_C, whole genome shotgun sequence
+gi|573973158|gb|JAGQ01000004.1| -         T-box                RF00230    cm        1      224  1541340  1541570      +    no    1 0.45   0.0  110.0   2.1e-25 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000028_quiver.4_C, whole genome shotgun sequence
+gi|573973158|gb|JAGQ01000004.1| -         T-box                RF00230    cm        1      224  1027317  1027525      +    no    1 0.49   0.0  102.7   1.6e-23 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000028_quiver.4_C, whole genome shotgun sequence
+gi|573973165|gb|JAGQ01000002.1| -         T-box                RF00230    cm        1      224   342045   341817      -    no    1 0.48   0.0  102.2   2.1e-23 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000027_quiver.2_C, whole genome shotgun sequence
+gi|573973165|gb|JAGQ01000002.1| -         T-box                RF00230    cm        1      224   319422   319215      -    no    1 0.49   0.0   98.3   2.1e-22 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000027_quiver.2_C, whole genome shotgun sequence
+gi|573973158|gb|JAGQ01000004.1| -         T-box                RF00230    cm        1      224   206144   205900      -    no    1 0.44   0.0   94.0   2.7e-21 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000028_quiver.4_C, whole genome shotgun sequence
+gi|573973158|gb|JAGQ01000004.1| -         Glycine              RF00504    cm        1       94  1605392  1605506      +    no    1 0.45   0.0   57.5   3.5e-11 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000028_quiver.4_C, whole genome shotgun sequence
+gi|573973158|gb|JAGQ01000004.1| -         L10_leader           RF00557    cm        1      139  1000075  1000211      +    no    1 0.43   0.0   86.9   1.4e-13 !   Ruminococcus gnavus AGR2154 N769DRAFT_scf7180000000028_quiver.4_C, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Ruminococcus_gnavus_AGR2154/900478-DENOVO-20150227-1937.1486684/output/bacterial_annot/JAGQ01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Ruminococcus_gnavus_AGR2154.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Ruminococcus_gnavus_AGR2154/900478-DENOVO-20150227-1937.1486684/output/bacterial_annot/JAGQ01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:06 2015
+# [ok]

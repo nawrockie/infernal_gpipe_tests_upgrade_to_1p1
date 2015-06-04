@@ -1,0 +1,13 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|374651413|gb|AHQV01000078.1| -         5S_rRNA              RF00001    cm        1      119     6492     6376      -    no    1 0.57   0.0   86.5   2.4e-18 !   Leptospira interrogans serovar Bataviae str. UT234 contig_78, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./RF00001.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Leptospira_interrogans_serovar_Bataviae_str._UT234/431338-DENOVO-20150207-1527.1456444/output/bacterial_annot/AHQV01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Leptospira_interrogans_serovar_Bataviae_str._UT234.5S.tbl -T 40 --rfam --cpu 0 --nohmmonly ./RF00001.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Leptospira_interrogans_serovar_Bataviae_str._UT234/431338-DENOVO-20150207-1527.1456444/output/bacterial_annot/AHQV01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:46 2015
+# [ok]

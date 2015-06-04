@@ -1,0 +1,43 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Streptomyces_sp._NBRC_110035.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Streptomyces_sp._NBRC_110035/1506308-DENOVO-20150208-1207.1467274/output/bacterial_annot/BBNN01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:14 2015
+# num seqs:   89
+# dbsize(Mb): 15.017868
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     752.462     7.68   0.0082  00:02:02.55
+#   2   cm  cyk  loc  1e-07      36.603     8.41   0.0004  00:00:31.50
+#   3   cm  ins  loc  1e-15     2.6e-06    40.00  1.9e-11  00:00:05.65
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:02:39.72
+#
+#
+# CM: 5S_rRNA
+#                                             target coord   query coord                         
+#                                   ----------------------  ------------                         
+# target name                            start        stop  start   stop    bit sc   E-value  GC%
+# --------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|743399948|dbj|BBNN01000022.1|      241299      241183      1    119     97.93  3.32e-21   62
+  gi|743399937|dbj|BBNN01000033.1|      152632      152516      1    119     94.35  2.78e-20   62
+  gi|743399936|dbj|BBNN01000034.1|         488         604      1    119     93.98  3.46e-20   62
+  gi|743399929|dbj|BBNN01000041.1|         414         530      1    119     94.35  2.78e-20   62
+  gi|743399922|dbj|BBNN01000048.1|         576         692      1    119     94.35  2.78e-20   62
+  gi|743399919|dbj|BBNN01000051.1|       42633       42517      1    119     94.35  2.78e-20   62
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     752.462       28    0.0082   0.0003
+#   2   cm  cyk  loc  1e-07      36.603        6    0.0004  6.4e-05
+#   3   cm  ins  loc  1e-15     2.6e-06        6   1.9e-11  4.7e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:02:39.72    00:02:12.00

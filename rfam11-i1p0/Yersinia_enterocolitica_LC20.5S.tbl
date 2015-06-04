@@ -1,0 +1,44 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Yersinia_enterocolitica_LC20.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Yersinia_enterocolitica_LC20/972558-DENOVO-20150227-1937.1487204/output/bacterial_annot/ASM59794v1.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:17 2015
+# num seqs:   3
+# dbsize(Mb): 9.800028
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     491.025     7.68   0.0082  00:02:07.95
+#   2   cm  cyk  loc  1e-07      23.886     8.41   0.0004  00:00:22.84
+#   3   cm  ins  loc  1e-15     1.7e-06    40.00  1.9e-11  00:00:04.38
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:02:35.18
+#
+#
+# CM: 5S_rRNA
+#                                        target coord   query coord                         
+#                              ----------------------  ------------                         
+# target name                       start        stop  start   stop    bit sc   E-value  GC%
+# ---------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|595639001|gb|CP007448.1|      392543      392658      1    119     92.75  4.66e-20   63
+  gi|595639001|gb|CP007448.1|     1106071     1106186      1    119     92.21  6.43e-20   64
+  gi|595639001|gb|CP007448.1|     3706288     3706173      1    119     92.21  6.43e-20   64
+  gi|595639001|gb|CP007448.1|     4368368     4368253      1    119     92.21  6.43e-20   64
+  gi|595639001|gb|CP007448.1|     4407062     4406947      1    119     92.21  6.43e-20   64
+  gi|595639001|gb|CP007448.1|     4565862     4565747      1    119     92.21  6.43e-20   64
+  gi|595639001|gb|CP007448.1|     4710317     4710202      1    119     92.21  6.43e-20   64
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     491.025      593    0.0082   0.0104
+#   2   cm  cyk  loc  1e-07      23.886       10    0.0004   0.0002
+#   3   cm  ins  loc  1e-15     1.7e-06        7   1.9e-11  8.3e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:02:35.18    00:01:47.00

@@ -1,0 +1,16 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|332330813|gb|CP002691.1| -         RNaseP_bact_a        RF00010    cm        1      367  6052140  6052551      +    no    1 0.52   0.1  211.6   1.6e-67 !   Haliscomenobacter hydrossis DSM 1100, complete genome
+gi|332330813|gb|CP002691.1| -         SAM                  RF00162    cm        1      108  7079696  7079516      -    no    1 0.38   0.0   63.2   3.5e-12 !   Haliscomenobacter hydrossis DSM 1100, complete genome
+gi|332330813|gb|CP002691.1| -         Cobalamin            RF00174    cm        1      191  2317470  2317697      +    no    1 0.52   0.0   99.1   7.9e-26 !   Haliscomenobacter hydrossis DSM 1100, complete genome
+gi|332330813|gb|CP002691.1| -         Cobalamin            RF00174    cm        1      191  2174213  2174436      +    no    1 0.41   0.0   93.1   4.9e-24 !   Haliscomenobacter hydrossis DSM 1100, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Haliscomenobacter_hydrossis_DSM_1100/280678-DENOVO-20150207-1427.1454544/output/bacterial_annot/ASM21273v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Haliscomenobacter_hydrossis_DSM_1100.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Haliscomenobacter_hydrossis_DSM_1100/280678-DENOVO-20150207-1427.1454544/output/bacterial_annot/ASM21273v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:39 2015
+# [ok]

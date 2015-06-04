@@ -1,0 +1,11 @@
+gi|537462707|gb|AKYU01000236.1|	cmsearch-1.0	rna	1311	1739	280.54	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=9.18e-90
+gi|537458928|gb|AKYU01000404.1|	cmsearch-1.0	rna	2226	2444	86.60	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=3.92e-23
+gi|537455645|gb|AKYU01000870.1|	cmsearch-1.0	rna	71	268	84.56	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=1.61e-22
+gi|537459353|gb|AKYU01000318.1|	cmsearch-1.0	rna	2440	2526	52.19	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=5.67e-10
+gi|537459353|gb|AKYU01000318.1|	cmsearch-1.0	rna	2327	2439	32.84	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=7.55e-05
+gi|537455817|gb|AKYU01000790.1|	cmsearch-1.0	rna	12923	13016	54.73	+	.	gb_key=Glycine;rfam_acc=RF00504;evalue=1.21e-10
+gi|537455817|gb|AKYU01000790.1|	cmsearch-1.0	rna	13019	13154	43.55	+	.	gb_key=Glycine;rfam_acc=RF00504;evalue=1.10e-07
+gi|537464041|gb|AKYU01000022.1|	cmsearch-1.0	rna	178	246	57.90	+	.	gb_key=ASpks;rfam_acc=RF01782;evalue=1.80e-10
+gi|537464024|gb|AKYU01000025.1|	cmsearch-1.0	rna	28	99	65.80	+	.	gb_key=ASpks;rfam_acc=RF01782;evalue=2.22e-12
+gi|537462994|gb|AKYU01000166.1|	cmsearch-1.0	rna	467	541	81.75	+	.	gb_key=ASpks;rfam_acc=RF01782;evalue=3.07e-16
+gi|537462889|gb|AKYU01000184.1|	cmsearch-1.0	rna	600	677	71.08	+	.	gb_key=ASpks;rfam_acc=RF01782;evalue=1.17e-13

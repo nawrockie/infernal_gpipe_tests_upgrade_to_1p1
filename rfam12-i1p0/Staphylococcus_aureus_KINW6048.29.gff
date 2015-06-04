@@ -1,0 +1,13 @@
+gi|581982566|gb|KI979284.1|	cmsearch-1.0	rna	212772	212906	121.40	-	.	gb_key=FMN;rfam_acc=RF00050;evalue=6.31e-30
+gi|581982530|gb|KI979320.1|	cmsearch-1.0	rna	139011	139146	122.37	-	.	gb_key=FMN;rfam_acc=RF00050;evalue=3.43e-30
+gi|581982553|gb|KI979297.1|	cmsearch-1.0	rna	15966	16064	74.14	+	.	gb_key=SAM;rfam_acc=RF00162;evalue=2.76e-17
+gi|581982532|gb|KI979318.1|	cmsearch-1.0	rna	148777	148872	78.13	-	.	gb_key=SAM;rfam_acc=RF00162;evalue=2.04e-18
+gi|581982530|gb|KI979320.1|	cmsearch-1.0	rna	155789	155899	75.54	-	.	gb_key=SAM;rfam_acc=RF00162;evalue=1.11e-17
+gi|581982528|gb|KI979322.1|	cmsearch-1.0	rna	44436	44539	82.56	+	.	gb_key=SAM;rfam_acc=RF00162;evalue=1.14e-19
+gi|581982544|gb|KI979306.1|	cmsearch-1.0	rna	161360	161462	72.73	+	.	gb_key=Purine;rfam_acc=RF00167;evalue=8.77e-16
+gi|581982544|gb|KI979306.1|	cmsearch-1.0	rna	139819	140019	109.91	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=8.25e-31
+gi|581982530|gb|KI979320.1|	cmsearch-1.0	rna	5565	5866	131.95	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=1.70e-37
+gi|581982566|gb|KI979284.1|	cmsearch-1.0	rna	264017	264114	66.85	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=5.46e-14
+gi|581982561|gb|KI979289.1|	cmsearch-1.0	rna	25569	25715	76.05	+	.	gb_key=L10_leader;rfam_acc=RF00557;evalue=4.53e-16
+gi|581982530|gb|KI979320.1|	cmsearch-1.0	rna	20852	20977	82.79	-	.	gb_key=L20_leader;rfam_acc=RF00558;evalue=3.94e-22
+gi|581982556|gb|KI979294.1|	cmsearch-1.0	rna	46821	46948	64.69	-	.	gb_key=L21_leader;rfam_acc=RF00559;evalue=8.71e-13

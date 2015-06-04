@@ -1,0 +1,9 @@
+gi|306869252|gb|ADOL01000014.1|	cmsearch-1.0	rna	19486	19872	307.84	+	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=1.98e-105
+gi|306869383|gb|ADOL01000010.1|	cmsearch-1.0	rna	53146	53271	125.54	+	.	gb_key=FMN;rfam_acc=RF00050;evalue=4.58e-32
+gi|306868764|gb|ADOL01000027.1|	cmsearch-1.0	rna	11131	11254	93.11	+	.	gb_key=S15;rfam_acc=RF00114;evalue=1.43e-23
+gi|306868663|gb|ADOL01000028.1|	cmsearch-1.0	rna	75576	75668	52.35	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=2.68e-10
+gi|306868663|gb|ADOL01000028.1|	cmsearch-1.0	rna	75671	75757	37.88	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=1.84e-06
+gi|306869637|gb|ADOL01000004.1|	cmsearch-1.0	rna	20185	20270	25.43	+	.	gb_key=L21_leader;rfam_acc=RF00559;evalue=3.28e-03
+gi|306868901|gb|ADOL01000021.1|	cmsearch-1.0	rna	61571	61660	39.42	-	.	gb_key=isrK;rfam_acc=RF01394;evalue=3.09e-07
+gi|306867781|gb|ADOL01000051.1|	cmsearch-1.0	rna	68619	68693	27.80	+	.	gb_key=isrK;rfam_acc=RF01394;evalue=3.22e-04
+gi|306869637|gb|ADOL01000004.1|	cmsearch-1.0	rna	16042	16449	45.10	-	.	gb_key=cspA;rfam_acc=RF01766;evalue=1.36e-12

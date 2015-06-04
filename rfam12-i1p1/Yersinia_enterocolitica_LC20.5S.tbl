@@ -1,0 +1,19 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|595639001|gb|CP007448.1| -         5S_rRNA              RF00001    cm        1      119  1106071  1106186      +    no    1 0.64   0.0   81.9   3.7e-17 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         5S_rRNA              RF00001    cm        1      119  3706288  3706173      -    no    1 0.64   0.0   81.9   3.7e-17 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         5S_rRNA              RF00001    cm        1      119  4368368  4368253      -    no    1 0.64   0.0   81.9   3.7e-17 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         5S_rRNA              RF00001    cm        1      119  4407062  4406947      -    no    1 0.64   0.0   81.9   3.7e-17 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         5S_rRNA              RF00001    cm        1      119  4565862  4565747      -    no    1 0.64   0.0   81.9   3.7e-17 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         5S_rRNA              RF00001    cm        1      119  4710317  4710202      -    no    1 0.64   0.0   81.9   3.7e-17 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         5S_rRNA              RF00001    cm        1      119   392543   392658      +    no    1 0.63   0.0   81.1   6.2e-17 !   Yersinia enterocolitica LC20, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./RF00001.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Yersinia_enterocolitica_LC20/972558-DENOVO-20150227-1937.1487204/output/bacterial_annot/ASM59794v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Yersinia_enterocolitica_LC20.5S.tbl -T 40 --rfam --cpu 0 --nohmmonly ./RF00001.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Yersinia_enterocolitica_LC20/972558-DENOVO-20150227-1937.1487204/output/bacterial_annot/ASM59794v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:38 2015
+# [ok]

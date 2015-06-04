@@ -1,0 +1,38 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Anaplasma_phagocytophilum_str._CRT38.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Anaplasma_phagocytophilum_str._CRT38/820948-DENOVO-20150227-1847.1485474/output/bacterial_annot/APHI01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:18 2015
+# num seqs:   2
+# dbsize(Mb): 3.013090
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     150.969     7.68   0.0082  00:00:27.04
+#   2   cm  cyk  loc  1e-07       7.344     8.41   0.0004  00:00:04.21
+#   3   cm  ins  loc  1e-15     5.2e-07    40.00  1.9e-11  00:00:01.20
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:32.46
+#
+#
+# CM: 5S_rRNA
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|525460620|gb|APHI01000001.2|       92366       92480      1    119     84.15  2.33e-18   56
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     150.969       86    0.0082   0.0049
+#   2   cm  cyk  loc  1e-07       7.344        2    0.0004   0.0001
+#   3   cm  ins  loc  1e-15     5.2e-07        1   1.9e-11  3.8e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:32.46    00:00:29.00

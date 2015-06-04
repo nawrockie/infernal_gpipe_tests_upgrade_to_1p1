@@ -1,0 +1,16 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|384407448|gb|AJKI01000015.1| -         RNaseP_bact_a        RF00010    cm        1      367   110656   110290      -    no    1 0.55   0.0  228.2   2.6e-73 !   Marinilabilia salmonicolor JCM 21150 Contig15, whole genome shotgun sequence
+gi|384407432|gb|AJKI01000031.1| -         Cobalamin            RF00174    cm        1      191   230336   230087      -    no    1 0.42   0.0  107.0   2.2e-28 !   Marinilabilia salmonicolor JCM 21150 Contig31, whole genome shotgun sequence
+gi|384407428|gb|AJKI01000035.1| -         Cobalamin            RF00174    cm        1      191    23518    23274      -    no    1 0.39   0.0  101.6   8.3e-27 !   Marinilabilia salmonicolor JCM 21150 Contig35, whole genome shotgun sequence
+gi|384407442|gb|AJKI01000021.1| -         Cobalamin            RF00174    cm        1      191    82286    82004      -    no    1 0.38   0.1   98.3     8e-26 !   Marinilabilia salmonicolor JCM 21150 Contig21, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Marinilabilia_salmonicolor_JCM_21150/371318-DENOVO-20150227-1712.1480154/output/bacterial_annot/AJKI01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Marinilabilia_salmonicolor_JCM_21150.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Marinilabilia_salmonicolor_JCM_21150/371318-DENOVO-20150227-1712.1480154/output/bacterial_annot/AJKI01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:35 2015
+# [ok]

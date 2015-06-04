@@ -1,0 +1,975 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch --ga --tabfile rfam12-i1p0/Clostridium_perfringens_CPE_str._F4969.29.tbl ./GPIPE.29.rfam12.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Clostridium_perfringens_CPE_str._F4969/210718-DENOVO-20150207-1327.1453664/output/bacterial_annot/ABDX01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:29 2015
+# num seqs:   74
+# dbsize(Mb): 7.020544
+#
+# Pre-search info for CM 1: RNaseP_bact_a
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -       0.825    13.57   0.0001  00:02:21.36
+#   2   cm  cyk  loc  1e-07       0.262    11.64  4.0e-05  00:00:02.10
+#   3   cm  ins  loc  1e-15     2.0e-30   100.00  1.1e-34  00:00:07.17
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:02:30.64
+#
+#
+# CM: RNaseP_bact_a
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|151558568|gb|ABDX01000003.1|      187609      187955      1    367    316.48  1.16e-101   49
+#
+# Post-search info for CM 1: RNaseP_bact_a
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -       0.825        1    0.0001   0.0002
+#   2   cm  cyk  loc  1e-07       0.262        1   4.0e-05   0.0002
+#   3   cm  ins  loc  1e-15     2.0e-30        1   1.1e-34  4.9e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:02:30.64    00:03:06.00
+#
+# Pre-search info for CM 2: FMN
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -       6.256    11.20   0.0004  00:01:00.66
+#   2   cm  cyk  loc  1e-07       2.000    10.79   0.0001  00:00:00.91
+#   3   cm  ins  loc  1e-15     6.0e-17    74.00  1.1e-21  00:00:02.53
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:04.11
+#
+#
+# CM: FMN
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|151558562|gb|ABDX01000009.1|      107577      107694      1    140    116.53  1.55e-28   51
+  gi|151558549|gb|ABDX01000022.1|       35404       35289      1    140    121.98  5.10e-30   48
+#
+# Post-search info for CM 2: FMN
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -       6.256        2    0.0004   0.0001
+#   2   cm  cyk  loc  1e-07       2.000        2    0.0001   0.0001
+#   3   cm  ins  loc  1e-15     6.0e-17        2   1.1e-21  3.3e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:04.11    00:01:11.00
+#
+# Pre-search info for CM 3: snoPyro_CD
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      80.469     9.72   0.0012  00:00:36.29
+#   2   cm  cyk  loc  1e-07      25.621     9.06   0.0004  00:00:00.57
+#   3   cm  ins  loc  1e-15     1.3e-06    38.00  9.9e-12  00:00:00.97
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:37.84
+#
+#
+# CM: snoPyro_CD
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 3: snoPyro_CD
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      80.469        1    0.0012  1.9e-05
+#   2   cm  cyk  loc  1e-07      25.621        1    0.0004  1.5e-05
+#   3   cm  ins  loc  1e-15     1.3e-06        0   9.9e-12  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:37.84    00:00:34.00
+#
+# Pre-search info for CM 4: SIB_RNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      25.601    11.42   0.0007  00:01:03.69
+#   2   cm  cyk  loc  1e-07       8.130     8.99   0.0002  00:00:00.78
+#   3   cm  ins  loc  1e-15     7.5e-12    56.00  1.5e-16  00:00:01.67
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:06.15
+#
+#
+# CM: SIB_RNA
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 4: SIB_RNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      25.601        0    0.0007  0.0e+00
+#   2   cm  cyk  loc  1e-07       8.130        0    0.0002  0.0e+00
+#   3   cm  ins  loc  1e-15     7.5e-12        0   1.5e-16  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:06.15    00:01:17.00
+#
+# Pre-search info for CM 5: S15
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      17.847    10.14   0.0006  00:00:45.06
+#   2   cm  cyk  loc  1e-07       5.672     9.40   0.0002  00:00:00.59
+#   3   cm  ins  loc  1e-15     1.2e-07    35.00  1.9e-12  00:00:01.44
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:47.09
+#
+#
+# CM: S15
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 5: S15
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      17.847        1    0.0006  3.2e-05
+#   2   cm  cyk  loc  1e-07       5.672        0    0.0002  0.0e+00
+#   3   cm  ins  loc  1e-15     1.2e-07        0   1.9e-12  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:47.09    00:00:49.00
+#
+# Pre-search info for CM 6: SAM
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      48.255    10.73   0.0030  00:00:41.59
+#   2   cm  cyk  loc  1e-07       2.417    11.19   0.0002  00:00:07.31
+#   3   cm  ins  loc  1e-15     1.1e-08    44.00  1.6e-13  00:00:03.68
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:52.58
+#
+#
+# CM: SAM
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|151558566|gb|ABDX01000005.1|       80307       80143      1    108     73.48  4.91e-17   39
+  gi|151558562|gb|ABDX01000009.1|       91704       91809      1    108     89.35  1.58e-21   46
+#
+# Post-search info for CM 6: SAM
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      48.255        3    0.0030   0.0002
+#   2   cm  cyk  loc  1e-07       2.417        2    0.0002   0.0001
+#   3   cm  ins  loc  1e-15     1.1e-08        2   1.6e-13  3.9e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:52.58    00:00:49.00
+#
+# Pre-search info for CM 7: Purine
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     427.185     7.78   0.0084  00:00:39.28
+#   2   cm  cyk  loc  1e-07      20.658    10.60   0.0004  00:00:06.68
+#   3   cm  ins  loc  1e-15     4.6e-06    37.00  6.3e-11  00:00:01.82
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:47.78
+#
+#
+# CM: Purine
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|151558569|gb|ABDX01000002.1|      149940      150041      1    102     77.84  4.25e-17   31
+  gi|151558569|gb|ABDX01000002.1|      247084      246983      1    102     74.25  3.96e-16   35
+  gi|151558566|gb|ABDX01000005.1|       30498       30401      1    102     67.97  1.96e-14   34
+  gi|151558564|gb|ABDX01000007.1|       35839       35740      1    102     75.81  1.50e-16   30
+#
+# Post-search info for CM 7: Purine
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     427.185       38    0.0084   0.0008
+#   2   cm  cyk  loc  1e-07      20.658        5    0.0004  9.7e-05
+#   3   cm  ins  loc  1e-15     4.6e-06        4   6.3e-11  5.7e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:47.78    00:00:48.00
+#
+# Pre-search info for CM 8: Cobalamin
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      15.140     9.06   0.0016  00:01:22.75
+#   2   cm  cyk  loc  1e-07       0.727    10.64  7.5e-05  00:00:15.55
+#   3   cm  ins  loc  1e-15     3.3e-06    30.00  9.0e-11  00:00:07.80
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:46.11
+#
+#
+# CM: Cobalamin
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|151558570|gb|ABDX01000001.1|       97551       97372      1    191    113.80  2.29e-31   38
+  gi|151558567|gb|ABDX01000004.1|      114276      114455      1    191    114.81  1.14e-31   34
+#
+# Post-search info for CM 8: Cobalamin
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      15.140        2    0.0016   0.0002
+#   2   cm  cyk  loc  1e-07       0.727        2   7.5e-05   0.0002
+#   3   cm  ins  loc  1e-15     3.3e-06        2   9.0e-11  5.1e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:46.11    00:02:00.00
+#
+# Pre-search info for CM 9: T-box
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -       0.677    16.02   0.0002  00:01:37.05
+#   2   cm  cyk  loc  1e-07       0.214    11.13  4.9e-05  00:00:01.25
+#   3   cm  ins  loc  1e-15     1.3e-25    93.00  4.2e-30  00:00:04.22
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:42.54
+#
+#
+# CM: T-box
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 9: T-box
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -       0.677        0    0.0002  0.0e+00
+#   2   cm  cyk  loc  1e-07       0.214        0   4.9e-05  0.0e+00
+#   3   cm  ins  loc  1e-15     1.3e-25        0   4.2e-30  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:42.54    00:01:34.00
+#
+# Pre-search info for CM 10: RNaseP_arch
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -       0.820    13.76   0.0001  00:01:56.71
+#   2   cm  cyk  loc  1e-07       0.262     8.44  4.0e-05  00:00:01.83
+#   3   cm  ins  loc  1e-15     2.3e-27    84.00  9.8e-32  00:00:05.67
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:02:04.22
+#
+#
+# CM: RNaseP_arch
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 10: RNaseP_arch
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -       0.820        0    0.0001  0.0e+00
+#   2   cm  cyk  loc  1e-07       0.262        0   4.0e-05  0.0e+00
+#   3   cm  ins  loc  1e-15     2.3e-27        0   9.8e-32  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:02:04.22    00:02:06.00
+#
+# Pre-search info for CM 11: DnaX
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      76.089     9.30   0.0011  00:00:25.03
+#   2   cm  cyk  loc  1e-07      24.393     7.68   0.0003  00:00:00.28
+#   3   cm  ins  loc  1e-15     1.5e-06    35.00  1.4e-11  00:00:00.76
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:26.08
+#
+#
+# CM: DnaX
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 11: DnaX
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      76.089        2    0.0011  3.4e-05
+#   2   cm  cyk  loc  1e-07      24.393        2    0.0003  3.2e-05
+#   3   cm  ins  loc  1e-15     1.5e-06        0   1.4e-11  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:26.08    00:00:28.00
+#
+# Pre-search info for CM 12: RtT
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      22.772    11.18   0.0007  00:00:56.32
+#   2   cm  cyk  loc  1e-07       7.236     9.74   0.0002  00:00:00.70
+#   3   cm  ins  loc  1e-15     3.4e-08    45.00  6.0e-13  00:00:01.57
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:58.60
+#
+#
+# CM: RtT
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 12: RtT
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      22.772        6    0.0007   0.0002
+#   2   cm  cyk  loc  1e-07       7.236        0    0.0002  0.0e+00
+#   3   cm  ins  loc  1e-15     3.4e-08        0   6.0e-13  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:58.60    00:00:55.00
+#
+# Pre-search info for CM 13: K_chan_RES
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      33.227    11.55   0.0007  00:00:43.90
+#   2   cm  cyk  loc  1e-07      10.557    10.68   0.0002  00:00:00.59
+#   3   cm  ins  loc  1e-15     4.0e-10    51.00  6.2e-15  00:00:01.29
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:45.79
+#
+#
+# CM: K_chan_RES
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 13: K_chan_RES
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      33.227        0    0.0007  0.0e+00
+#   2   cm  cyk  loc  1e-07      10.557        0    0.0002  0.0e+00
+#   3   cm  ins  loc  1e-15     4.0e-10        0   6.2e-15  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:45.79    00:00:49.00
+#
+# Pre-search info for CM 14: Glycine
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      38.833    10.71   0.0024  00:00:36.20
+#   2   cm  cyk  loc  1e-07       1.994    13.51   0.0001  00:00:06.36
+#   3   cm  ins  loc  1e-15     1.1e-04    32.00  1.5e-09  00:00:02.87
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:45.44
+#
+#
+# CM: Glycine
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|151558551|gb|ABDX01000020.1|        9810        9712      1     94     73.46  1.12e-15   43
+  gi|151558551|gb|ABDX01000020.1|        9884        9811      1     94     48.02  6.14e-09   38
+#
+# Post-search info for CM 14: Glycine
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      38.833        1    0.0024  6.1e-05
+#   2   cm  cyk  loc  1e-07       1.994        2    0.0001  7.5e-05
+#   3   cm  ins  loc  1e-15     1.1e-04        2   1.5e-09  2.5e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:45.44    00:00:40.00
+#
+# Pre-search info for CM 15: L10_leader
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -       2.676    15.83   0.0003  00:00:53.53
+#   2   cm  cyk  loc  1e-07       0.860    12.99  8.4e-05  00:00:00.96
+#   3   cm  ins  loc  1e-15     4.7e-08    44.00  9.4e-13  00:00:02.59
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:57.09
+#
+#
+# CM: L10_leader
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 15: L10_leader
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -       2.676        0    0.0003  0.0e+00
+#   2   cm  cyk  loc  1e-07       0.860        0   8.4e-05  0.0e+00
+#   3   cm  ins  loc  1e-15     4.7e-08        0   9.4e-13  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:57.09    00:01:09.00
+#
+# Pre-search info for CM 16: L20_leader
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      23.605     9.96   0.0008  00:00:55.02
+#   2   cm  cyk  loc  1e-07       7.528     8.84   0.0003  00:00:00.96
+#   3   cm  ins  loc  1e-15     4.8e-12    50.00  8.3e-17  00:00:01.72
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:57.71
+#
+#
+# CM: L20_leader
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|151558556|gb|ABDX01000015.1|       78070       78189      1    127     68.48  1.08e-17   33
+#
+# Post-search info for CM 16: L20_leader
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      23.605        1    0.0008  3.4e-05
+#   2   cm  cyk  loc  1e-07       7.528        1    0.0003  3.4e-05
+#   3   cm  ins  loc  1e-15     4.8e-12        1   8.3e-17  1.7e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:57.71    00:00:55.00
+#
+# Pre-search info for CM 17: L21_leader
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      36.739    11.29   0.0024  00:00:33.79
+#   2   cm  cyk  loc  1e-07       2.013    15.99   0.0001  00:00:05.46
+#   3   cm  ins  loc  1e-15     2.2e-05    36.00  2.6e-10  00:00:02.55
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:41.81
+#
+#
+# CM: L21_leader
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 17: L21_leader
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      36.739        0    0.0024  0.0e+00
+#   2   cm  cyk  loc  1e-07       2.013        0    0.0001  0.0e+00
+#   3   cm  ins  loc  1e-15     2.2e-05        0   2.6e-10  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:41.81    00:00:35.00
+#
+# Pre-search info for CM 18: c-di-GMP-I
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      71.577    10.06   0.0037  00:00:33.50
+#   2   cm  cyk  loc  1e-07       3.703    10.05   0.0002  00:00:05.77
+#   3   cm  ins  loc  1e-15     6.0e-06    35.00  7.3e-11  00:00:02.56
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:41.84
+#
+#
+# CM: c-di-GMP-I
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 18: c-di-GMP-I
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      71.577        8    0.0037   0.0004
+#   2   cm  cyk  loc  1e-07       3.703        0    0.0002  0.0e+00
+#   3   cm  ins  loc  1e-15     6.0e-06        0   7.3e-11  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:41.84    00:00:39.00
+#
+# Pre-search info for CM 19: isrK
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      48.964     9.88   0.0010  00:00:29.65
+#   2   cm  cyk  loc  1e-07      15.543     8.21   0.0003  00:00:00.58
+#   3   cm  ins  loc  1e-15     2.7e-11    50.00  2.9e-16  00:00:01.02
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:31.25
+#
+#
+# CM: isrK
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 19: isrK
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      48.964        9    0.0010   0.0002
+#   2   cm  cyk  loc  1e-07      15.543        1    0.0003  1.8e-05
+#   3   cm  ins  loc  1e-15     2.7e-11        0   2.9e-16  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:31.25    00:00:33.00
+#
+# Pre-search info for CM 20: STnc490k
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     357.578     8.24   0.0086  00:00:53.72
+#   2   cm  cyk  loc  1e-07      17.853     7.15   0.0004  00:00:08.17
+#   3   cm  ins  loc  1e-15     7.5e-12    56.00  1.2e-16  00:00:02.42
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:04.33
+#
+#
+# CM: STnc490k
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 20: STnc490k
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     357.578       11    0.0086   0.0003
+#   2   cm  cyk  loc  1e-07      17.853        2    0.0004  4.9e-05
+#   3   cm  ins  loc  1e-15     7.5e-12        0   1.2e-16  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:04.33    00:00:52.00
+#
+# Pre-search info for CM 21: ALIL
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      38.791     9.82   0.0009  00:00:50.69
+#   2   cm  cyk  loc  1e-07      12.366     7.83   0.0003  00:00:00.69
+#   3   cm  ins  loc  1e-15     3.1e-11    50.00  4.9e-16  00:00:01.36
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:52.75
+#
+#
+# CM: ALIL
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 21: ALIL
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      38.791        0    0.0009  0.0e+00
+#   2   cm  cyk  loc  1e-07      12.366        0    0.0003  0.0e+00
+#   3   cm  ins  loc  1e-15     3.1e-11        0   4.9e-16  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:52.75    00:00:50.00
+#
+# Pre-search info for CM 22: cspA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -       7.377     8.49   0.0006  00:03:05.45
+#   2   cm  cyk  loc  1e-07       2.335     8.49   0.0002  00:00:02.43
+#   3   cm  ins  loc  1e-15     4.6e-23    78.00  2.7e-27  00:00:05.65
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:03:13.54
+#
+#
+# CM: cspA
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 22: cspA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -       7.377        0    0.0006  0.0e+00
+#   2   cm  cyk  loc  1e-07       2.335        0    0.0002  0.0e+00
+#   3   cm  ins  loc  1e-15     4.6e-23        0   2.7e-27  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:03:13.54    00:05:04.00
+#
+# Pre-search info for CM 23: ASpks
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      62.941    10.31   0.0010  00:00:28.88
+#   2   cm  cyk  loc  1e-07      20.055     9.21   0.0003  00:00:00.45
+#   3   cm  ins  loc  1e-15     4.1e-09    52.00  4.2e-14  00:00:00.94
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:30.28
+#
+#
+# CM: ASpks
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 23: ASpks
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      62.941        0    0.0010  0.0e+00
+#   2   cm  cyk  loc  1e-07      20.055        0    0.0003  0.0e+00
+#   3   cm  ins  loc  1e-15     4.1e-09        0   4.2e-14  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:30.28    00:01:09.00
+#
+# Pre-search info for CM 24: ROSE_2
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      67.659    10.18   0.0011  00:00:49.20
+#   2   cm  cyk  loc  1e-07      21.549     8.91   0.0003  00:00:00.72
+#   3   cm  ins  loc  1e-15     6.0e-17    65.00  6.0e-22  00:00:01.36
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:51.29
+#
+#
+# CM: ROSE_2
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 24: ROSE_2
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      67.659       10    0.0011   0.0002
+#   2   cm  cyk  loc  1e-07      21.549        1    0.0003  2.4e-05
+#   3   cm  ins  loc  1e-15     6.0e-17        0   6.0e-22  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:51.29    00:01:12.00
+#
+# Pre-search info for CM 25: mycoplasma_FSE
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      52.194    11.70   0.0009  00:00:58.63
+#   2   cm  cyk  loc  1e-07      16.738    11.59   0.0003  00:00:00.90
+#   3   cm  ins  loc  1e-15     6.4e-17    88.00  7.5e-22  00:00:01.50
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:01.03
+#
+#
+# CM: mycoplasma_FSE
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 25: mycoplasma_FSE
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      52.194       26    0.0009   0.0005
+#   2   cm  cyk  loc  1e-07      16.738        1    0.0003  1.9e-05
+#   3   cm  ins  loc  1e-15     6.4e-17        0   7.5e-22  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:01.03    00:01:18.00
+#
+# Pre-search info for CM 26: neisseria_FSE
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     121.852     9.56   0.0012  00:00:15.40
+#   2   cm  cyk  loc  1e-07      39.202    10.50   0.0004  00:00:00.27
+#   3   cm  ins  loc  1e-15     1.1e-10    50.00  5.8e-16  00:00:00.56
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:16.24
+#
+#
+# CM: neisseria_FSE
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 26: neisseria_FSE
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     121.852        2    0.0012  2.1e-05
+#   2   cm  cyk  loc  1e-07      39.202        0    0.0004  0.0e+00
+#   3   cm  ins  loc  1e-15     1.1e-10        0   5.8e-16  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:16.24    00:00:39.00
+#
+# Pre-search info for CM 27: Phe_leader
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     111.191     9.99   0.0035  00:00:48.14
+#   2   cm  cyk  loc  1e-07       7.059     8.23   0.0002  00:00:04.29
+#   3   cm  ins  loc  1e-15     1.9e-11    55.00  3.3e-16  00:00:02.21
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:54.65
+#
+#
+# CM: Phe_leader
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 27: Phe_leader
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     111.191        8    0.0035   0.0003
+#   2   cm  cyk  loc  1e-07       7.059        5    0.0002   0.0002
+#   3   cm  ins  loc  1e-15     1.9e-11        0   3.3e-16  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:54.65    00:01:27.00
+#
+# Pre-search info for CM 28: sX9
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      74.259     9.80   0.0012  00:00:32.92
+#   2   cm  cyk  loc  1e-07      23.632     7.47   0.0004  00:00:00.58
+#   3   cm  ins  loc  1e-15     1.3e-07    44.00  1.4e-12  00:00:00.95
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:34.47
+#
+#
+# CM: sX9
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 28: sX9
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      74.259        0    0.0012  0.0e+00
+#   2   cm  cyk  loc  1e-07      23.632        0    0.0004  0.0e+00
+#   3   cm  ins  loc  1e-15     1.3e-07        0   1.4e-12  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:34.47    00:00:35.00
+#
+# Pre-search info for CM 29: Hammerhead_II
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      25.795    11.38   0.0007  00:00:38.70
+#   2   cm  cyk  loc  1e-07       8.243    11.13   0.0002  00:00:00.39
+#   3   cm  ins  loc  1e-15     2.1e-06    37.00  2.0e-11  00:00:01.03
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:40.13
+#
+#
+# CM: Hammerhead_II
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 29: Hammerhead_II
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      25.795        0    0.0007  0.0e+00
+#   2   cm  cyk  loc  1e-07       8.243        0    0.0002  0.0e+00
+#   3   cm  ins  loc  1e-15     2.1e-06        0   2.0e-11  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:40.13    00:00:31.00

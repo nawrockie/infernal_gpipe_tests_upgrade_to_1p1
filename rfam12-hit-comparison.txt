@@ -1,0 +1,39 @@
+# Key: rfam12
+# Infernal 1.0   GFF file: rfam12-i1p0.gff
+# Infernal 1.1.1 GFF file: rfam12-i1p1.gff
+#
+#Rfam-accession:name       Inf1p0-#hits  Inf1p1-#hits    #identical      #overlap  I1p0-#unique  I1p1-#unique
+#------------------------  ------------  ------------  ------------  ------------  ------------  ------------
+RF00001:5S_rRNA                     356           358           349             5             2             4
+RF00010:RNaseP_bact_a                78            78            78             0             0             0
+RF00050:FMN                          71            73            71             0             0             2
+RF00113:SIB_RNA                      30            30            30             0             0             0
+RF00114:S15                          24            24            24             0             0             0
+RF00162:SAM                          92            93            92             0             0             1
+RF00167:Purine                       46            46            44             2             0             0
+RF00174:Cobalamin                   126           173           120             6             0            47
+RF00230:T-box                       157           244           152             5             0            87
+RF00373:RNaseP_arch                   3             3             3             0             0             0
+RF00382:DnaX                          8             9             8             0             0             1
+RF00391:RtT                          63            75            42            21             0            12
+RF00504:Glycine                      86            58            26            51             9             4
+RF00557:L10_leader                   22            22            21             1             0             0
+RF00558:L20_leader                   17            18            17             0             0             1
+RF00559:L21_leader                   14            16            14             0             0             2
+RF01051:c-di-GMP-I                   42            46            42             0             0             4
+RF01394:isrK                         21            21            21             0             0             0
+RF01405:STnc490k                     11            11            11             0             0             0
+RF01497:ALIL                         14            14            14             0             0             0
+RF01766:cspA                         61            75            52             8             1            15
+RF01782:ASpks                        46            56            46             0             0            10
+RF01832:ROSE_2                        8             8             8             0             0             0
+RF01859:Phe_leader                   26            26            26             0             0             0
+RF02228:sX9                         135           148           131             4             0            13
+RF02276:Hammerhead_II                 4             5             4             0             0             1
+#------------------------  ------------  ------------  ------------  ------------  ------------  ------------
+total                              1561          1730          1446           103            12           204
+#
+# Output file with list of identical hits:             rfam12.id                     
+# Output file with list of overlapping hits:           rfam12.ol                     
+# Output file with list of Infernal 1.0   unique hits: rfam12.unq1p0                 
+# Output file with list of Infernal 1.1.1 unique hits: rfam12.unq1p1                 

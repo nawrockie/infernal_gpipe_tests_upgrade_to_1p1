@@ -1,0 +1,36 @@
+#target name                      accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|571157057|emb|CBWT010001103.1| -         RNaseP_bact_a        RF00010    cm        1      367     6214     5832      -    no    1 0.62   7.1  310.0  1.4e-100 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571161018|emb|CBWT010000432.1| -         FMN                  RF00050    cm        1      140      576      425      -    no    1 0.59   0.0  125.2   2.5e-30 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571159808|emb|CBWT010000642.1| -         S15                  RF00114    cm        1      117     5647     5532      -    no    1 0.40   0.0  113.7   6.1e-28 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571163045|emb|CBWT010000096.1| -         Cobalamin            RF00174    cm        1      191     2363     2185      -    no    1 0.59   0.0  100.1   2.5e-26 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571157797|emb|CBWT010000983.1| -         Cobalamin            RF00174    cm        1      191     5824     6011      +    no    1 0.56   0.0   94.5   1.1e-24 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571160180|emb|CBWT010000577.1| -         RtT                  RF00391    cm        1      130     5726     5857      +    no    1 0.60   0.0  132.1   6.1e-30 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571160180|emb|CBWT010000577.1| -         RtT                  RF00391    cm        1      130     5551     5682      +    no    1 0.60   0.0  132.0   6.2e-30 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571160180|emb|CBWT010000577.1| -         RtT                  RF00391    cm        1      130     5249     5382      +    no    1 0.57   0.0  114.2   2.4e-25 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571160180|emb|CBWT010000577.1| -         RtT                  RF00391    cm        1      130     5902     6032      +    no    1 0.60   0.0  109.5   3.9e-24 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571158992|emb|CBWT010000786.1| -         RtT                  RF00391    cm        1      130      721      854      +    no    1 0.61   0.0  103.3   1.6e-22 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571157380|emb|CBWT010001063.1| -         RtT                  RF00391    cm        1      130      360      528      +    no    1 0.51   0.0   66.2   5.5e-13 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571157380|emb|CBWT010001063.1| -         RtT                  RF00391    cm        1      130      138      306      +    no    1 0.51   0.0   65.4   8.7e-13 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571163343|emb|CBWT010000046.1| -         RtT                  RF00391    cm        1      130     3457     3626      +    no    1 0.54   0.0   61.4   9.3e-12 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571163526|emb|CBWT010000014.1| -         RtT                  RF00391    cm       12      130        1      158      +    5'    2 0.51   0.0   57.9   7.5e-11 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571163343|emb|CBWT010000046.1| -         RtT                  RF00391    cm        1      130     3738     3903      +    no    1 0.50   0.0   47.7     3e-08 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571163035|emb|CBWT010000100.1| -         isrK                 RF01394    cm        1       77      265      341      +    no    1 0.57   0.0   74.9   1.2e-15 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571156998|emb|CBWT010001109.1| -         isrK                 RF01394    cm        1       77    14381    14304      -    no    1 0.56   0.0   74.6   1.3e-15 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571161147|emb|CBWT010000409.1| -         isrK                 RF01394    cm        1       77      415      492      +    no    1 0.50   0.0   53.5   3.3e-10 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571156837|emb|CBWT010001150.1| -         cspA                 RF01766    cm        1      428      837     1258      +    no    1 0.47   0.0  369.8  2.2e-102 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571157091|emb|CBWT010001101.1| -         cspA                 RF01766    cm        1      428     1623     2061      +    no    1 0.45   0.0  145.6   2.1e-38 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571159324|emb|CBWT010000719.1| -         cspA                 RF01766    cm        1      428    14026    14386      +    no    1 0.42   0.0  143.4   9.2e-38 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571158507|emb|CBWT010000849.1| -         ROSE_2               RF01832    cm        1       73     3623     3548      -    no    1 0.49   0.0   74.6   2.6e-16 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571159620|emb|CBWT010000673.1| -         Phe_leader           RF01859    cm        1      125     8212     8336      +    no    1 0.47   0.0  126.4   4.6e-24 !   Escherichia coli ISC56, whole genome shotgun sequence
+gi|571159955|emb|CBWT010000613.1| -         Phe_leader           RF01859    cm        1      125     4431     4307      -    no    1 0.48   0.0   74.1   1.9e-12 !   Escherichia coli ISC56, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Escherichia_coli_ISC56/903568-DENOVO-20150227-1937.1486724/output/bacterial_annot/CBWT01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Escherichia_coli_ISC56.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Escherichia_coli_ISC56/903568-DENOVO-20150227-1937.1486724/output/bacterial_annot/CBWT01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:10 2015
+# [ok]

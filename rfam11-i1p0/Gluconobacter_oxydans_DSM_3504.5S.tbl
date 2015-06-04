@@ -1,0 +1,41 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Gluconobacter_oxydans_DSM_3504.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Gluconobacter_oxydans_DSM_3504/958208-DENOVO-20150128-0902.1448964/output/bacterial_annot/ASM58385v1.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:16 2015
+# num seqs:   1
+# dbsize(Mb): 5.764874
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     288.846     7.68   0.0082  00:01:10.56
+#   2   cm  cyk  loc  1e-07      14.051     8.41   0.0004  00:00:06.71
+#   3   cm  ins  loc  1e-15     9.9e-07    40.00  1.9e-11  00:00:02.24
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:19.52
+#
+#
+# CM: 5S_rRNA
+#                                        target coord   query coord                         
+#                              ----------------------  ------------                         
+# target name                       start        stop  start   stop    bit sc   E-value  GC%
+# ---------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|589305808|gb|CP004373.1|     1830652     1830766      1    119     82.12  1.49e-17   62
+  gi|589305808|gb|CP004373.1|     1587389     1587503      1    119     82.12  1.49e-17   62
+  gi|589305808|gb|CP004373.1|     1385151     1385265      1    119     82.12  1.49e-17   62
+  gi|589305808|gb|CP004373.1|      263885      263771      1    119     82.12  1.49e-17   62
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     288.846      135    0.0082   0.0040
+#   2   cm  cyk  loc  1e-07      14.051        4    0.0004   0.0001
+#   3   cm  ins  loc  1e-15     9.9e-07        4   1.9e-11  8.0e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:19.52    00:00:50.00

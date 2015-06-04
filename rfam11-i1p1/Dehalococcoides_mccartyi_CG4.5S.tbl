@@ -1,0 +1,13 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|670943471|gb|CP006950.1| -         5S_rRNA              RF00001    cm        1      119    50771    50888      +    no    1 0.61   0.7   79.0   4.5e-17 !   Dehalococcoides mccartyi CG4, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./RF00001.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Dehalococcoides_mccartyi_CG4/1508858-DENOVO-20150203-0902.1450374/output/bacterial_annot/ASM83090v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Dehalococcoides_mccartyi_CG4.5S.tbl -T 40 --rfam --cpu 0 --nohmmonly ./RF00001.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Dehalococcoides_mccartyi_CG4/1508858-DENOVO-20150203-0902.1450374/output/bacterial_annot/ASM83090v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:38 2015
+# [ok]

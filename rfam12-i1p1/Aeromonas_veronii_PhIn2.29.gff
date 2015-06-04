@@ -1,0 +1,12 @@
+gi|511113833|gb|ANNT01000255.1|	cmsearch-1.1.1	rna	1243	1629	313.7	+	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=6.7e-102
+gi|511113761|gb|ANNT01000327.1|	cmsearch-1.1.1	rna	135	250	84.8	-	.	gb_key=S15;rfam_acc=RF00114;evalue=4.7e-20
+gi|511113614|gb|ANNT01000474.1|	cmsearch-1.1.1	rna	426	604	119.5	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=3.8e-32
+gi|511113039|gb|ANNT01001049.1|	cmsearch-1.1.1	rna	1457	1572	69.1	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=3.4e-14
+gi|511113836|gb|ANNT01000252.1|	cmsearch-1.1.1	rna	292	378	88.0	+	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=2.7e-17
+gi|511112156|gb|ANNT01001562.1|	cmsearch-1.1.1	rna	1575	1662	82.7	+	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=4.9e-16
+gi|511114061|gb|ANNT01000027.1|	cmsearch-1.1.1	rna	12237	12324	76.8	-	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=1.2e-14
+gi|511112833|gb|ANNT01001255.1|	cmsearch-1.1.1	rna	145	230	76.0	+	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=1.9e-14
+gi|511112918|gb|ANNT01001170.1|	cmsearch-1.1.1	rna	2057	2142	70.1	-	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=4.8e-13
+gi|511114043|gb|ANNT01000045.1|	cmsearch-1.1.1	rna	2165	2252	63.0	-	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=2.3e-11
+gi|511113244|gb|ANNT01000844.1|	cmsearch-1.1.1	rna	1121	1203	50.2	+	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=2.5e-08
+gi|511113835|gb|ANNT01000253.1|	cmsearch-1.1.1	rna	394	823	156.5	+	.	gb_key=cspA;rfam_acc=RF01766;evalue=1.2e-41

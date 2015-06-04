@@ -1,0 +1,16 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|374651304|gb|AHQV01000111.1| -         RNaseP_bact_a        RF00010    cm        1      367    24654    25041      +    no    1 0.47   0.0  265.1   1.3e-85 !   Leptospira interrogans serovar Bataviae str. UT234 contig_111, whole genome shotgun sequence
+gi|374651468|gb|AHQV01000060.1| -         Cobalamin            RF00174    cm        1      191    38697    38517      -    no    1 0.46   0.0  105.6   5.3e-28 !   Leptospira interrogans serovar Bataviae str. UT234 contig_60, whole genome shotgun sequence
+gi|374651419|gb|AHQV01000076.1| -         Cobalamin            RF00174    cm        1      191    21585    21401      -    no    1 0.43   0.0   87.3   1.3e-22 !   Leptospira interrogans serovar Bataviae str. UT234 contig_76, whole genome shotgun sequence
+gi|374650866|gb|AHQV01000270.1| -         Cobalamin            RF00174    cm        1      191     6423     6276      -    no    1 0.39   0.0   31.5   4.4e-06 !   Leptospira interrogans serovar Bataviae str. UT234 contig_270, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Leptospira_interrogans_serovar_Bataviae_str._UT234/431338-DENOVO-20150207-1527.1456444/output/bacterial_annot/AHQV01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Leptospira_interrogans_serovar_Bataviae_str._UT234.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Leptospira_interrogans_serovar_Bataviae_str._UT234/431338-DENOVO-20150207-1527.1456444/output/bacterial_annot/AHQV01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:23 2015
+# [ok]

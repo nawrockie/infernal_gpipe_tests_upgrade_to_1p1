@@ -1,0 +1,16 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|374652022|gb|AHQW01000056.1| -         RNaseP_bact_a        RF00010    cm        1      367    24658    25045      +    no    1 0.47   0.0  265.1   1.2e-85 !   Leptospira interrogans serovar Medanensis str. L0887 contig_56, whole genome shotgun sequence
+gi|374651201|gb|AHQW01000318.1| -         Cobalamin            RF00174    cm        1      191    23664    23484      -    no    1 0.46   0.0  105.6   5.3e-28 !   Leptospira interrogans serovar Medanensis str. L0887 contig_318, whole genome shotgun sequence
+gi|374652028|gb|AHQW01000054.1| -         Cobalamin            RF00174    cm        1      191    20254    20070      -    no    1 0.43   0.0   87.3   1.3e-22 !   Leptospira interrogans serovar Medanensis str. L0887 contig_54, whole genome shotgun sequence
+gi|374651519|gb|AHQW01000220.1| -         Cobalamin            RF00174    cm        1      191     6423     6276      -    no    1 0.39   0.0   31.5   4.3e-06 !   Leptospira interrogans serovar Medanensis str. L0887 contig_220, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Leptospira_interrogans_serovar_Medanensis_str._L0887/431358-DENOVO-20150207-1527.1456454/output/bacterial_annot/AHQW01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Leptospira_interrogans_serovar_Medanensis_str._L0887.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Leptospira_interrogans_serovar_Medanensis_str._L0887/431358-DENOVO-20150207-1527.1456454/output/bacterial_annot/AHQW01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:19 2015
+# [ok]

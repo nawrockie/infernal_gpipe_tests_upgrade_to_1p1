@@ -1,0 +1,12 @@
+gi|262028652|gb|ADAK01000055.1|	cmsearch-1.0	rna	249732	250133	293.99	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=2.48e-100
+gi|262029479|gb|ADAK01000051.1|	cmsearch-1.0	rna	127986	128124	111.88	+	.	gb_key=FMN;rfam_acc=RF00050;evalue=5.45e-28
+gi|262030086|gb|ADAK01000046.1|	cmsearch-1.0	rna	73681	73801	94.09	-	.	gb_key=S15;rfam_acc=RF00114;evalue=1.36e-23
+gi|262029091|gb|ADAK01000053.1|	cmsearch-1.0	rna	12490	12589	72.33	+	.	gb_key=Glycine;rfam_acc=RF00504;evalue=2.43e-15
+gi|262029890|gb|ADAK01000048.1|	cmsearch-1.0	rna	2725	2831	54.54	+	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=7.68e-10
+gi|262028380|gb|ADAK01000056.1|	cmsearch-1.0	rna	255725	255811	68.82	+	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=2.58e-13
+gi|262030431|gb|ADAK01000041.1|	cmsearch-1.0	rna	1483	1554	24.84	+	.	gb_key=isrK;rfam_acc=RF01394;evalue=3.40e-03
+gi|262028124|gb|ADAK01000059.1|	cmsearch-1.0	rna	151871	151932	22.69	+	.	gb_key=isrK;rfam_acc=RF01394;evalue=1.23e-02
+gi|262030001|gb|ADAK01000047.1|	cmsearch-1.0	rna	94443	94863	116.24	-	.	gb_key=cspA;rfam_acc=RF01766;evalue=4.90e-36
+gi|262028124|gb|ADAK01000059.1|	cmsearch-1.0	rna	115656	116084	107.57	+	.	gb_key=cspA;rfam_acc=RF01766;evalue=3.79e-33
+gi|262028124|gb|ADAK01000059.1|	cmsearch-1.0	rna	134921	135366	71.01	-	.	gb_key=cspA;rfam_acc=RF01766;evalue=5.71e-21
+gi|262030086|gb|ADAK01000046.1|	cmsearch-1.0	rna	7212	7334	72.65	+	.	gb_key=Phe_leader;rfam_acc=RF01859;evalue=8.51e-16

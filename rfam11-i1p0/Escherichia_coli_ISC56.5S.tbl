@@ -1,0 +1,46 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Escherichia_coli_ISC56.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Escherichia_coli_ISC56/903568-DENOVO-20150227-1937.1486724/output/bacterial_annot/CBWT01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:14 2015
+# num seqs:   1186
+# dbsize(Mb): 11.102570
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     556.288     7.68   0.0082  00:01:30.60
+#   2   cm  cyk  loc  1e-07      27.060     8.41   0.0004  00:00:10.35
+#   3   cm  ins  loc  1e-15     1.9e-06    40.00  1.9e-11  00:00:04.05
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:45.00
+#
+#
+# CM: 5S_rRNA
+#                                              target coord   query coord                         
+#                                    ----------------------  ------------                         
+# target name                             start        stop  start   stop    bit sc   E-value  GC%
+# ---------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|571161952|emb|CBWT010000269.1|        1583        1698      1    119     83.98  9.49e-18   64
+  gi|571160812|emb|CBWT010000463.1|          58         173      1    119     83.98  9.49e-18   64
+  gi|571158397|emb|CBWT010000866.1|         394         509      1    119     83.98  9.49e-18   64
+  gi|571158043|emb|CBWT010000937.1|          20         135      1    119     83.98  9.49e-18   64
+  gi|571157741|emb|CBWT010000990.1|         309         424      1    119     83.98  9.49e-18   64
+  gi|571157515|emb|CBWT010001033.1|       11934       11819      1    119     89.33  3.99e-19   62
+  gi|571157515|emb|CBWT010001033.1|       12178       12063      1    119     83.98  9.49e-18   64
+  gi|571157336|emb|CBWT010001068.1|        1461        1576      1    119     83.98  9.49e-18   64
+  gi|571156842|emb|CBWT010001149.1|        1556        1671      1    119     83.98  9.49e-18   64
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     556.288      479    0.0082   0.0074
+#   2   cm  cyk  loc  1e-07      27.060       18    0.0004   0.0003
+#   3   cm  ins  loc  1e-15     1.9e-06        9   1.9e-11  9.4e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:45.00    00:01:43.00

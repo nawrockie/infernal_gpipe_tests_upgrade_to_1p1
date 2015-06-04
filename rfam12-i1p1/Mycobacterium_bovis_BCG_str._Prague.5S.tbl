@@ -1,0 +1,13 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|537456276|gb|AKYU01000715.1| -         5S_rRNA              RF00001    cm        1      119     7322     7434      +    no    1 0.65   0.1   77.4   4.7e-16 !   Mycobacterium bovis BCG str. Prague Contig_754, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./RF00001.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Mycobacterium_bovis_BCG_str._Prague/773508-DENOVO-20150227-1847.1484604/output/bacterial_annot/AKYU01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Mycobacterium_bovis_BCG_str._Prague.5S.tbl -T 40 --rfam --cpu 0 --nohmmonly ./RF00001.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Mycobacterium_bovis_BCG_str._Prague/773508-DENOVO-20150227-1847.1484604/output/bacterial_annot/AKYU01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:44 2015
+# [ok]

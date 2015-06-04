@@ -1,0 +1,39 @@
+#target name                     accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|665414619|dbj|BBIW01000003.1| -         RNaseP_bact_a        RF00010    cm        1      367   104604   105013      +    no    1 0.53   0.0  252.9   1.7e-81 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665414619|dbj|BBIW01000003.1| -         FMN                  RF00050    cm        1      140   419383   419528      +    no    1 0.53   0.0  115.0   1.5e-27 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665415141|dbj|BBIW01000002.1| -         FMN                  RF00050    cm        1      140   450965   451122      +    no    1 0.54   0.0  108.6   8.3e-26 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665412081|dbj|BBIW01000013.1| -         SAM                  RF00162    cm        1      108    64507    64651      +    no    1 0.50   0.0   80.3   6.8e-17 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665415672|dbj|BBIW01000001.1| -         SAM                  RF00162    cm        1      108   595476   595350      -    no    1 0.47   0.0   72.5   7.6e-15 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665412793|dbj|BBIW01000009.1| -         Purine               RF00167    cm        1      102     8942     9043      +    no    1 0.42   0.0   84.0   9.8e-16 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665414195|dbj|BBIW01000004.1| -         Purine               RF00167    cm        1      102   470319   470419      +    no    1 0.41   0.0   71.1   1.5e-12 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665414195|dbj|BBIW01000004.1| -         Purine               RF00167    cm        1      102   297204   297303      +    no    1 0.44   0.0   64.6   6.2e-11 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665413483|dbj|BBIW01000006.1| -         Cobalamin            RF00174    cm        1      191    71904    71687      -    no    1 0.52   0.0  109.8   3.4e-29 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665413818|dbj|BBIW01000005.1| -         T-box                RF00230    cm        1      224   264938   264704      -    no    1 0.47   0.0  131.9   6.8e-31 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665415141|dbj|BBIW01000002.1| -         T-box                RF00230    cm        1      224   309590   309333      -    no    1 0.44   0.0  125.5     3e-29 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665414619|dbj|BBIW01000003.1| -         T-box                RF00230    cm        1      224    29086    29329      +    no    1 0.50   0.0  122.6   1.7e-28 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665414619|dbj|BBIW01000003.1| -         T-box                RF00230    cm        1      224   162765   163039      +    no    1 0.50   0.0  109.0   5.7e-25 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665412081|dbj|BBIW01000013.1| -         T-box                RF00230    cm        1      224    38650    38879      +    no    1 0.47   0.0  101.9   3.9e-23 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665414619|dbj|BBIW01000003.1| -         T-box                RF00230    cm        1      224   222449   222725      +    no    1 0.49   0.0   98.4   3.1e-22 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665411384|dbj|BBIW01000022.1| -         T-box                RF00230    cm        1      224    28188    27905      -    no    1 0.47   0.0   96.4     1e-21 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665411667|dbj|BBIW01000017.1| -         T-box                RF00230    cm        1      224    48160    47890      -    no    1 0.48   0.0   96.1   1.2e-21 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665415672|dbj|BBIW01000001.1| -         T-box                RF00230    cm        1      224   163753   163484      -    no    1 0.48   0.0   93.3   6.3e-21 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665414619|dbj|BBIW01000003.1| -         T-box                RF00230    cm        1      224   352015   352299      +    no    1 0.50   0.0   93.3   6.4e-21 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665412391|dbj|BBIW01000011.1| -         Glycine              RF00504    cm        1       94   103399   103540      +    no    1 0.47   0.0   56.7   8.5e-11 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665414195|dbj|BBIW01000004.1| -         Glycine              RF00504    cm        1       94   174808   174920      +    no    1 0.51   0.0   47.5   2.4e-08 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665414195|dbj|BBIW01000004.1| -         Glycine              RF00504    cm        1       94   440204   440338      +    no    1 0.49   0.0   42.9     4e-07 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665411591|dbj|BBIW01000018.1| -         L10_leader           RF00557    cm        1      139    41525    41374      -    no    1 0.37   0.0   85.0   4.7e-13 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665415672|dbj|BBIW01000001.1| -         L20_leader           RF00558    cm        1      127   649979   649837      -    no    1 0.40   0.0   51.2   1.1e-08 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665411384|dbj|BBIW01000022.1| -         L21_leader           RF00559    cm        1       78    10337    10253      -    no    1 0.52   0.0   37.8   2.8e-05 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665415672|dbj|BBIW01000001.1| -         c-di-GMP-I           RF01051    cm        1       87   347598   347507      -    no    1 0.43   0.0   70.7   4.4e-13 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+gi|665415672|dbj|BBIW01000001.1| -         c-di-GMP-I           RF01051    cm        1       87   788302   788218      -    no    1 0.46   0.0   62.9   3.1e-11 !   Paenibacillus sp. TCA20, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Paenibacillus_sp._TCA20/1177058-DENOVO-20150207-2047.1461714/output/bacterial_annot/BBIW01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Paenibacillus_sp._TCA20.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Paenibacillus_sp._TCA20/1177058-DENOVO-20150207-2047.1461714/output/bacterial_annot/BBIW01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:06 2015
+# [ok]

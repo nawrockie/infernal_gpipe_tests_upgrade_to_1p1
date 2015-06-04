@@ -1,0 +1,12 @@
+gi|373959031|gb|AHJR01000001.1|	cmsearch-1.0	rna	1374448	1374503	31.82	+	.	gb_key=snoPyro_CD;rfam_acc=RF00095;evalue=9.15e-05
+gi|373959031|gb|AHJR01000001.1|	cmsearch-1.0	rna	133327	133383	22.93	+	.	gb_key=snoPyro_CD;rfam_acc=RF00095;evalue=1.89e-02
+gi|373959031|gb|AHJR01000001.1|	cmsearch-1.0	rna	2071687	2071741	20.72	+	.	gb_key=snoPyro_CD;rfam_acc=RF00095;evalue=7.10e-02
+gi|373959031|gb|AHJR01000001.1|	cmsearch-1.0	rna	17914	17969	25.89	-	.	gb_key=snoPyro_CD;rfam_acc=RF00095;evalue=3.21e-03
+gi|373959031|gb|AHJR01000001.1|	cmsearch-1.0	rna	1662247	1662303	23.86	-	.	gb_key=snoPyro_CD;rfam_acc=RF00095;evalue=1.08e-02
+gi|373959031|gb|AHJR01000001.1|	cmsearch-1.0	rna	2409963	2410020	23.48	-	.	gb_key=snoPyro_CD;rfam_acc=RF00095;evalue=1.36e-02
+gi|373959031|gb|AHJR01000001.1|	cmsearch-1.0	rna	240666	240721	23.27	-	.	gb_key=snoPyro_CD;rfam_acc=RF00095;evalue=1.54e-02
+gi|373959031|gb|AHJR01000001.1|	cmsearch-1.0	rna	1559148	1559204	23.12	-	.	gb_key=snoPyro_CD;rfam_acc=RF00095;evalue=1.68e-02
+gi|373959031|gb|AHJR01000001.1|	cmsearch-1.0	rna	1027574	1027628	21.87	-	.	gb_key=snoPyro_CD;rfam_acc=RF00095;evalue=3.57e-02
+gi|373959031|gb|AHJR01000001.1|	cmsearch-1.0	rna	1988795	1988850	20.95	-	.	gb_key=snoPyro_CD;rfam_acc=RF00095;evalue=6.20e-02
+gi|373959031|gb|AHJR01000001.1|	cmsearch-1.0	rna	6187	6242	20.64	-	.	gb_key=snoPyro_CD;rfam_acc=RF00095;evalue=7.45e-02
+gi|373959031|gb|AHJR01000001.1|	cmsearch-1.0	rna	1721980	1722284	169.06	+	.	gb_key=RNaseP_arch;rfam_acc=RF00373;evalue=9.56e-55

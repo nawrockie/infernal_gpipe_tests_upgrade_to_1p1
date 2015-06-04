@@ -1,0 +1,21 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|537462707|gb|AKYU01000236.1| -         RNaseP_bact_a        RF00010    cm        1      367     1739     1311      -    no    1 0.65  15.8  291.6   1.5e-94 !   Mycobacterium bovis BCG str. Prague Contig_258, whole genome shotgun sequence
+gi|537458928|gb|AKYU01000404.1| -         Cobalamin            RF00174    cm        1      191     2226     2444      +    no    1 0.66   6.0   97.6     1e-25 !   Mycobacterium bovis BCG str. Prague Contig_434, whole genome shotgun sequence
+gi|537455645|gb|AKYU01000870.1| -         Cobalamin            RF00174    cm        1      191      244       71      -    no    1 0.65   0.3   93.3   1.9e-24 !   Mycobacterium bovis BCG str. Prague Contig_915, whole genome shotgun sequence
+gi|537455817|gb|AKYU01000790.1| -         Glycine              RF00504    cm        1       94    12923    13020      +    no    1 0.63   0.0   60.0   8.4e-12 !   Mycobacterium bovis BCG str. Prague Contig_832, whole genome shotgun sequence
+gi|537459353|gb|AKYU01000318.1| -         Glycine              RF00504    cm        1       94     2526     2436      -    no    1 0.63   0.0   57.0   5.3e-11 !   Mycobacterium bovis BCG str. Prague Contig_347, whole genome shotgun sequence
+gi|537462994|gb|AKYU01000166.1| -         ASpks                RF01782    cm        1       75      467      541      +    no    1 0.65   0.0   83.6   6.5e-16 !   Mycobacterium bovis BCG str. Prague Contig_181, whole genome shotgun sequence
+gi|537462889|gb|AKYU01000184.1| -         ASpks                RF01782    cm        1       75      600      677      +    no    1 0.62   0.0   77.0   2.2e-14 !   Mycobacterium bovis BCG str. Prague Contig_200, whole genome shotgun sequence
+gi|537464024|gb|AKYU01000025.1| -         ASpks                RF01782    cm        1       75       28       99      +    no    1 0.65   0.0   68.6     2e-12 !   Mycobacterium bovis BCG str. Prague Contig_25, whole genome shotgun sequence
+gi|537464041|gb|AKYU01000022.1| -         ASpks                RF01782    cm        1       75      178      246      +    no    1 0.64   0.0   59.0   3.7e-10 !   Mycobacterium bovis BCG str. Prague Contig_22, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Mycobacterium_bovis_BCG_str._Prague/773508-DENOVO-20150227-1847.1484604/output/bacterial_annot/AKYU01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Mycobacterium_bovis_BCG_str._Prague.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Mycobacterium_bovis_BCG_str._Prague/773508-DENOVO-20150227-1847.1484604/output/bacterial_annot/AKYU01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:05 2015
+# [ok]

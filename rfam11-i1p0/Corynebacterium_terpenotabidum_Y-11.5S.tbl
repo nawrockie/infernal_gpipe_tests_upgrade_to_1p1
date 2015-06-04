@@ -1,0 +1,42 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Corynebacterium_terpenotabidum_Y-11.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Corynebacterium_terpenotabidum_Y-11/725818-DENOVO-20150121-1607.1442514/output/bacterial_annot/ASM41836v1.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:26 2015
+# num seqs:   1
+# dbsize(Mb): 5.502466
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     275.698     7.68   0.0082  00:00:35.92
+#   2   cm  cyk  loc  1e-07      13.411     8.41   0.0004  00:00:05.13
+#   3   cm  ins  loc  1e-15     9.5e-07    40.00  1.9e-11  00:00:01.81
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:42.86
+#
+#
+# CM: 5S_rRNA
+#                                        target coord   query coord                         
+#                              ----------------------  ------------                         
+# target name                       start        stop  start   stop    bit sc   E-value  GC%
+# ---------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|521017106|gb|CP003696.1|     1202101     1202217      1    119     80.69  3.29e-17   68
+  gi|521017106|gb|CP003696.1|      927509      927625      1    119     80.69  3.29e-17   68
+  gi|521017106|gb|CP003696.1|      633828      633944      1    119     80.69  3.29e-17   68
+  gi|521017106|gb|CP003696.1|      201101      201217      1    119     80.69  3.29e-17   68
+  gi|521017106|gb|CP003696.1|       71471       71587      1    119     80.69  3.29e-17   68
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     275.698       33    0.0082   0.0010
+#   2   cm  cyk  loc  1e-07      13.411        5    0.0004   0.0001
+#   3   cm  ins  loc  1e-15     9.5e-07        5   1.9e-11   0.0001
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:42.86    00:00:41.00

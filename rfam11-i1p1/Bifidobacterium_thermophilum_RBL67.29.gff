@@ -1,0 +1,2 @@
+gi|469497741|gb|CP004346.1|	cmsearch-1.1.1	rna	913447	913798	277.4	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=9.4e-95
+gi|469497741|gb|CP004346.1|	cmsearch-1.1.1	rna	2212143	2212299	85.8	+	.	gb_key=FMN;rfam_acc=RF00050;evalue=6.1e-21

@@ -1,0 +1,45 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam12-i1p0/Dickeya_dadantii_3937.5S.tbl ./RF00001.rfam12.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Dickeya_dadantii_3937/169828-DENOVO-20150226-0902.1471794/output/bacterial_annot/ASM14705v1.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:24 2015
+# num seqs:   1
+# dbsize(Mb): 9.845604
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     194.073     8.84   0.0054  00:01:28.38
+#   2   cm  cyk  loc  1e-07       9.475     9.30   0.0003  00:00:09.76
+#   3   cm  ins  loc  1e-15     8.3e-07    40.00  9.6e-12  00:00:04.84
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:42.98
+#
+#
+# CM: 5S_rRNA
+#                                        target coord   query coord                         
+#                              ----------------------  ------------                         
+# target name                       start        stop  start   stop    bit sc   E-value  GC%
+# ---------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|306526293|gb|CP002038.1|      283558      283673      1    119     71.06  5.88e-15   66
+  gi|306526293|gb|CP002038.1|      236734      236849      1    119     71.06  5.88e-15   66
+  gi|306526293|gb|CP002038.1|       17890       18005      1    119     71.06  5.88e-15   66
+  gi|306526293|gb|CP002038.1|     3824530     3824415      1    119     74.22  8.72e-16   61
+  gi|306526293|gb|CP002038.1|     3671989     3671874      1    119     71.06  5.88e-15   66
+  gi|306526293|gb|CP002038.1|     3824778     3824663      1    119     71.06  5.88e-15   66
+  gi|306526293|gb|CP002038.1|     4362697     4362582      1    119     71.06  5.88e-15   66
+  gi|306526293|gb|CP002038.1|     4603391     4603276      1    119     71.06  5.88e-15   66
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     194.073       83    0.0054   0.0024
+#   2   cm  cyk  loc  1e-07       9.475        8    0.0003   0.0002
+#   3   cm  ins  loc  1e-15     8.3e-07        8   9.6e-12  9.4e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:42.98    00:01:27.00

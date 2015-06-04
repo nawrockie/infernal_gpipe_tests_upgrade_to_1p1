@@ -1,0 +1,36 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|324021336|gb|GL834359.1| -         RNaseP_bact_a        RF00010    cm        1      367    38130    38489      +    no    1 0.56   7.5  294.4  2.2e-100 !   [Clostridium] symbiosum WAL-14673 supercont1.3, whole genome shotgun sequence
+gi|324021333|gb|GL834362.1| -         FMN                  RF00050    cm        1      139   201848   201729      -    no    1 0.47   0.1  118.0   1.3e-29 !   [Clostridium] symbiosum WAL-14673 supercont1.6, whole genome shotgun sequence
+gi|324021335|gb|GL834360.1| -         FMN                  RF00050    cm        1      139   485343   485457      +    no    1 0.51   0.2  112.5   4.4e-28 !   [Clostridium] symbiosum WAL-14673 supercont1.4, whole genome shotgun sequence
+gi|324021338|gb|GL834357.1| -         Purine               RF00167    cm        1      102  1031934  1031839      -    no    1 0.45   0.4   45.2   2.6e-08 !   [Clostridium] symbiosum WAL-14673 supercont1.1, whole genome shotgun sequence
+gi|324021335|gb|GL834360.1| -         Cobalamin            RF00174    cm        1      190   514847   515053      +    no    1 0.50   0.9   94.7   5.8e-24 !   [Clostridium] symbiosum WAL-14673 supercont1.4, whole genome shotgun sequence
+gi|324021334|gb|GL834361.1| -         T-box                RF00230    cm        1      217   165609   165848      +    no    1 0.47   0.2  139.7   4.6e-36 !   [Clostridium] symbiosum WAL-14673 supercont1.5, whole genome shotgun sequence
+gi|324021336|gb|GL834359.1| -         T-box                RF00230    cm        1      217   255944   256177      +    no    1 0.43   3.4  129.1   4.2e-33 !   [Clostridium] symbiosum WAL-14673 supercont1.3, whole genome shotgun sequence
+gi|324021337|gb|GL834358.1| -         T-box                RF00230    cm        1      217   113295   113576      +    no    1 0.50   2.7  117.8     6e-30 !   [Clostridium] symbiosum WAL-14673 supercont1.2, whole genome shotgun sequence
+gi|324021336|gb|GL834359.1| -         T-box                RF00230    cm        1      217   220374   220082      -    no    1 0.48   1.5  111.1   4.3e-28 !   [Clostridium] symbiosum WAL-14673 supercont1.3, whole genome shotgun sequence
+gi|324021338|gb|GL834357.1| -         T-box                RF00230    cm        1      217   527054   527337      +    no    1 0.49   0.6  111.1   4.4e-28 !   [Clostridium] symbiosum WAL-14673 supercont1.1, whole genome shotgun sequence
+gi|324021331|gb|GL834364.1| -         T-box                RF00230    cm        1      217    26051    26302      +    no    1 0.52   6.8   98.8   1.1e-24 !   [Clostridium] symbiosum WAL-14673 supercont1.8, whole genome shotgun sequence
+gi|324021336|gb|GL834359.1| -         T-box                RF00230    cm        1      217    80451    80205      -    no    1 0.48   0.5   97.4   2.8e-24 !   [Clostridium] symbiosum WAL-14673 supercont1.3, whole genome shotgun sequence
+gi|324021337|gb|GL834358.1| -         T-box                RF00230    cm        1      217   100125   100364      +    no    1 0.51   3.9   96.2   6.1e-24 !   [Clostridium] symbiosum WAL-14673 supercont1.2, whole genome shotgun sequence
+gi|324021333|gb|GL834362.1| -         T-box                RF00230    cm        1      217   102896   102657      -    no    1 0.48   0.4   93.2   4.1e-23 !   [Clostridium] symbiosum WAL-14673 supercont1.6, whole genome shotgun sequence
+gi|324021336|gb|GL834359.1| -         T-box                RF00230    cm        1      217   111655   111426      -    no    1 0.49   0.1   93.1   4.5e-23 !   [Clostridium] symbiosum WAL-14673 supercont1.3, whole genome shotgun sequence
+gi|324021338|gb|GL834357.1| -         T-box                RF00230    cm        1      217  1043090  1043355      +    no    1 0.51   0.4   86.4   3.3e-21 !   [Clostridium] symbiosum WAL-14673 supercont1.1, whole genome shotgun sequence
+gi|324021338|gb|GL834357.1| -         T-box                RF00230    cm        1      217    84758    85084      +    no    1 0.52   8.0   85.5   5.9e-21 !   [Clostridium] symbiosum WAL-14673 supercont1.1, whole genome shotgun sequence
+gi|324021338|gb|GL834357.1| -         T-box                RF00230    cm        1      217   560575   560328      -    no    1 0.52   0.4   83.3   2.4e-20 !   [Clostridium] symbiosum WAL-14673 supercont1.1, whole genome shotgun sequence
+gi|324021330|gb|GL834365.1| -         T-box                RF00230    cm        1      217     9755     9993      +    no    1 0.53   8.7   76.3   2.2e-18 !   [Clostridium] symbiosum WAL-14673 supercont1.9, whole genome shotgun sequence
+gi|324021330|gb|GL834365.1| -         T-box                RF00230    cm        1      217   113224   113468      +    no    1 0.53   5.3   67.3   6.9e-16 !   [Clostridium] symbiosum WAL-14673 supercont1.9, whole genome shotgun sequence
+gi|324021337|gb|GL834358.1| -         T-box                RF00230    cm        1      217   632143   632295      +    no    1 0.42   0.3   28.0   5.8e-05 !   [Clostridium] symbiosum WAL-14673 supercont1.2, whole genome shotgun sequence
+gi|324021336|gb|GL834359.1| -         Glycine              RF00504    cm        1       94   619812   619705      -    no    1 0.46   0.1   60.7   3.8e-12 !   [Clostridium] symbiosum WAL-14673 supercont1.3, whole genome shotgun sequence
+gi|324021333|gb|GL834362.1| -         L10_leader           RF00557    cm        1      139    58507    58369      -    no    1 0.42   0.4   87.7   1.1e-17 !   [Clostridium] symbiosum WAL-14673 supercont1.6, whole genome shotgun sequence
+gi|324021337|gb|GL834358.1| -         c-di-GMP-I           RF01051    cm        1       87   117960   118042      +    no    1 0.45   0.3   56.3   3.6e-10 !   [Clostridium] symbiosum WAL-14673 supercont1.2, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Clostridium_symbiosum_WAL-14673/252978-DENOVO-20150227-1622.1478524/output/bacterial_annot/ADLR01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Clostridium_symbiosum_WAL-14673.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Clostridium_symbiosum_WAL-14673/252978-DENOVO-20150227-1622.1478524/output/bacterial_annot/ADLR01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:02 2015
+# [ok]

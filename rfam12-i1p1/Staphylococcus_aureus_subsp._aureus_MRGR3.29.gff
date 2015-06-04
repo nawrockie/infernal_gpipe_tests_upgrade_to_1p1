@@ -1,0 +1,14 @@
+gi|507198816|gb|AHZL01000033.1|	cmsearch-1.1.1	rna	5703	5838	122.9	-	.	gb_key=FMN;rfam_acc=RF00050;evalue=5.5e-30
+gi|507196726|gb|AHZL01000093.1|	cmsearch-1.1.1	rna	153875	154009	122.2	+	.	gb_key=FMN;rfam_acc=RF00050;evalue=8.6e-30
+gi|507200275|gb|AHZL01000014.1|	cmsearch-1.1.1	rna	1040	1143	82.8	+	.	gb_key=SAM;rfam_acc=RF00162;evalue=8.1e-18
+gi|507199120|gb|AHZL01000031.1|	cmsearch-1.1.1	rna	33314	33409	78.2	+	.	gb_key=SAM;rfam_acc=RF00162;evalue=1.3e-16
+gi|507197319|gb|AHZL01000073.1|	cmsearch-1.1.1	rna	1784	1894	75.9	+	.	gb_key=SAM;rfam_acc=RF00162;evalue=5.4e-16
+gi|507200921|gb|AHZL01000008.1|	cmsearch-1.1.1	rna	116111	116209	74.3	+	.	gb_key=SAM;rfam_acc=RF00162;evalue=1.4e-15
+gi|507200643|gb|AHZL01000011.1|	cmsearch-1.1.1	rna	44098	44200	81.9	-	.	gb_key=Purine;rfam_acc=RF00167;evalue=1.8e-15
+gi|507200643|gb|AHZL01000011.1|	cmsearch-1.1.1	rna	65541	65910	160.8	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=1.2e-38
+gi|507198044|gb|AHZL01000054.1|	cmsearch-1.1.1	rna	37028	37329	143.0	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=4.9e-34
+gi|507200921|gb|AHZL01000008.1|	cmsearch-1.1.1	rna	112650	112865	103.1	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=9.8e-24
+gi|507196726|gb|AHZL01000093.1|	cmsearch-1.1.1	rna	106829	106926	68.8	+	.	gb_key=Glycine;rfam_acc=RF00504;evalue=2.8e-14
+gi|507199811|gb|AHZL01000021.1|	cmsearch-1.1.1	rna	29599	29745	86.8	-	.	gb_key=L10_leader;rfam_acc=RF00557;evalue=1.2e-13
+gi|507198044|gb|AHZL01000054.1|	cmsearch-1.1.1	rna	21917	22042	82.9	+	.	gb_key=L20_leader;rfam_acc=RF00558;evalue=9e-17
+gi|507196726|gb|AHZL01000093.1|	cmsearch-1.1.1	rna	3268	3395	67.4	+	.	gb_key=L21_leader;rfam_acc=RF00559;evalue=3.9e-13

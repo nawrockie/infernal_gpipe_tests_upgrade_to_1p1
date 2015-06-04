@@ -1,0 +1,5 @@
+gi|323276546|gb|GL831080.1|	cmsearch-1.0	rna	916705	917087	314.85	+	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=2.68e-101
+gi|323276546|gb|GL831080.1|	cmsearch-1.0	rna	1562219	1562344	116.26	-	.	gb_key=FMN;rfam_acc=RF00050;evalue=1.23e-28
+gi|323276546|gb|GL831080.1|	cmsearch-1.0	rna	769441	769563	100.02	-	.	gb_key=S15;rfam_acc=RF00114;evalue=6.16e-28
+gi|323276545|gb|GL831081.1|	cmsearch-1.0	rna	11469	11558	53.17	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=1.78e-10
+gi|323276545|gb|GL831081.1|	cmsearch-1.0	rna	11561	11646	36.91	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=3.59e-06

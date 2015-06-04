@@ -1,0 +1,14 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|339410722|gb|CP002903.1| -         RNaseP_bact_a        RF00010    cm        1      367  1241005  1241348      +    no    1 0.61  13.7  245.6   1.4e-83 !   Spirochaeta thermophila DSM 6578, complete genome
+gi|339410722|gb|CP002903.1| -         RNaseP_arch          RF00373    cm        1      289  1241007  1241342      +    no    1 0.61  14.7   57.7   3.3e-17 !   Spirochaeta thermophila DSM 6578, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Spirochaeta_thermophila_DSM_6578/293738-DENOVO-20150121-1607.1442044/output/bacterial_annot/ASM18434v2.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Spirochaeta_thermophila_DSM_6578.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Spirochaeta_thermophila_DSM_6578/293738-DENOVO-20150121-1607.1442044/output/bacterial_annot/ASM18434v2.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:57 2015
+# [ok]

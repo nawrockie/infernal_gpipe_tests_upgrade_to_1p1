@@ -1,0 +1,19 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|698836215|emb|CCXC01000003.1| -         FMN                  RF00050    cm        1      140    46160    46044      -    no    1 0.50   0.0  104.2   4.9e-25 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836300|emb|CCXC01000002.1| -         Purine               RF00167    cm        1      102   171338   171241      -    no    1 0.36   0.0   67.5   4.7e-12 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         T-box                RF00230    cm        1      224  1270114  1270284      +    no    1 0.39   0.1   97.5   2.1e-22 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836215|emb|CCXC01000003.1| -         L10_leader           RF00557    cm        1      139    45226    45100      -    no    1 0.38   0.0   73.8   2.8e-11 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         L20_leader           RF00558    cm        1      127  1451708  1451834      +    no    1 0.45   0.0   71.3   4.9e-14 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         L21_leader           RF00559    cm        1       78   317607   317535      -    no    1 0.48   0.0   48.5     2e-08 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         cspA                 RF01766    cm        1      428  1087343  1087692      +    no    1 0.35   5.8   92.0   1.7e-23 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Lactococcus_garvieae/1479648-DENOVO-20150127-0902.1448574/output/bacterial_annot/CCXC01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Lactococcus_garvieae.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Lactococcus_garvieae/1479648-DENOVO-20150127-0902.1448574/output/bacterial_annot/CCXC01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:20 2015
+# [ok]

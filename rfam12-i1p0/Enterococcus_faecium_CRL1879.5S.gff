@@ -1,0 +1,3 @@
+gi|509555132|gb|AOUK01000057.1|	cmsearch-1.0	rna	173	288	75.61	+	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=2.20e-16
+gi|509555128|gb|AOUK01000059.1|	cmsearch-1.0	rna	24	139	75.61	+	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=2.20e-16
+gi|509555114|gb|AOUK01000066.1|	cmsearch-1.0	rna	56843	56958	75.61	+	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=2.20e-16

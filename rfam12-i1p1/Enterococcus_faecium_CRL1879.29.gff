@@ -1,0 +1,17 @@
+gi|509555136|gb|AOUK01000055.1|	cmsearch-1.1.1	rna	63873	63998	105.9	+	.	gb_key=FMN;rfam_acc=RF00050;evalue=2.3e-25
+gi|509555116|gb|AOUK01000065.1|	cmsearch-1.1.1	rna	226663	226760	67.2	-	.	gb_key=Purine;rfam_acc=RF00167;evalue=7.2e-12
+gi|509555267|gb|AOUK01000001.1|	cmsearch-1.1.1	rna	44886	45102	136.3	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=2.4e-32
+gi|509555136|gb|AOUK01000055.1|	cmsearch-1.1.1	rna	3844	4189	128.6	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=2.5e-30
+gi|509555140|gb|AOUK01000053.1|	cmsearch-1.1.1	rna	132320	132547	121.2	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=2e-28
+gi|509555255|gb|AOUK01000007.1|	cmsearch-1.1.1	rna	41343	41599	120.4	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=3.2e-28
+gi|509555242|gb|AOUK01000014.1|	cmsearch-1.1.1	rna	5565	5798	118.1	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=1.2e-27
+gi|509555188|gb|AOUK01000034.1|	cmsearch-1.1.1	rna	586	834	114.2	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=1.3e-26
+gi|509555116|gb|AOUK01000065.1|	cmsearch-1.1.1	rna	68892	69131	113.1	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=2.5e-26
+gi|509555239|gb|AOUK01000015.1|	cmsearch-1.1.1	rna	13542	13748	111.3	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=7.3e-26
+gi|509555242|gb|AOUK01000014.1|	cmsearch-1.1.1	rna	5840	6078	104.8	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=3.6e-24
+gi|509555263|gb|AOUK01000003.1|	cmsearch-1.1.1	rna	85872	86074	97.2	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=3.2e-22
+gi|509555128|gb|AOUK01000059.1|	cmsearch-1.1.1	rna	82464	82591	81.5	+	.	gb_key=L10_leader;rfam_acc=RF00557;evalue=1.2e-12
+gi|509555242|gb|AOUK01000014.1|	cmsearch-1.1.1	rna	40105	40230	69.0	+	.	gb_key=L20_leader;rfam_acc=RF00558;evalue=2.3e-13
+gi|509555104|gb|AOUK01000072.1|	cmsearch-1.1.1	rna	125842	125918	58.5	-	.	gb_key=L21_leader;rfam_acc=RF00559;evalue=7.2e-11
+gi|509555217|gb|AOUK01000024.1|	cmsearch-1.1.1	rna	176455	176842	97.1	-	.	gb_key=cspA;rfam_acc=RF01766;evalue=7.8e-25
+gi|509555108|gb|AOUK01000070.1|	cmsearch-1.1.1	rna	9094	9499	79.8	+	.	gb_key=cspA;rfam_acc=RF01766;evalue=6.8e-20

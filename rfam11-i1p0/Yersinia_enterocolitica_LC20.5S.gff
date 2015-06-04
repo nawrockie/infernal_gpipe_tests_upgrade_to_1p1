@@ -1,0 +1,7 @@
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	392543	392658	92.75	+	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=4.66e-20
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	1106071	1106186	92.21	+	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=6.43e-20
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	3706173	3706288	92.21	-	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=6.43e-20
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	4368253	4368368	92.21	-	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=6.43e-20
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	4406947	4407062	92.21	-	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=6.43e-20
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	4565747	4565862	92.21	-	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=6.43e-20
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	4710202	4710317	92.21	-	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=6.43e-20

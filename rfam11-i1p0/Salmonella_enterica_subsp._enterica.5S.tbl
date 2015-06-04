@@ -1,0 +1,45 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Salmonella_enterica_subsp._enterica.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Salmonella_enterica_subsp._enterica/1582408-DENOVO-20150223-0902.1470964/output/bacterial_annot/JXYV01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:26 2015
+# num seqs:   37
+# dbsize(Mb): 9.899418
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     496.005     7.68   0.0082  00:01:28.86
+#   2   cm  cyk  loc  1e-07      24.128     8.41   0.0004  00:00:13.84
+#   3   cm  ins  loc  1e-15     1.7e-06    40.00  1.9e-11  00:00:04.54
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:47.25
+#
+#
+# CM: 5S_rRNA
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|758751984|gb|JXYV01000002.1|         668         783      1    119     83.86  9.10e-18   65
+  gi|758751792|gb|JXYV01000003.1|         210         325      1    119     83.46  1.15e-17   65
+  gi|758751792|gb|JXYV01000003.1|         436         550      1    119     54.07  4.13e-10   59
+  gi|758750935|gb|JXYV01000008.1|         314         429      1    119     83.46  1.15e-17   65
+  gi|758749736|gb|JXYV01000010.1|         351         466      1    119     84.23  7.31e-18   66
+  gi|758745060|gb|JXYV01000023.1|      262627      262512      1    119     84.23  7.31e-18   66
+  gi|758744184|gb|JXYV01000024.1|      803774      803659      1    119     84.69  5.57e-18   63
+  gi|758744184|gb|JXYV01000024.1|      804019      803904      1    119     83.86  9.10e-18   65
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     496.005      554    0.0082   0.0096
+#   2   cm  cyk  loc  1e-07      24.128       11    0.0004   0.0002
+#   3   cm  ins  loc  1e-15     1.7e-06        8   1.9e-11  9.4e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:47.25    00:01:33.00

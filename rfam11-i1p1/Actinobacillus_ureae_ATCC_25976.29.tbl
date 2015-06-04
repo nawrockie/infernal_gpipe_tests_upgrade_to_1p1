@@ -1,0 +1,17 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|323276546|gb|GL831080.1| -         RNaseP_bact_a        RF00010    cm        1      367   916705   917087      +    no    1 0.54   4.5  303.8  5.4e-104 !   Actinobacillus ureae ATCC 25976 SCAFFOLD1, whole genome shotgun sequence
+gi|323276546|gb|GL831080.1| -         FMN                  RF00050    cm        1      139  1562344  1562219      -    no    1 0.49   2.1  122.4   3.7e-31 !   Actinobacillus ureae ATCC 25976 SCAFFOLD1, whole genome shotgun sequence
+gi|323276546|gb|GL831080.1| -         S15                  RF00114    cm        1      116   769563   769441      -    no    1 0.39   1.9   93.4   1.2e-23 !   Actinobacillus ureae ATCC 25976 SCAFFOLD1, whole genome shotgun sequence
+gi|323276545|gb|GL831081.1| -         Glycine              RF00504    cm        1       94    11565    11462      -    no    1 0.51   8.2   57.2   1.5e-11 !   Actinobacillus ureae ATCC 25976 SCAFFOLD2, whole genome shotgun sequence
+gi|323276545|gb|GL831081.1| -         isrK                 RF01394    cm        1       77   324159   324070      -    no    1 0.42   0.2   45.7   7.7e-09 !   Actinobacillus ureae ATCC 25976 SCAFFOLD2, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Actinobacillus_ureae_ATCC_25976/244828-DENOVO-20150227-1622.1478424/output/bacterial_annot/AEVG01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Actinobacillus_ureae_ATCC_25976.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Actinobacillus_ureae_ATCC_25976/244828-DENOVO-20150227-1622.1478424/output/bacterial_annot/AEVG01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:48 2015
+# [ok]

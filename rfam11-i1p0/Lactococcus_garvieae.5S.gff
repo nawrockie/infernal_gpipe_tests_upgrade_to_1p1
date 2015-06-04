@@ -1,0 +1,3 @@
+gi|698836772|emb|CCXC01000001.1|	cmsearch-1.0	rna	1174316	1174431	84.45	+	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=2.91e-18
+gi|698836772|emb|CCXC01000001.1|	cmsearch-1.0	rna	1291875	1291990	70.62	+	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=1.05e-14
+gi|698836772|emb|CCXC01000001.1|	cmsearch-1.0	rna	1144288	1144403	85.10	-	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=1.98e-18

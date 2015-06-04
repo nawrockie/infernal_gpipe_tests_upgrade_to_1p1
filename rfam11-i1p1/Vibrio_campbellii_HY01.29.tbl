@@ -1,0 +1,24 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|124374465|gb|DS179599.1| -         FMN                  RF00050    cm        1      139    40924    40784      -    no    1 0.55   0.3  124.2   2.6e-31 !   Vibrio campbellii HY01 1104679442941, whole genome shotgun sequence
+gi|124374577|gb|DS179487.1| -         snoPyro_CD           RF00095    cm        1       58   134040   134087      +    no    1 0.52   0.1   20.1      0.22 !   Vibrio campbellii HY01 1104679442417, whole genome shotgun sequence
+gi|124374483|gb|DS179581.1| -         S15                  RF00114    cm        1      116    22055    21936      -    no    1 0.43   0.5   93.0   3.8e-23 !   Vibrio campbellii HY01 1104679442905, whole genome shotgun sequence
+gi|124374602|gb|DS179462.1| -         Purine               RF00167    cm        1      102    27378    27279      -    no    1 0.48   0.1   66.8   3.2e-14 !   Vibrio campbellii HY01 1104679442367, whole genome shotgun sequence
+gi|124374511|gb|DS179553.1| -         Cobalamin            RF00174    cm        1      190     3041     2840      -    no    1 0.48   0.3  101.9   5.4e-26 !   Vibrio campbellii HY01 1104679442649, whole genome shotgun sequence
+gi|124374551|gb|DS179513.1| -         K_chan_RES           RF00485    cm        1      114   305001   304885      -    no    1 0.44   0.5   20.2      0.15 !   Vibrio campbellii HY01 1104679442569, whole genome shotgun sequence
+gi|124374460|gb|DS179604.1| -         Glycine              RF00504    cm        1       94   188413   188312      -    no    1 0.53   2.9   68.8   2.9e-14 !   Vibrio campbellii HY01 1104679442951, whole genome shotgun sequence
+gi|124374603|gb|DS179461.1| -         c-di-GMP-I           RF01051    cm        1       87   124156   124245      +    no    1 0.56   0.6   67.9   5.9e-13 !   Vibrio campbellii HY01 1104679442365, whole genome shotgun sequence
+gi|124374595|gb|DS179469.1| -         STnc490k             RF01405    cm        1      124    94396    94274      -    no    1 0.41   0.4  117.5   3.8e-29 !   Vibrio campbellii HY01 1104679442381, whole genome shotgun sequence
+gi|124374602|gb|DS179462.1| -         cspA                 RF01766    cm        1      428    28795    28385      -    no    1 0.40   8.4   96.7   2.2e-29 !   Vibrio campbellii HY01 1104679442367, whole genome shotgun sequence
+gi|124374465|gb|DS179599.1| -         cspA                 RF01766    cm        1      428   118440   118009      -    no    1 0.40   7.8   79.4   1.2e-23 !   Vibrio campbellii HY01 1104679442941, whole genome shotgun sequence
+gi|124374633|gb|DS179431.1| -         Phe_leader           RF01859    cm        1      126     7860     7981      +    no    1 0.39   0.8   88.3   8.8e-20 !   Vibrio campbellii HY01 1104679442205, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Vibrio_campbellii_HY01/178998-DENOVO-20150227-1527.1477004/output/bacterial_annot/AAWP01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Vibrio_campbellii_HY01.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Vibrio_campbellii_HY01/178998-DENOVO-20150227-1527.1477004/output/bacterial_annot/AAWP01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:07 2015
+# [ok]

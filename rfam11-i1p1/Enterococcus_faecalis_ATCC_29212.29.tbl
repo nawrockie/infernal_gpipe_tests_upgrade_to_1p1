@@ -1,0 +1,43 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|401674701|gb|ALOD01000001.1| -         RNaseP_bact_a        RF00010    cm        1      367    39019    38636      -    no    1 0.45   3.8   50.2     4e-15 !   Enterococcus faecalis ATCC 29212 contig1, whole genome shotgun sequence
+gi|401674462|gb|ALOD01000007.1| -         FMN                  RF00050    cm        1      139    78434    78315      -    no    1 0.45   0.3   94.0   4.3e-23 !   Enterococcus faecalis ATCC 29212 contig7, whole genome shotgun sequence
+gi|401673929|gb|ALOD01000024.1| -         Purine               RF00167    cm        1      102    35427    35330      -    no    1 0.43   0.5   63.4   1.6e-13 !   Enterococcus faecalis ATCC 29212 contig24, whole genome shotgun sequence
+gi|401674598|gb|ALOD01000004.1| -         Cobalamin            RF00174    cm        1      190    32189    32349      +    no    1 0.40   3.5   57.5   1.3e-13 !   Enterococcus faecalis ATCC 29212 contig4, whole genome shotgun sequence
+gi|401674598|gb|ALOD01000004.1| -         Cobalamin            RF00174    cm        1      190    36451    36582      +    no    1 0.37   2.9   40.7   7.5e-09 !   Enterococcus faecalis ATCC 29212 contig4, whole genome shotgun sequence
+gi|401673994|gb|ALOD01000022.1| -         T-box                RF00230    cm        1      217    26213    26445      +    no    1 0.40   7.0  118.2   2.9e-30 !   Enterococcus faecalis ATCC 29212 contig22, whole genome shotgun sequence
+gi|401672885|gb|ALOD01000093.1| -         T-box                RF00230    cm        1      217    14147    14352      +    no    1 0.45   6.6  117.6   4.1e-30 !   Enterococcus faecalis ATCC 29212 contig95, whole genome shotgun sequence
+gi|401673994|gb|ALOD01000022.1| -         T-box                RF00230    cm        1      217    32789    32557      -    no    1 0.41   5.2  117.3   4.8e-30 !   Enterococcus faecalis ATCC 29212 contig22, whole genome shotgun sequence
+gi|401673101|gb|ALOD01000063.1| -         T-box                RF00230    cm        1      217     4861     5106      +    no    1 0.43   4.8  115.9   1.2e-29 !   Enterococcus faecalis ATCC 29212 contig63, whole genome shotgun sequence
+gi|401673054|gb|ALOD01000065.1| -         T-box                RF00230    cm        1      217    20038    19799      -    no    1 0.40   5.6  110.4   4.1e-28 !   Enterococcus faecalis ATCC 29212 contig65, whole genome shotgun sequence
+gi|401672393|gb|ALOD01000125.1| -         T-box                RF00230    cm        1      217    89319    89090      -    no    1 0.38  10.0  109.4     8e-28 !   Enterococcus faecalis ATCC 29212 contig4196, whole genome shotgun sequence
+gi|401673355|gb|ALOD01000048.1| -         T-box                RF00230    cm        1      217     2416     2622      +    no    1 0.45   0.3  103.4   3.7e-26 !   Enterococcus faecalis ATCC 29212 contig48, whole genome shotgun sequence
+gi|401673225|gb|ALOD01000056.1| -         T-box                RF00230    cm        1      217    38287    38073      -    no    1 0.37   7.7  101.6   1.2e-25 !   Enterococcus faecalis ATCC 29212 contig56, whole genome shotgun sequence
+gi|401674666|gb|ALOD01000002.1| -         T-box                RF00230    cm        1      217     3934     3716      -    no    1 0.38   7.4  101.4   1.4e-25 !   Enterococcus faecalis ATCC 29212 contig2, whole genome shotgun sequence
+gi|401674644|gb|ALOD01000003.1| -         T-box                RF00230    cm        1      217    19940    19695      -    no    1 0.38  11.4   99.8   3.7e-25 !   Enterococcus faecalis ATCC 29212 contig3, whole genome shotgun sequence
+gi|401672776|gb|ALOD01000114.1| -         T-box                RF00230    cm        1      217     5687     5934      +    no    1 0.41  10.0   99.5   4.5e-25 !   Enterococcus faecalis ATCC 29212 contig903, whole genome shotgun sequence
+gi|401674189|gb|ALOD01000014.1| -         T-box                RF00230    cm        1      217     6586     6383      -    no    1 0.45   0.8   98.5   8.7e-25 !   Enterococcus faecalis ATCC 29212 contig14, whole genome shotgun sequence
+gi|401674644|gb|ALOD01000003.1| -         T-box                RF00230    cm        1      217    19373    19123      -    no    1 0.44   5.1   95.0   7.8e-24 !   Enterococcus faecalis ATCC 29212 contig3, whole genome shotgun sequence
+gi|401672393|gb|ALOD01000125.1| -         T-box                RF00230    cm        1      217    83523    83348      -    no    1 0.35   8.3   93.2   2.6e-23 !   Enterococcus faecalis ATCC 29212 contig4196, whole genome shotgun sequence
+gi|401674055|gb|ALOD01000019.1| -         T-box                RF00230    cm        1      217    29333    29537      +    no    1 0.41   2.1   92.7   3.5e-23 !   Enterococcus faecalis ATCC 29212 contig19, whole genome shotgun sequence
+gi|401673994|gb|ALOD01000022.1| -         T-box                RF00230    cm        1      217    32402    32160      -    no    1 0.37   7.0   89.5   2.7e-22 !   Enterococcus faecalis ATCC 29212 contig22, whole genome shotgun sequence
+gi|401673553|gb|ALOD01000037.1| -         T-box                RF00230    cm        1      217    12521    12304      -    no    1 0.40   2.6   87.4   1.1e-21 !   Enterococcus faecalis ATCC 29212 contig37, whole genome shotgun sequence
+gi|401674375|gb|ALOD01000009.1| -         T-box                RF00230    cm        1      217    23538    23331      -    no    1 0.43   4.0   87.0   1.4e-21 !   Enterococcus faecalis ATCC 29212 contig9, whole genome shotgun sequence
+gi|401673456|gb|ALOD01000042.1| -         T-box                RF00230    cm        1      217     1251     1022      -    no    1 0.44   4.1   76.2   1.4e-18 !   Enterococcus faecalis ATCC 29212 contig42, whole genome shotgun sequence
+gi|401674407|gb|ALOD01000008.1| -         T-box                RF00230    cm        1      217    72650    72849      +    no    1 0.41   1.7   75.4   2.3e-18 !   Enterococcus faecalis ATCC 29212 contig8, whole genome shotgun sequence
+gi|401673835|gb|ALOD01000026.1| -         T-box                RF00230    cm        1      217    57978    58146      +    no    1 0.45   5.7   67.2   4.3e-16 !   Enterococcus faecalis ATCC 29212 contig26, whole genome shotgun sequence
+gi|401673607|gb|ALOD01000035.1| -         L10_leader           RF00557    cm        1      139    59314    59443      +    no    1 0.40   1.1   80.7   3.2e-16 !   Enterococcus faecalis ATCC 29212 contig35, whole genome shotgun sequence
+gi|401673892|gb|ALOD01000025.1| -         L20_leader           RF00558    cm        1      127    47584    47715      +    no    1 0.40   1.8   52.8   3.8e-11 !   Enterococcus faecalis ATCC 29212 contig25, whole genome shotgun sequence
+gi|401673553|gb|ALOD01000037.1| -         L21_leader           RF00559    cm        1       77    43090    43015      -    no    1 0.43   0.2   70.3   1.6e-15 !   Enterococcus faecalis ATCC 29212 contig37, whole genome shotgun sequence
+gi|401674407|gb|ALOD01000008.1| -         cspA                 RF01766    cm        1      428    61047    60655      -    no    1 0.35  20.4   76.6   5.8e-23 !   Enterococcus faecalis ATCC 29212 contig8, whole genome shotgun sequence
+gi|401673006|gb|ALOD01000073.1| -         cspA                 RF01766    cm        1      428     6784     6425      -    no    1 0.36  22.9   64.1   9.1e-19 !   Enterococcus faecalis ATCC 29212 contig73, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Enterococcus_faecalis_ATCC_29212/415128-DENOVO-20150227-1712.1480954/output/bacterial_annot/ALOD01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Enterococcus_faecalis_ATCC_29212.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Enterococcus_faecalis_ATCC_29212/415128-DENOVO-20150227-1712.1480954/output/bacterial_annot/ALOD01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:32 2015
+# [ok]

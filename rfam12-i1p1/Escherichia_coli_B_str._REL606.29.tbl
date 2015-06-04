@@ -1,0 +1,39 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|253972022|gb|CP000819.1| -         RNaseP_bact_a        RF00010    cm        1      367  3203521  3203145      -    no    1 0.62   6.8  312.6  1.7e-101 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         FMN                  RF00050    cm        1      140  3118890  3118742      -    no    1 0.58   0.0  127.0   6.7e-31 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         SIB_RNA              RF00113    cm        1      147  2085726  2085874      +    no    1 0.46   0.0  148.7   2.8e-33 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         SIB_RNA              RF00113    cm        1      147  3127734  3127585      -    no    1 0.42   0.0  147.9   4.5e-33 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         SIB_RNA              RF00113    cm        1      147  3128109  3127960      -    no    1 0.41   0.0  141.3   1.9e-31 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         SIB_RNA              RF00113    cm        1      147  2086062  2086204      +    no    1 0.48   0.0  138.7   8.8e-31 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         SIB_RNA              RF00113    cm        1      147  2086718  2086860      +    no    1 0.48   0.0  136.7   2.8e-30 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         SIB_RNA              RF00113    cm        1      147  2942566  2942716      +    no    1 0.41   0.0  136.1   3.7e-30 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         SIB_RNA              RF00113    cm        1      147  2086390  2086532      +    no    1 0.50   0.0  134.4     1e-29 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         S15                  RF00114    cm        1      117  3246976  3246862      -    no    1 0.40   0.0  115.6   1.5e-28 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         Cobalamin            RF00174    cm        1      191  4143245  4143435      +    no    1 0.55   0.0   98.2   7.9e-26 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         DnaX                 RF00382    cm        1       65   465423   465487      +    no    1 0.62   0.0   96.8     1e-21 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         RtT                  RF00391    cm        1      130  1286991  1286860      -    no    1 0.62   0.0  132.1   5.1e-30 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         RtT                  RF00391    cm        1      130  1287288  1287157      -    no    1 0.57   0.0  131.2   8.6e-30 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         RtT                  RF00391    cm        1      130  3639039  3638906      -    no    1 0.62   0.0  105.7   3.1e-23 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         RtT                  RF00391    cm        1      130   761443   761611      +    no    1 0.52   0.0   64.2   1.5e-12 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         RtT                  RF00391    cm        1      130   762160   762327      +    no    1 0.51   0.0   60.7   1.2e-11 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         RtT                  RF00391    cm        1      130   761938   762104      +    no    1 0.51   0.0   51.4   2.9e-09 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         RtT                  RF00391    cm        1      130   942723   942588      -    no    1 0.66   0.5   45.6   9.1e-08 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         cspA                 RF01766    cm        1      428  3650347  3650774      +    no    1 0.45   0.0  493.4  9.5e-138 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         cspA                 RF01766    cm        1      428  1067596  1068018      +    no    1 0.42   0.0  164.9   5.6e-44 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         cspA                 RF01766    cm        1      428  1886190  1885730      -    no    1 0.44   0.0  140.5   5.1e-37 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         cspA                 RF01766    cm        1      428   639688   640130      +    no    1 0.39   1.1  128.5   1.4e-33 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         cspA                 RF01766    cm        1      428  1611018  1610621      -    no    1 0.37   7.0  113.9     2e-29 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         ROSE_2               RF01832    cm        1       73  3827849  3827777      -    no    1 0.45   0.0  100.3   1.8e-23 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         Phe_leader           RF01859    cm        1      125  2659006  2659130      +    no    1 0.46   0.0  125.9     5e-24 !   Escherichia coli B str. REL606, complete genome
+gi|253972022|gb|CP000819.1| -         Phe_leader           RF01859    cm        1      125  1776543  1776419      -    no    1 0.46   0.0   77.4   2.9e-13 !   Escherichia coli B str. REL606, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Escherichia_coli_B_str._REL606/18788-DENOVO-20150207-1327.1452534/output/bacterial_annot/ASM1798v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Escherichia_coli_B_str._REL606.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Escherichia_coli_B_str._REL606/18788-DENOVO-20150207-1327.1452534/output/bacterial_annot/ASM1798v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:22 2015
+# [ok]

@@ -1,0 +1,19 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|71801762|gb|CP000056.1| -         FMN                  RF00050    cm        1      140   320678   320802      +    no    1 0.55   0.0  118.5   5.7e-29 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         Purine               RF00167    cm        1      102   851504   851599      +    no    1 0.35   0.0   52.8   1.6e-08 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         T-box                RF00230    cm        1      224  1887371  1887130      -    no    1 0.37   0.4  108.2   3.1e-25 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         Glycine              RF00504    cm        1       94   967294   967380      +    no    1 0.51   0.0   73.3   1.2e-15 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         L10_leader           RF00557    cm        1      139   797961   798096      +    no    1 0.38   0.0   87.2     6e-14 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         L20_leader           RF00558    cm        1      127   620585   620708      +    no    1 0.43   0.0   82.6   6.8e-17 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         L21_leader           RF00559    cm        1       78   635465   635539      +    no    1 0.53   0.0   57.6   8.2e-11 !   Streptococcus pyogenes MGAS6180, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Streptococcus_pyogenes_MGAS6180/12968-DENOVO-20150227-1527.1476164/output/bacterial_annot/ASM1216v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Streptococcus_pyogenes_MGAS6180.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Streptococcus_pyogenes_MGAS6180/12968-DENOVO-20150227-1527.1476164/output/bacterial_annot/ASM1216v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:53 2015
+# [ok]

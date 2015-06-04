@@ -1,0 +1,22 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|742256977|gb|JTAM01000031.1| -         RNaseP_bact_a        RF00010    cm        1      367    56776    56394      -    no    1 0.49   0.0  271.2   1.9e-87 !   Flammeovirga sp. OC4 contig33, whole genome shotgun sequence
+gi|742256900|gb|JTAM01000108.1| -         SAM                  RF00162    cm        1      108     7341     7448      +    no    1 0.53   0.0   73.0   8.4e-15 !   Flammeovirga sp. OC4 contig118, whole genome shotgun sequence
+gi|742256998|gb|JTAM01000010.1| -         SAM                  RF00162    cm        1      108    67863    67972      +    no    1 0.48   0.0   68.8   1.1e-13 !   Flammeovirga sp. OC4 contig11, whole genome shotgun sequence
+gi|742257003|gb|JTAM01000005.1| -         SAM                  RF00162    cm        1      108   160673   160776      +    no    1 0.38   0.0   67.8     2e-13 !   Flammeovirga sp. OC4 contig5, whole genome shotgun sequence
+gi|742256932|gb|JTAM01000076.1| -         Cobalamin            RF00174    cm        1      191     4113     3912      -    no    1 0.36   0.5  111.1   2.1e-29 !   Flammeovirga sp. OC4 contig83, whole genome shotgun sequence
+gi|742256981|gb|JTAM01000027.1| -         Cobalamin            RF00174    cm        1      191   101285   101468      +    no    1 0.34   0.7   96.4   4.6e-25 !   Flammeovirga sp. OC4 contig29, whole genome shotgun sequence
+gi|742257007|gb|JTAM01000001.1| -         Cobalamin            RF00174    cm        1      191   315791   315605      -    no    1 0.37   0.1   92.2   7.8e-24 !   Flammeovirga sp. OC4 contig1, whole genome shotgun sequence
+gi|742256999|gb|JTAM01000009.1| -         Cobalamin            RF00174    cm        1      191    65640    65465      -    no    1 0.38   0.1   88.5   9.8e-23 !   Flammeovirga sp. OC4 contig10, whole genome shotgun sequence
+gi|742257004|gb|JTAM01000004.1| -         Cobalamin            RF00174    cm        1      191   228213   228021      -    no    1 0.35   2.9   85.2   9.5e-22 !   Flammeovirga sp. OC4 contig4, whole genome shotgun sequence
+gi|742257007|gb|JTAM01000001.1| -         Cobalamin            RF00174    cm        1      191    43723    43920      +    no    1 0.36   0.1   78.8   7.3e-20 !   Flammeovirga sp. OC4 contig1, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Flammeovirga_sp._OC4/1460978-DENOVO-20150227-2122.1491204/output/bacterial_annot/JTAM01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Flammeovirga_sp._OC4.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Flammeovirga_sp._OC4/1460978-DENOVO-20150227-2122.1491204/output/bacterial_annot/JTAM01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:54 2015
+# [ok]

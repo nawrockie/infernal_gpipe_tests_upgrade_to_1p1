@@ -1,0 +1,29 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|595639001|gb|CP007448.1| -         RNaseP_bact_a        RF00010    cm        1      367   616518   616896      +    no    1 0.61   5.6  324.0  2.8e-105 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         FMN                  RF00050    cm        1      140   734977   734793      -    no    1 0.56   0.0  116.8   4.1e-28 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         S15                  RF00114    cm        1      117  4202975  4202857      -    no    1 0.41   0.0  111.1   2.8e-27 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         Cobalamin            RF00174    cm        1      191  4574364  4574152      -    no    1 0.52   0.0  108.7   6.7e-29 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         Cobalamin            RF00174    cm        1      191  1794963  1795155      +    no    1 0.51   0.0  105.8   4.7e-28 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         DnaX                 RF00382    cm        1       65  1307789  1307853      +    no    1 0.62   2.4   43.4   8.2e-08 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         RtT                  RF00391    cm        1      130  3378240  3378115      -    no    1 0.62   0.0   99.8   1.1e-21 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         RtT                  RF00391    cm        1      130  1516334  1516455      +    no    1 0.59   0.0   76.9   8.3e-16 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         RtT                  RF00391    cm        1      130  1516617  1516728      +    no    1 0.60   0.0   68.6   1.1e-13 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         cspA                 RF01766    cm        1      428  1881433  1881875      +    no    1 0.43   0.0  274.7   2.6e-75 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         cspA                 RF01766    cm        1      428   501517   501081      -    no    1 0.40   0.2  265.6     1e-72 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         cspA                 RF01766    cm        1      428   501996   501556      -    no    1 0.43   0.0  241.8   6.4e-66 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         cspA                 RF01766    cm        1      428  2757353  2756922      -    no    1 0.44   0.0  153.4   1.1e-40 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         cspA                 RF01766    cm        1      428  3021110  3020610      -    no    1 0.42   0.2  106.3   3.2e-27 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         cspA                 RF01766    cm        1      428  1418647  1419006      +    no    1 0.42   0.0  100.8   1.2e-25 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         Phe_leader           RF01859    cm        1      125  3717954  3718078      +    no    1 0.42   0.0  133.2   1.3e-25 !   Yersinia enterocolitica LC20, complete genome
+gi|595639001|gb|CP007448.1| -         Phe_leader           RF01859    cm        1      125  2603332  2603210      -    no    1 0.41   0.0   78.8   1.5e-13 !   Yersinia enterocolitica LC20, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Yersinia_enterocolitica_LC20/972558-DENOVO-20150227-1937.1487204/output/bacterial_annot/ASM59794v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Yersinia_enterocolitica_LC20.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Yersinia_enterocolitica_LC20/972558-DENOVO-20150227-1937.1487204/output/bacterial_annot/ASM59794v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:04 2015
+# [ok]

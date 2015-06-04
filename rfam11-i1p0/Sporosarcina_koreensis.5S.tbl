@@ -1,0 +1,44 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Sporosarcina_koreensis.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Sporosarcina_koreensis/1485998-DENOVO-20150121-0952.1441224/output/bacterial_annot/CDGU01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:16 2015
+# num seqs:   8
+# dbsize(Mb): 5.824852
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     291.851     7.68   0.0082  00:00:52.28
+#   2   cm  cyk  loc  1e-07      14.197     8.41   0.0004  00:00:06.78
+#   3   cm  ins  loc  1e-15     1.0e-06    40.00  1.9e-11  00:00:02.12
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:01.20
+#
+#
+# CM: 5S_rRNA
+#                                             target coord   query coord                         
+#                                   ----------------------  ------------                         
+# target name                            start        stop  start   stop    bit sc   E-value  GC%
+# --------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|723784403|emb|CDGU01000002.1|      173506      173391      1    119     92.19  3.86e-20   56
+  gi|723784402|emb|CDGU01000003.1|         321         436      1    119     89.60  1.79e-19   57
+  gi|723784400|emb|CDGU01000005.1|      370072      369957      1    119     89.60  1.79e-19   57
+  gi|723784400|emb|CDGU01000005.1|      161807      161692      1    119     87.80  5.20e-19   59
+  gi|723784399|emb|CDGU01000006.1|         353         468      1    119     92.19  3.86e-20   56
+  gi|723784397|emb|CDGU01000008.1|      528081      527966      1    119     92.19  3.86e-20   56
+  gi|723784397|emb|CDGU01000008.1|      521940      521825      1    119     91.94  4.48e-20   58
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     291.851      248    0.0082   0.0072
+#   2   cm  cyk  loc  1e-07      14.197        9    0.0004   0.0003
+#   3   cm  ins  loc  1e-15     1.0e-06        7   1.9e-11   0.0001
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:01.20    00:00:54.00

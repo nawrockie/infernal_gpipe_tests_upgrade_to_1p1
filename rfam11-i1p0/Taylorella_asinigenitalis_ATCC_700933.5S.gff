@@ -1,0 +1,3 @@
+gi|607832426|gb|JHXN01000003.1|	cmsearch-1.0	rna	138643	138755	84.89	-	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=1.62e-18
+gi|607832415|gb|JHXN01000007.1|	cmsearch-1.0	rna	190	302	84.89	+	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=1.62e-18
+gi|607832348|gb|JHXN01000027.1|	cmsearch-1.0	rna	2719	2831	84.89	-	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=1.62e-18

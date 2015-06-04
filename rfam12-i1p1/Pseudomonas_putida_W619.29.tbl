@@ -1,0 +1,21 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|169757190|gb|CP000949.1| -         RNaseP_bact_a        RF00010    cm        1      367  1028320  1028693      +    no    1 0.59   0.1  333.0  3.3e-108 !   Pseudomonas putida W619, complete genome
+gi|169757190|gb|CP000949.1| -         FMN                  RF00050    cm        1      140   639408   639267      -    no    1 0.64   0.0  113.7   3.4e-27 !   Pseudomonas putida W619, complete genome
+gi|169757190|gb|CP000949.1| -         S15                  RF00114    cm        1      117   797995   798092      +    no    1 0.52   0.0   56.8   3.7e-12 !   Pseudomonas putida W619, complete genome
+gi|169757190|gb|CP000949.1| -         Cobalamin            RF00174    cm        1      191  2162272  2162066      -    no    1 0.64   0.1  127.4   2.2e-34 !   Pseudomonas putida W619, complete genome
+gi|169757190|gb|CP000949.1| -         Cobalamin            RF00174    cm        1      191  2158518  2158320      -    no    1 0.63   0.4  116.9   2.9e-31 !   Pseudomonas putida W619, complete genome
+gi|169757190|gb|CP000949.1| -         Cobalamin            RF00174    cm        1      191  3070260  3070485      +    no    1 0.65   1.1  114.8   1.2e-30 !   Pseudomonas putida W619, complete genome
+gi|169757190|gb|CP000949.1| -         Cobalamin            RF00174    cm        1      191  3069362  3069152      -    no    1 0.64   0.3  108.3   9.7e-29 !   Pseudomonas putida W619, complete genome
+gi|169757190|gb|CP000949.1| -         Cobalamin            RF00174    cm        1      191  1362675  1362895      +    no    1 0.69   7.6  104.7   1.2e-27 !   Pseudomonas putida W619, complete genome
+gi|169757190|gb|CP000949.1| -         isrK                 RF01394    cm        1       77  4793476  4793561      +    no    1 0.55   0.0   53.5   3.5e-10 !   Pseudomonas putida W619, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Pseudomonas_putida_W619/20248-DENOVO-20150207-1327.1452624/output/bacterial_annot/ASM1944v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Pseudomonas_putida_W619.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Pseudomonas_putida_W619/20248-DENOVO-20150207-1327.1452624/output/bacterial_annot/ASM1944v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:01 2015
+# [ok]

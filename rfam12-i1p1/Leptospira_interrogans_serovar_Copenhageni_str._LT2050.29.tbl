@@ -1,0 +1,16 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|456989295|gb|AFMD02000025.1| -         RNaseP_bact_a        RF00010    cm        1      367    11380    10993      -    no    1 0.47   0.0  265.5   8.6e-86 !   Leptospira interrogans serovar Copenhageni str. LT2050 ctg7180000004373, whole genome shotgun sequence
+gi|456984815|gb|AFMD02000380.1| -         Cobalamin            RF00174    cm        1      191     2912     2732      -    no    1 0.46   0.0  105.6   4.9e-28 !   Leptospira interrogans serovar Copenhageni str. LT2050 ctg7180000004207, whole genome shotgun sequence
+gi|456983121|gb|AFMD02000504.1| -         Cobalamin            RF00174    cm        1      191     4654     4838      +    no    1 0.43   0.0   87.3   1.2e-22 !   Leptospira interrogans serovar Copenhageni str. LT2050 ctg7180000004285, whole genome shotgun sequence
+gi|456988994|gb|AFMD02000050.1| -         Cobalamin            RF00174    cm        1      191     1093      946      -    no    1 0.39   0.0   31.5   4.1e-06 !   Leptospira interrogans serovar Copenhageni str. LT2050 ctg7180000004466, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Leptospira_interrogans_serovar_Copenhageni_str._LT2050/554588-DENOVO-20150227-1757.1482264/output/bacterial_annot/AFMD02.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Leptospira_interrogans_serovar_Copenhageni_str._LT2050.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Leptospira_interrogans_serovar_Copenhageni_str._LT2050/554588-DENOVO-20150227-1757.1482264/output/bacterial_annot/AFMD02.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:50 2015
+# [ok]

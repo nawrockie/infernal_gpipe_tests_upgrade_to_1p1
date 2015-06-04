@@ -1,0 +1,40 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam12-i1p0/Thiomicrospira_crunogena_XCL-2.5S.tbl ./RF00001.rfam12.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Thiomicrospira_crunogena_XCL-2/13408-DENOVO-20150227-1527.1476194/output/bacterial_annot/ASM1260v1.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:25 2015
+# num seqs:   1
+# dbsize(Mb): 4.855468
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      95.709     8.84   0.0054  00:00:35.66
+#   2   cm  cyk  loc  1e-07       4.673     9.30   0.0003  00:00:04.81
+#   3   cm  ins  loc  1e-15     4.1e-07    40.00  9.6e-12  00:00:02.28
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:42.76
+#
+#
+# CM: 5S_rRNA
+#                                        target coord   query coord                         
+#                              ----------------------  ------------                         
+# target name                       start        stop  start   stop    bit sc   E-value  GC%
+# ---------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|110744159|gb|CP000109.2|     1632101     1631987      1    119     77.12  7.45e-17   52
+  gi|110744159|gb|CP000109.2|     1949913     1949799      1    119     77.12  7.45e-17   52
+  gi|110744159|gb|CP000109.2|     2136203     2136089      1    119     77.12  7.45e-17   52
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      95.709       48    0.0054   0.0027
+#   2   cm  cyk  loc  1e-07       4.673        3    0.0003   0.0002
+#   3   cm  ins  loc  1e-15     4.1e-07        3   9.6e-12  7.1e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:42.76    00:00:43.00

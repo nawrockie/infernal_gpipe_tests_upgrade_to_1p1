@@ -1,0 +1,45 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Pseudomonas_putida_W619.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Pseudomonas_putida_W619/20248-DENOVO-20150207-1327.1452624/output/bacterial_annot/ASM1944v1.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:12 2015
+# num seqs:   1
+# dbsize(Mb): 11.548660
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     578.639     7.68   0.0082  00:02:30.79
+#   2   cm  cyk  loc  1e-07      28.147     8.41   0.0004  00:00:26.92
+#   3   cm  ins  loc  1e-15     2.0e-06    40.00  1.9e-11  00:00:05.57
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:03:03.28
+#
+#
+# CM: 5S_rRNA
+#                                        target coord   query coord                         
+#                              ----------------------  ------------                         
+# target name                       start        stop  start   stop    bit sc   E-value  GC%
+# ---------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|169757190|gb|CP000949.1|     1299777     1299892      1    119     98.68  1.65e-21   52
+  gi|169757190|gb|CP000949.1|      844746      844861      1    119     98.68  1.65e-21   52
+  gi|169757190|gb|CP000949.1|     3775923     3775808      1    119     98.68  1.65e-21   52
+  gi|169757190|gb|CP000949.1|     5036719     5036604      1    119     98.68  1.65e-21   52
+  gi|169757190|gb|CP000949.1|     5251237     5251122      1    119     98.68  1.65e-21   52
+  gi|169757190|gb|CP000949.1|     5611328     5611213      1    119     98.68  1.65e-21   52
+  gi|169757190|gb|CP000949.1|     5616923     5616808      1    119     98.68  1.65e-21   52
+  gi|169757190|gb|CP000949.1|     5611103     5610988      1    119     98.58  1.74e-21   53
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     578.639      243    0.0082   0.0036
+#   2   cm  cyk  loc  1e-07      28.147       13    0.0004   0.0002
+#   3   cm  ins  loc  1e-15     2.0e-06        8   1.9e-11  8.0e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:03:03.28    00:01:43.00

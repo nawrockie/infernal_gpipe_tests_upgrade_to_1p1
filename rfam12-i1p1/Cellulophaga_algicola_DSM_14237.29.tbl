@@ -1,0 +1,16 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|319420253|gb|CP002453.1| -         RNaseP_bact_a        RF00010    cm        1      367  3340876  3341197      +    no    1 0.44   0.0  180.9   1.6e-57 !   Cellulophaga algicola DSM 14237, complete genome
+gi|319420253|gb|CP002453.1| -         SAM                  RF00162    cm        1      108  2488463  2488590      +    no    1 0.36   0.0   76.5   6.1e-16 !   Cellulophaga algicola DSM 14237, complete genome
+gi|319420253|gb|CP002453.1| -         SAM                  RF00162    cm        1      108  2472605  2472730      +    no    1 0.38   0.0   69.3   4.8e-14 !   Cellulophaga algicola DSM 14237, complete genome
+gi|319420253|gb|CP002453.1| -         Cobalamin            RF00174    cm        1      191    67880    67643      -    no    1 0.38   0.0   89.3   3.6e-23 !   Cellulophaga algicola DSM 14237, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Cellulophaga_algicola_DSM_14237/240508-DENOVO-20150121-1607.1441784/output/bacterial_annot/ASM18626v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Cellulophaga_algicola_DSM_14237.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Cellulophaga_algicola_DSM_14237/240508-DENOVO-20150121-1607.1441784/output/bacterial_annot/ASM18626v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:29 2015
+# [ok]

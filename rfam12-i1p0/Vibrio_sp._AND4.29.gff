@@ -1,0 +1,9 @@
+gi|159175546|gb|ABGR01000001.1|	cmsearch-1.0	rna	230576	230717	127.75	-	.	gb_key=FMN;rfam_acc=RF00050;evalue=1.65e-31
+gi|159173814|gb|ABGR01000008.1|	cmsearch-1.0	rna	23065	23184	89.97	+	.	gb_key=S15;rfam_acc=RF00114;evalue=1.43e-24
+gi|159172789|gb|ABGR01000027.1|	cmsearch-1.0	rna	3717	3919	106.46	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=4.42e-29
+gi|159175033|gb|ABGR01000002.1|	cmsearch-1.0	rna	105979	106066	59.69	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=6.03e-12
+gi|159174091|gb|ABGR01000006.1|	cmsearch-1.0	rna	118490	118579	75.23	+	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=1.86e-16
+gi|159175546|gb|ABGR01000001.1|	cmsearch-1.0	rna	278527	278963	89.38	-	.	gb_key=cspA;rfam_acc=RF01766;evalue=1.01e-26
+gi|159174684|gb|ABGR01000003.1|	cmsearch-1.0	rna	64343	64754	93.16	+	.	gb_key=cspA;rfam_acc=RF01766;evalue=5.76e-28
+gi|159173704|gb|ABGR01000009.1|	cmsearch-1.0	rna	102369	102801	88.19	+	.	gb_key=cspA;rfam_acc=RF01766;evalue=2.48e-26
+gi|159173704|gb|ABGR01000009.1|	cmsearch-1.0	rna	22163	22284	83.60	-	.	gb_key=Phe_leader;rfam_acc=RF01859;evalue=5.73e-19

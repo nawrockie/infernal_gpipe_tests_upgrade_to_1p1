@@ -1,0 +1,24 @@
+#target name                      accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|482628550|emb|CAVJ010000273.1| -         RNaseP_bact_a        RF00010    cm        1      367    50930    51343      +    no    1 0.71  39.7  269.9   4.2e-87 !   Rhodococcus sp. EsD8, whole genome shotgun sequence
+gi|482630036|emb|CAVJ010000202.1| -         SAM                  RF00162    cm        1      108    24138    24229      +    no    1 0.68   0.3   45.7   1.1e-07 !   Rhodococcus sp. EsD8, whole genome shotgun sequence
+gi|482629373|emb|CAVJ010000231.1| -         Cobalamin            RF00174    cm        1      191    41701    41504      -    no    1 0.68   6.1  106.4   4.1e-28 !   Rhodococcus sp. EsD8, whole genome shotgun sequence
+gi|482629373|emb|CAVJ010000231.1| -         Cobalamin            RF00174    cm        1      191    47023    47217      +    no    1 0.72  12.1   82.6   4.5e-21 !   Rhodococcus sp. EsD8, whole genome shotgun sequence
+gi|482629373|emb|CAVJ010000231.1| -         Cobalamin            RF00174    cm       50      167    31442    31506      +    no    1 0.68   0.0   44.8   7.1e-10 !   Rhodococcus sp. EsD8, whole genome shotgun sequence
+gi|482629373|emb|CAVJ010000231.1| -         Cobalamin            RF00174    cm        1      191    79806    79949      +    no    1 0.71   3.7   31.3   6.7e-06 !   Rhodococcus sp. EsD8, whole genome shotgun sequence
+gi|482634188|emb|CAVJ010000034.1| -         Cobalamin            RF00174    cm        1      191    83835    83954      +    no    1 0.71   0.9   30.9   9.1e-06 !   Rhodococcus sp. EsD8, whole genome shotgun sequence
+gi|482632401|emb|CAVJ010000105.1| -         Glycine              RF00504    cm        1       94    30622    30716      +    no    1 0.69   0.0   58.6   3.3e-11 !   Rhodococcus sp. EsD8, whole genome shotgun sequence
+gi|482632953|emb|CAVJ010000083.1| -         ALIL                 RF01497    cm        1      117      337      471      +    no    1 0.59   0.0   69.2   3.5e-17 !   Rhodococcus sp. EsD8, whole genome shotgun sequence
+gi|482628379|emb|CAVJ010000287.1| -         ALIL                 RF01497    cm        1      117      730      599      -    no    1 0.67   0.1   68.4   6.3e-17 !   Rhodococcus sp. EsD8, whole genome shotgun sequence
+gi|482632531|emb|CAVJ010000100.1| -         ASpks                RF01782    cm        1       75    33527    33598      +    no    1 0.72   0.1   80.4   5.8e-15 !   Rhodococcus sp. EsD8, whole genome shotgun sequence
+gi|482632531|emb|CAVJ010000100.1| -         ASpks                RF01782    cm        1       75    38723    38797      +    no    1 0.76   1.5   52.1   2.3e-08 !   Rhodococcus sp. EsD8, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Rhodococcus_sp._EsD8/608128-DENOVO-20150227-1757.1482844/output/bacterial_annot/CAVJ01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Rhodococcus_sp._EsD8.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Rhodococcus_sp._EsD8/608128-DENOVO-20150227-1757.1482844/output/bacterial_annot/CAVJ01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:25 2015
+# [ok]

@@ -1,0 +1,47 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam12-i1p0/Clostridium_perfringens_B_str._ATCC_3626.5S.tbl ./RF00001.rfam12.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Clostridium_perfringens_B_str._ATCC_3626/210638-DENOVO-20150207-1327.1453644/output/bacterial_annot/ABDV01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:13 2015
+# num seqs:   98
+# dbsize(Mb): 7.792610
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     153.605     8.84   0.0054  00:01:35.38
+#   2   cm  cyk  loc  1e-07       7.499     9.30   0.0003  00:00:15.45
+#   3   cm  ins  loc  1e-15     6.6e-07    40.00  9.6e-12  00:00:05.50
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:56.35
+#
+#
+# CM: 5S_rRNA
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|151558379|gb|ABDV01000015.1|        4770        4888      1    119     65.00  1.81e-13   52
+  gi|151558378|gb|ABDV01000016.1|       75314       75197      1    119     67.14  4.96e-14   53
+  gi|151558369|gb|ABDV01000025.1|       29067       29184      1    119     69.24  1.40e-14   52
+  gi|151558369|gb|ABDV01000025.1|       28866       28983      1    119     67.14  4.96e-14   53
+  gi|151558364|gb|ABDV01000030.1|        4105        4222      1    119     67.14  4.96e-14   53
+  gi|151558359|gb|ABDV01000035.1|       28796       28679      1    119     67.14  4.96e-14   53
+  gi|151558358|gb|ABDV01000036.1|       23422       23304      1    119     65.00  1.81e-13   52
+  gi|151558353|gb|ABDV01000041.1|       17313       17196      1    119     67.14  4.96e-14   53
+  gi|151558342|gb|ABDV01000052.1|        9863        9746      1    119     67.14  4.96e-14   53
+  gi|151558341|gb|ABDV01000053.1|        4104        4221      1    119     67.14  4.96e-14   53
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     153.605       11    0.0054   0.0004
+#   2   cm  cyk  loc  1e-07       7.499       11    0.0003   0.0004
+#   3   cm  ins  loc  1e-15     6.6e-07       10   9.6e-12   0.0002
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:56.35    00:01:06.00

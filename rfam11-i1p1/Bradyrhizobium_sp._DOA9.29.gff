@@ -1,0 +1,9 @@
+gi|604719055|dbj|BAWE01000004.1|	cmsearch-1.1.1	rna	975016	975433	278.4	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=1.4e-94
+gi|604719055|dbj|BAWE01000004.1|	cmsearch-1.1.1	rna	237203	237361	112.1	+	.	gb_key=FMN;rfam_acc=RF00050;evalue=9.2e-28
+gi|604719055|dbj|BAWE01000004.1|	cmsearch-1.1.1	rna	713353	713401	20.6	+	.	gb_key=snoPyro_CD;rfam_acc=RF00095;evalue=0.23
+gi|604719055|dbj|BAWE01000004.1|	cmsearch-1.1.1	rna	1831294	1831497	139.8	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=1.3e-36
+gi|604719055|dbj|BAWE01000004.1|	cmsearch-1.1.1	rna	1827873	1828092	102.0	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=7.3e-26
+gi|604719055|dbj|BAWE01000004.1|	cmsearch-1.1.1	rna	1814524	1814745	92.5	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=3.8e-23
+gi|604719054|dbj|BAWE01000005.1|	cmsearch-1.1.1	rna	787970	788059	59.3	+	.	gb_key=Glycine;rfam_acc=RF00504;evalue=1.4e-11
+gi|604719053|dbj|BAWE01000006.1|	cmsearch-1.1.1	rna	228172	228271	57.9	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=3.3e-11
+gi|604719055|dbj|BAWE01000004.1|	cmsearch-1.1.1	rna	2957741	2957812	21.6	-	.	gb_key=L21_leader;rfam_acc=RF00559;evalue=0.13

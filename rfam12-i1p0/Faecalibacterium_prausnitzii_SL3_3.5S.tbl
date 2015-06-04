@@ -1,0 +1,37 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam12-i1p0/Faecalibacterium_prausnitzii_SL3_3.5S.tbl ./RF00001.rfam12.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Faecalibacterium_prausnitzii_SL3_3/272418-DENOVO-20150227-1622.1478734/output/bacterial_annot/ASM20985v1.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:30 2015
+# num seqs:   1
+# dbsize(Mb): 6.428836
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     126.723     8.84   0.0054  00:00:41.97
+#   2   cm  cyk  loc  1e-07       6.187     9.30   0.0003  00:00:06.37
+#   3   cm  ins  loc  1e-15     5.4e-07    40.00  9.6e-12  00:00:02.17
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:50.51
+#
+#
+# CM: 5S_rRNA
+#                                         target coord   query coord                         
+#                               ----------------------  ------------                         
+# target name                        start        stop  start   stop    bit sc   E-value  GC%
+# ----------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     126.723       70    0.0054   0.0031
+#   2   cm  cyk  loc  1e-07       6.187        0    0.0003  0.0e+00
+#   3   cm  ins  loc  1e-15     5.4e-07        0   9.6e-12  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:50.51    00:00:43.00

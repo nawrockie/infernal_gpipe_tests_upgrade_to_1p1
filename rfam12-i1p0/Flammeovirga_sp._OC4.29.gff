@@ -1,0 +1,9 @@
+gi|742256977|gb|JTAM01000031.1|	cmsearch-1.0	rna	56394	56776	268.10	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=2.23e-85
+gi|742257003|gb|JTAM01000005.1|	cmsearch-1.0	rna	160673	160776	66.40	+	.	gb_key=SAM;rfam_acc=RF00162;evalue=1.14e-14
+gi|742256998|gb|JTAM01000010.1|	cmsearch-1.0	rna	67863	67972	68.69	+	.	gb_key=SAM;rfam_acc=RF00162;evalue=2.57e-15
+gi|742256900|gb|JTAM01000108.1|	cmsearch-1.0	rna	7341	7448	72.78	+	.	gb_key=SAM;rfam_acc=RF00162;evalue=1.78e-16
+gi|742257007|gb|JTAM01000001.1|	cmsearch-1.0	rna	43772	43899	71.42	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=2.77e-18
+gi|742257007|gb|JTAM01000001.1|	cmsearch-1.0	rna	315605	315791	85.36	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=1.81e-22
+gi|742257004|gb|JTAM01000004.1|	cmsearch-1.0	rna	228021	228213	74.38	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=3.57e-19
+gi|742256999|gb|JTAM01000009.1|	cmsearch-1.0	rna	65465	65640	81.83	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=2.07e-21
+gi|742256932|gb|JTAM01000076.1|	cmsearch-1.0	rna	3912	4113	101.74	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=2.20e-27

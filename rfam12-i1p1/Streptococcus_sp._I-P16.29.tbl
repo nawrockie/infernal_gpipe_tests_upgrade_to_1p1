@@ -1,0 +1,21 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|552057725|gb|CP006776.1| -         FMN                  RF00050    cm        1      140  1352648  1352415      -    no    1 0.46   0.0  101.0   3.2e-24 !   Streptococcus sp. I-P16, complete genome
+gi|552057725|gb|CP006776.1| -         Purine               RF00167    cm        1      102   843708   843613      -    no    1 0.38   0.0   54.4   7.1e-09 !   Streptococcus sp. I-P16, complete genome
+gi|552057725|gb|CP006776.1| -         Cobalamin            RF00174    cm        1      191  1002550  1002733      +    no    1 0.38   0.0   42.5   9.9e-10 !   Streptococcus sp. I-P16, complete genome
+gi|552057725|gb|CP006776.1| -         T-box                RF00230    cm        1      224   365534   365769      +    no    1 0.43   0.0   98.1   1.3e-22 !   Streptococcus sp. I-P16, complete genome
+gi|552057725|gb|CP006776.1| -         T-box                RF00230    cm        1      224  1170321  1170087      -    no    1 0.39   0.5   93.6   1.9e-21 !   Streptococcus sp. I-P16, complete genome
+gi|552057725|gb|CP006776.1| -         T-box                RF00230    cm        1      224   382558   382774      +    no    1 0.40   0.0   93.0   2.7e-21 !   Streptococcus sp. I-P16, complete genome
+gi|552057725|gb|CP006776.1| -         L10_leader           RF00557    cm        1      139   867022   866887      -    no    1 0.40   0.0   80.9   1.1e-12 !   Streptococcus sp. I-P16, complete genome
+gi|552057725|gb|CP006776.1| -         L20_leader           RF00558    cm        1      127  1069920  1069790      -    no    1 0.44   0.0   79.5   4.3e-16 !   Streptococcus sp. I-P16, complete genome
+gi|552057725|gb|CP006776.1| -         L21_leader           RF00559    cm        1       78   679439   679525      +    no    1 0.51   0.0   54.4   5.8e-10 !   Streptococcus sp. I-P16, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Streptococcus_sp._I-P16/823428-DENOVO-20150207-1632.1459294/output/bacterial_annot/ASM47931v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Streptococcus_sp._I-P16.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Streptococcus_sp._I-P16/823428-DENOVO-20150207-1632.1459294/output/bacterial_annot/ASM47931v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:54 2015
+# [ok]

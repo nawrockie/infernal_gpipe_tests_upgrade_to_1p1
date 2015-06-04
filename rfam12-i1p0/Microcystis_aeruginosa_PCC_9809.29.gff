@@ -1,0 +1,3 @@
+gi|399567533|emb|HE973753.1|	cmsearch-1.0	rna	889021	889523	243.00	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=2.52e-77
+gi|399567539|emb|HE973759.1|	cmsearch-1.0	rna	328902	329058	32.39	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=8.92e-07
+gi|399567514|emb|HE973734.1|	cmsearch-1.0	rna	319031	319210	44.68	-	.	gb_key=L10_leader;rfam_acc=RF00557;evalue=4.54e-08

@@ -1,0 +1,26 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|581982530|gb|KI979320.1| -         FMN                  RF00050    cm        1      140   139146   139011      -    no    1 0.43   0.0  122.9   5.5e-30 !   Staphylococcus aureus KINW6048 adpnw-supercont1.7, whole genome shotgun sequence
+gi|581982566|gb|KI979284.1| -         FMN                  RF00050    cm        1      140   212906   212772      -    no    1 0.47   0.0  121.8   1.2e-29 !   Staphylococcus aureus KINW6048 adpnw-supercont1.1, whole genome shotgun sequence
+gi|581982528|gb|KI979322.1| -         SAM                  RF00162    cm        1      108    44436    44539      +    no    1 0.44   0.0   82.8   8.2e-18 !   Staphylococcus aureus KINW6048 adpnw-supercont1.9, whole genome shotgun sequence
+gi|581982532|gb|KI979318.1| -         SAM                  RF00162    cm        1      108   148872   148777      -    no    1 0.48   0.0   78.2   1.3e-16 !   Staphylococcus aureus KINW6048 adpnw-supercont1.5, whole genome shotgun sequence
+gi|581982530|gb|KI979320.1| -         SAM                  RF00162    cm        1      108   155899   155789      -    no    1 0.44   0.0   75.9   5.4e-16 !   Staphylococcus aureus KINW6048 adpnw-supercont1.7, whole genome shotgun sequence
+gi|581982553|gb|KI979297.1| -         SAM                  RF00162    cm        1      108    15966    16064      +    no    1 0.42   0.0   74.3   1.4e-15 !   Staphylococcus aureus KINW6048 adpnw-supercont1.21, whole genome shotgun sequence
+gi|581982544|gb|KI979306.1| -         Purine               RF00167    cm        1      102   161360   161462      +    no    1 0.29   0.4   81.9   1.8e-15 !   Staphylococcus aureus KINW6048 adpnw-supercont1.3, whole genome shotgun sequence
+gi|581982544|gb|KI979306.1| -         T-box                RF00230    cm        1      224   140019   139650      -    no    1 0.36   8.3  160.8   1.2e-38 !   Staphylococcus aureus KINW6048 adpnw-supercont1.3, whole genome shotgun sequence
+gi|581982530|gb|KI979320.1| -         T-box                RF00230    cm        1      224     5866     5565      -    no    1 0.32  19.3  143.0   4.9e-34 !   Staphylococcus aureus KINW6048 adpnw-supercont1.7, whole genome shotgun sequence
+gi|581982553|gb|KI979297.1| -         T-box                RF00230    cm        1      224    12505    12720      +    no    1 0.34   3.1  103.1   9.9e-24 !   Staphylococcus aureus KINW6048 adpnw-supercont1.21, whole genome shotgun sequence
+gi|581982566|gb|KI979284.1| -         Glycine              RF00504    cm        1       94   264114   264017      -    no    1 0.39   0.0   68.8   2.9e-14 !   Staphylococcus aureus KINW6048 adpnw-supercont1.1, whole genome shotgun sequence
+gi|581982561|gb|KI979289.1| -         L10_leader           RF00557    cm        1      139    25569    25715      +    no    1 0.31   2.6   86.8   1.2e-13 !   Staphylococcus aureus KINW6048 adpnw-supercont1.14, whole genome shotgun sequence
+gi|581982530|gb|KI979320.1| -         L20_leader           RF00558    cm        1      127    20977    20852      -    no    1 0.44   0.0   82.9   9.1e-17 !   Staphylococcus aureus KINW6048 adpnw-supercont1.7, whole genome shotgun sequence
+gi|581982556|gb|KI979294.1| -         L21_leader           RF00559    cm        1       78    46948    46821      -    no    1 0.38   0.0   67.4     4e-13 !   Staphylococcus aureus KINW6048 adpnw-supercont1.19, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Staphylococcus_aureus_KINW6048/916808-DENOVO-20150227-1937.1486904/output/bacterial_annot/JBEK01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Staphylococcus_aureus_KINW6048.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Staphylococcus_aureus_KINW6048/916808-DENOVO-20150227-1937.1486904/output/bacterial_annot/JBEK01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:08 2015
+# [ok]

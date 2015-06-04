@@ -1,0 +1,15 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|758272233|gb|JXQZ01000001.1| -         RNaseP_bact_a        RF00010    cm        1      367    89477    89857      +    no    1 0.67  38.1  248.3     2e-84 !   Frigoribacterium sp. MEB024 contig_1, whole genome shotgun sequence
+gi|758272134|gb|JXQZ01000002.1| -         FMN                  RF00050    cm        1      139   108443   108306      -    no    1 0.66   7.0   69.8   2.9e-16 !   Frigoribacterium sp. MEB024 contig_2, whole genome shotgun sequence
+gi|758270777|gb|JXQZ01000039.1| -         Glycine              RF00504    cm        1       94    84776    84673      -    no    1 0.68   8.0   57.4   1.9e-11 !   Frigoribacterium sp. MEB024 contig_39, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Frigoribacterium_sp._MEB024/1581468-DENOVO-20150220-0902.1470484/output/bacterial_annot/JXQZ01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Frigoribacterium_sp._MEB024.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Frigoribacterium_sp._MEB024/1581468-DENOVO-20150220-0902.1470484/output/bacterial_annot/JXQZ01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:55 2015
+# [ok]

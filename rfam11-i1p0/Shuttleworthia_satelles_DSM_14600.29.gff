@@ -1,0 +1,9 @@
+gi|228031884|gb|GG665866.1|	cmsearch-1.0	rna	464022	464417	275.31	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=4.70e-94
+gi|228031882|gb|GG665867.1|	cmsearch-1.0	rna	51065	51198	81.20	+	.	gb_key=FMN;rfam_acc=RF00050;evalue=1.15e-19
+gi|228031882|gb|GG665867.1|	cmsearch-1.0	rna	237114	237213	66.49	-	.	gb_key=SAM;rfam_acc=RF00162;evalue=3.95e-15
+gi|228031884|gb|GG665866.1|	cmsearch-1.0	rna	1366629	1366910	88.84	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=3.00e-22
+gi|228031884|gb|GG665866.1|	cmsearch-1.0	rna	974137	974384	87.67	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=6.32e-22
+gi|228031884|gb|GG665866.1|	cmsearch-1.0	rna	744482	744721	63.85	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=2.71e-15
+gi|228031884|gb|GG665866.1|	cmsearch-1.0	rna	685835	685996	34.75	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=3.41e-07
+gi|228031882|gb|GG665867.1|	cmsearch-1.0	rna	616764	616912	70.73	+	.	gb_key=L10_leader;rfam_acc=RF00557;evalue=5.22e-14
+gi|228031884|gb|GG665866.1|	cmsearch-1.0	rna	1186432	1186559	35.08	-	.	gb_key=L20_leader;rfam_acc=RF00558;evalue=1.85e-06

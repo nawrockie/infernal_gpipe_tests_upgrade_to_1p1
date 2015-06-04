@@ -1,0 +1,3 @@
+gi|379025136|emb|CAES01000154.1|	cmsearch-1.0	rna	97	213	81.22	+	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=4.93e-17
+gi|379025116|emb|CAES01000174.1|	cmsearch-1.0	rna	99	215	81.22	+	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=4.93e-17
+gi|379025105|emb|CAES01000185.1|	cmsearch-1.0	rna	1	117	85.85	-	.	gb_key=5S_rRNA;rfam_acc=RF00001;evalue=3.18e-18

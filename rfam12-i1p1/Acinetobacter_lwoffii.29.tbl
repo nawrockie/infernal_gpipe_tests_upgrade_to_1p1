@@ -1,0 +1,15 @@
+#target name                     accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|752490350|dbj|BBSQ01000008.1| -         RNaseP_bact_a        RF00010    cm        1      367    77753    78130      +    no    1 0.55   0.1  318.9  9.1e-104 !   Acinetobacter lwoffii strain NBRC 109760, whole genome shotgun sequence
+gi|752490344|dbj|BBSQ01000014.1| -         Cobalamin            RF00174    cm        1      191    29537    29332      -    no    1 0.45   0.0   88.8   3.4e-23 !   Acinetobacter lwoffii strain NBRC 109760, whole genome shotgun sequence
+gi|752490328|dbj|BBSQ01000030.1| -         Glycine              RF00504    cm        1       94    11108    11195      +    no    1 0.47   0.0   67.2   8.6e-14 !   Acinetobacter lwoffii strain NBRC 109760, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Acinetobacter_lwoffii/1530228-DENOVO-20150212-0902.1469164/output/bacterial_annot/BBSQ01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Acinetobacter_lwoffii.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Acinetobacter_lwoffii/1530228-DENOVO-20150212-0902.1469164/output/bacterial_annot/BBSQ01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:11 2015
+# [ok]

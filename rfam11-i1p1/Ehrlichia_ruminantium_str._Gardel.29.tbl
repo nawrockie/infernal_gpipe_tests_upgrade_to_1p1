@@ -1,0 +1,14 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|58416339|emb|CR925677.1| -         RNaseP_bact_a        RF00010    cm        1      367  1064792  1065129      +    no    1 0.42   8.0  264.3   2.3e-90 !   Ehrlichia ruminantium str. Gardel, complete genome
+gi|58416339|emb|CR925677.1| -         RNaseP_arch          RF00373    cm        1      289  1064794  1065123      +    no    1 0.42   8.5   56.9   3.5e-17 !   Ehrlichia ruminantium str. Gardel, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Ehrlichia_ruminantium_str._Gardel/353538-DENOVO-20150227-1712.1479924/output/bacterial_annot/ASM5040v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Ehrlichia_ruminantium_str._Gardel.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Ehrlichia_ruminantium_str._Gardel/353538-DENOVO-20150227-1712.1479924/output/bacterial_annot/ASM5040v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:51 2015
+# [ok]

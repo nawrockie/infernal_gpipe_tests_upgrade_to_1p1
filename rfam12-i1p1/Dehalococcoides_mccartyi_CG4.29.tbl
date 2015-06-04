@@ -1,0 +1,22 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|670943471|gb|CP006950.1| -         RNaseP_bact_a        RF00010    cm        1      367   293567   293921      +    no    1 0.59   0.2  303.2   6.7e-99 !   Dehalococcoides mccartyi CG4, complete genome
+gi|670943471|gb|CP006950.1| -         Cobalamin            RF00174    cm        1      191   130326   130518      +    no    1 0.49   0.0  107.9   3.1e-29 !   Dehalococcoides mccartyi CG4, complete genome
+gi|670943471|gb|CP006950.1| -         Cobalamin            RF00174    cm        1      191   556048   556246      +    no    1 0.52   0.0   86.5   6.8e-23 !   Dehalococcoides mccartyi CG4, complete genome
+gi|670943471|gb|CP006950.1| -         Cobalamin            RF00174    cm        1      191   249850   249993      +    no    1 0.52   0.0   41.6   1.3e-09 !   Dehalococcoides mccartyi CG4, complete genome
+gi|670943471|gb|CP006950.1| -         Cobalamin            RF00174    cm        1      191   549812   549947      +    no    1 0.51   0.0   33.6     3e-07 !   Dehalococcoides mccartyi CG4, complete genome
+gi|670943471|gb|CP006950.1| -         Cobalamin            RF00174    cm        1      191   974728   974585      -    no    1 0.54   0.0   31.7   1.1e-06 !   Dehalococcoides mccartyi CG4, complete genome
+gi|670943471|gb|CP006950.1| -         Cobalamin            RF00174    cm        1      191   550036   550154      +    no    1 0.48   0.0   30.6   2.2e-06 !   Dehalococcoides mccartyi CG4, complete genome
+gi|670943471|gb|CP006950.1| -         T-box                RF00230    cm        1      224  1242933  1243199      +    no    1 0.52   0.0  102.6   6.1e-24 !   Dehalococcoides mccartyi CG4, complete genome
+gi|670943471|gb|CP006950.1| -         T-box                RF00230    cm        1      224   902103   902366      +    no    1 0.55   0.0   93.7   1.2e-21 !   Dehalococcoides mccartyi CG4, complete genome
+gi|670943471|gb|CP006950.1| -         L10_leader           RF00557    cm        1      139   873833   873701      -    no    1 0.39   0.0   68.3     2e-10 !   Dehalococcoides mccartyi CG4, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Dehalococcoides_mccartyi_CG4/1508858-DENOVO-20150203-0902.1450374/output/bacterial_annot/ASM83090v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Dehalococcoides_mccartyi_CG4.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Dehalococcoides_mccartyi_CG4/1508858-DENOVO-20150203-0902.1450374/output/bacterial_annot/ASM83090v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:56 2015
+# [ok]

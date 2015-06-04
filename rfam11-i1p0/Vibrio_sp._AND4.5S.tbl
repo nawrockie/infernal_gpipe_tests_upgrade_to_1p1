@@ -1,0 +1,43 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Vibrio_sp._AND4.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Vibrio_sp._AND4/211958-DENOVO-20150227-1622.1477824/output/bacterial_annot/ABGR01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:18 2015
+# num seqs:   143
+# dbsize(Mb): 8.511596
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     426.469     7.68   0.0082  00:01:02.51
+#   2   cm  cyk  loc  1e-07      20.745     8.41   0.0004  00:00:09.92
+#   3   cm  ins  loc  1e-15     1.5e-06    40.00  1.9e-11  00:00:03.20
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:15.64
+#
+#
+# CM: 5S_rRNA
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|159173935|gb|ABGR01000007.1|       29700       29816      1    119     84.14  6.62e-18   52
+  gi|159173704|gb|ABGR01000009.1|       35804       35920      1    119     84.14  6.62e-18   52
+  gi|159173282|gb|ABGR01000014.1|         360         476      1    119     84.14  6.62e-18   52
+  gi|159172940|gb|ABGR01000022.1|       31620       31703      1    119     43.33  2.05e-07   50
+  gi|159172366|gb|ABGR01000052.1|         410         526      1    119     84.14  6.62e-18   52
+  gi|159172316|gb|ABGR01000059.1|         574         690      1    119     84.14  6.62e-18   52
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     426.469      465    0.0082   0.0093
+#   2   cm  cyk  loc  1e-07      20.745        8    0.0004   0.0002
+#   3   cm  ins  loc  1e-15     1.5e-06        6   1.9e-11  7.9e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:15.64    00:01:20.00

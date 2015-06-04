@@ -1,0 +1,11 @@
+gi|670943471|gb|CP006950.1|	cmsearch-1.1.1	rna	293567	293921	286.3	+	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=4.4e-98
+gi|670943471|gb|CP006950.1|	cmsearch-1.1.1	rna	130326	130518	107.9	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=2.7e-28
+gi|670943471|gb|CP006950.1|	cmsearch-1.1.1	rna	556048	556246	82.6	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=4.2e-21
+gi|670943471|gb|CP006950.1|	cmsearch-1.1.1	rna	249850	249993	35.8	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=8.6e-08
+gi|670943471|gb|CP006950.1|	cmsearch-1.1.1	rna	549813	549946	30.8	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=2.3e-06
+gi|670943471|gb|CP006950.1|	cmsearch-1.1.1	rna	1242933	1243199	97.0	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=1e-24
+gi|670943471|gb|CP006950.1|	cmsearch-1.1.1	rna	902103	902366	85.9	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=1.3e-21
+gi|670943471|gb|CP006950.1|	cmsearch-1.1.1	rna	909033	909286	82.7	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=9.9e-21
+gi|670943471|gb|CP006950.1|	cmsearch-1.1.1	rna	293566	293918	68.7	+	.	gb_key=RNaseP_arch;rfam_acc=RF00373;evalue=3.4e-21
+gi|670943471|gb|CP006950.1|	cmsearch-1.1.1	rna	873701	873833	64.7	-	.	gb_key=L10_leader;rfam_acc=RF00557;evalue=9.1e-13
+gi|670943471|gb|CP006950.1|	cmsearch-1.1.1	rna	110139	110254	33.6	+	.	gb_key=L20_leader;rfam_acc=RF00558;evalue=2.9e-06

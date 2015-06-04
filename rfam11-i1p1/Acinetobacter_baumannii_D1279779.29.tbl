@@ -1,0 +1,19 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|692145893|gb|CP003967.2| -         RNaseP_bact_a        RF00010    cm        1      367   887548   887902      +    no    1 0.57   7.9  310.1  5.4e-106 !   Acinetobacter baumannii D1279779, complete genome
+gi|692145893|gb|CP003967.2| -         FMN                  RF00050    cm        1      139   870629   870479      -    no    1 0.43   0.4  118.4   7.5e-30 !   Acinetobacter baumannii D1279779, complete genome
+gi|692145893|gb|CP003967.2| -         S15                  RF00114    cm        1      116   386096   386205      +    no    1 0.40   0.4   32.6   4.3e-06 !   Acinetobacter baumannii D1279779, complete genome
+gi|692145893|gb|CP003967.2| -         S15                  RF00114    cm        1      116   297564   297664      +    no    1 0.40   0.7   29.8   2.6e-05 !   Acinetobacter baumannii D1279779, complete genome
+gi|692145893|gb|CP003967.2| -         Cobalamin            RF00174    cm        1      190  3080505  3080712      +    no    1 0.44   0.2   80.5   4.5e-20 !   Acinetobacter baumannii D1279779, complete genome
+gi|692145893|gb|CP003967.2| -         Glycine              RF00504    cm        1       94  2161024  2160937      -    no    1 0.45   1.7   71.3   4.3e-15 !   Acinetobacter baumannii D1279779, complete genome
+gi|692145893|gb|CP003967.2| -         cspA                 RF01766    cm        1      428  2437293  2436923      -    no    1 0.40   8.7   53.6   3.3e-15 !   Acinetobacter baumannii D1279779, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Acinetobacter_baumannii_D1279779/1350438-DENOVO-20150227-2122.1489984/output/bacterial_annot/ASM18666v4.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Acinetobacter_baumannii_D1279779.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Acinetobacter_baumannii_D1279779/1350438-DENOVO-20150227-2122.1489984/output/bacterial_annot/ASM18666v4.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:09 2015
+# [ok]

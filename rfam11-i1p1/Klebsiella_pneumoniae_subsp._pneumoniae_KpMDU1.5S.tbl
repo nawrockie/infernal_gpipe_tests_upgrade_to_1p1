@@ -1,0 +1,22 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|480514219|gb|AMWO01000379.1| -         5S_rRNA              RF00001    cm        1      119     5980     5865      -    no    1 0.62   1.4   89.4   4.1e-19 !   Klebsiella pneumoniae subsp. pneumoniae KpMDU1 contig292, whole genome shotgun sequence
+gi|480518688|gb|AMWO01000003.1| -         5S_rRNA              RF00001    cm        1      119       65      180      +    no    1 0.64   2.2   84.0   9.6e-18 !   Klebsiella pneumoniae subsp. pneumoniae KpMDU1 contig406, whole genome shotgun sequence
+gi|480518586|gb|AMWO01000012.1| -         5S_rRNA              RF00001    cm        1      119      303      418      +    no    1 0.64   2.2   84.0   9.6e-18 !   Klebsiella pneumoniae subsp. pneumoniae KpMDU1 contig328, whole genome shotgun sequence
+gi|480518496|gb|AMWO01000021.1| -         5S_rRNA              RF00001    cm        1      119       94      209      +    no    1 0.64   2.2   84.0   9.6e-18 !   Klebsiella pneumoniae subsp. pneumoniae KpMDU1 contig214, whole genome shotgun sequence
+gi|480518461|gb|AMWO01000026.1| -         5S_rRNA              RF00001    cm        1      119     4980     5095      +    no    1 0.64   2.2   84.0   9.6e-18 !   Klebsiella pneumoniae subsp. pneumoniae KpMDU1 contig490, whole genome shotgun sequence
+gi|480518458|gb|AMWO01000027.1| -         5S_rRNA              RF00001    cm        1      119       68      183      +    no    1 0.64   2.2   84.0   9.6e-18 !   Klebsiella pneumoniae subsp. pneumoniae KpMDU1 contig415, whole genome shotgun sequence
+gi|480518093|gb|AMWO01000059.1| -         5S_rRNA              RF00001    cm        1      119       85      200      +    no    1 0.64   2.2   84.0   9.6e-18 !   Klebsiella pneumoniae subsp. pneumoniae KpMDU1 contig364, whole genome shotgun sequence
+gi|480517726|gb|AMWO01000093.1| -         5S_rRNA              RF00001    cm        1      119      210      325      +    no    1 0.64   2.2   84.0   9.6e-18 !   Klebsiella pneumoniae subsp. pneumoniae KpMDU1 contig63, whole genome shotgun sequence
+gi|480514958|gb|AMWO01000322.1| -         5S_rRNA              RF00001    cm        1      119    65666    65551      -    no    1 0.64   2.2   84.0   9.6e-18 !   Klebsiella pneumoniae subsp. pneumoniae KpMDU1 contig59, whole genome shotgun sequence
+gi|480514219|gb|AMWO01000379.1| -         5S_rRNA              RF00001    cm        1      119     6224     6109      -    no    1 0.64   2.2   84.0   9.6e-18 !   Klebsiella pneumoniae subsp. pneumoniae KpMDU1 contig292, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./RF00001.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Klebsiella_pneumoniae_subsp._pneumoniae_KpMDU1/591958-DENOVO-20150227-1757.1482624/output/bacterial_annot/AMWO01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Klebsiella_pneumoniae_subsp._pneumoniae_KpMDU1.5S.tbl -T 40 --rfam --cpu 0 --nohmmonly ./RF00001.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Klebsiella_pneumoniae_subsp._pneumoniae_KpMDU1/591958-DENOVO-20150227-1757.1482624/output/bacterial_annot/AMWO01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:55 2015
+# [ok]

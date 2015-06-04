@@ -1,0 +1,39 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Flammeovirga_sp._OC4.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Flammeovirga_sp._OC4/1460978-DENOVO-20150227-2122.1491204/output/bacterial_annot/JTAM01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:30 2015
+# num seqs:   214
+# dbsize(Mb): 16.130994
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     808.235     7.68   0.0082  00:01:58.47
+#   2   cm  cyk  loc  1e-07      39.316     8.41   0.0004  00:00:18.80
+#   3   cm  ins  loc  1e-15     2.8e-06    40.00  1.9e-11  00:00:05.88
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:02:23.16
+#
+#
+# CM: 5S_rRNA
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|742256917|gb|JTAM01000091.1|         138         249      1    119     72.45  1.27e-14   55
+  gi|742256885|gb|JTAM01000123.1|        8283        8172      1    119     72.45  1.27e-14   55
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     808.235      142    0.0082   0.0015
+#   2   cm  cyk  loc  1e-07      39.316        4    0.0004  4.3e-05
+#   3   cm  ins  loc  1e-15     2.8e-06        2   1.9e-11  1.4e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:02:23.16    00:02:18.00

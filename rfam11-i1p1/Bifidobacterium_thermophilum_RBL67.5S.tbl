@@ -1,0 +1,16 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|469497741|gb|CP004346.1| -         5S_rRNA              RF00001    cm        1      119  1367976  1367860      -    no    1 0.68   9.4   70.7     1e-14 !   Bifidobacterium thermophilum RBL67, complete genome
+gi|469497741|gb|CP004346.1| -         5S_rRNA              RF00001    cm        1      119  1978732  1978616      -    no    1 0.68   9.4   70.7     1e-14 !   Bifidobacterium thermophilum RBL67, complete genome
+gi|469497741|gb|CP004346.1| -         5S_rRNA              RF00001    cm        1      119  2104681  2104565      -    no    1 0.68   9.4   70.7     1e-14 !   Bifidobacterium thermophilum RBL67, complete genome
+gi|469497741|gb|CP004346.1| -         5S_rRNA              RF00001    cm        1      119  2219345  2219229      -    no    1 0.68   9.4   70.7     1e-14 !   Bifidobacterium thermophilum RBL67, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./RF00001.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Bifidobacterium_thermophilum_RBL67/558758-DENOVO-20150207-1527.1457404/output/bacterial_annot/ASM34769v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Bifidobacterium_thermophilum_RBL67.5S.tbl -T 40 --rfam --cpu 0 --nohmmonly ./RF00001.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Bifidobacterium_thermophilum_RBL67/558758-DENOVO-20150207-1527.1457404/output/bacterial_annot/ASM34769v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:46 2015
+# [ok]

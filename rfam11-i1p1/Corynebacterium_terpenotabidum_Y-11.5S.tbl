@@ -1,0 +1,17 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|521017106|gb|CP003696.1| -         5S_rRNA              RF00001    cm        1      119    71471    71587      +    no    1 0.68   7.0   80.7   3.3e-17 !   Corynebacterium terpenotabidum Y-11, complete genome
+gi|521017106|gb|CP003696.1| -         5S_rRNA              RF00001    cm        1      119   201101   201217      +    no    1 0.68   7.0   80.7   3.3e-17 !   Corynebacterium terpenotabidum Y-11, complete genome
+gi|521017106|gb|CP003696.1| -         5S_rRNA              RF00001    cm        1      119   633828   633944      +    no    1 0.68   7.0   80.7   3.3e-17 !   Corynebacterium terpenotabidum Y-11, complete genome
+gi|521017106|gb|CP003696.1| -         5S_rRNA              RF00001    cm        1      119   927509   927625      +    no    1 0.68   7.0   80.7   3.3e-17 !   Corynebacterium terpenotabidum Y-11, complete genome
+gi|521017106|gb|CP003696.1| -         5S_rRNA              RF00001    cm        1      119  1202101  1202217      +    no    1 0.68   7.0   80.7   3.3e-17 !   Corynebacterium terpenotabidum Y-11, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./RF00001.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Corynebacterium_terpenotabidum_Y-11/725818-DENOVO-20150121-1607.1442514/output/bacterial_annot/ASM41836v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Corynebacterium_terpenotabidum_Y-11.5S.tbl -T 40 --rfam --cpu 0 --nohmmonly ./RF00001.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Corynebacterium_terpenotabidum_Y-11/725818-DENOVO-20150121-1607.1442514/output/bacterial_annot/ASM41836v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:46 2015
+# [ok]

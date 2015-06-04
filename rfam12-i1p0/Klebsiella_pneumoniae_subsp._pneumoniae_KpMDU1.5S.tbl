@@ -1,0 +1,47 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam12-i1p0/Klebsiella_pneumoniae_subsp._pneumoniae_KpMDU1.5S.tbl ./RF00001.rfam12.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Klebsiella_pneumoniae_subsp._pneumoniae_KpMDU1/591958-DENOVO-20150227-1757.1482624/output/bacterial_annot/AMWO01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:29 2015
+# num seqs:   521
+# dbsize(Mb): 11.396502
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     224.643     8.84   0.0054  00:01:23.70
+#   2   cm  cyk  loc  1e-07      10.968     9.30   0.0003  00:00:13.18
+#   3   cm  ins  loc  1e-15     9.6e-07    40.00  9.6e-12  00:00:05.01
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:41.90
+#
+#
+# CM: 5S_rRNA
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|480518688|gb|AMWO01000003.1|          65         180      1    119     72.08  3.68e-15   64
+  gi|480518586|gb|AMWO01000012.1|         303         418      1    119     72.08  3.68e-15   64
+  gi|480518496|gb|AMWO01000021.1|          94         209      1    119     72.08  3.68e-15   64
+  gi|480518461|gb|AMWO01000026.1|        4980        5095      1    119     72.08  3.68e-15   64
+  gi|480518458|gb|AMWO01000027.1|          68         183      1    119     72.08  3.68e-15   64
+  gi|480518093|gb|AMWO01000059.1|          85         200      1    119     72.08  3.68e-15   64
+  gi|480517726|gb|AMWO01000093.1|         210         325      1    119     72.08  3.68e-15   64
+  gi|480514958|gb|AMWO01000322.1|       65666       65551      1    119     72.08  3.68e-15   64
+  gi|480514219|gb|AMWO01000379.1|        5980        5865      1    119     76.78  2.15e-16   62
+  gi|480514219|gb|AMWO01000379.1|        6224        6109      1    119     72.08  3.68e-15   64
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     224.643      123    0.0054   0.0030
+#   2   cm  cyk  loc  1e-07      10.968       14    0.0003   0.0003
+#   3   cm  ins  loc  1e-15     9.6e-07       10   9.6e-12   0.0001
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:41.90    00:01:40.00

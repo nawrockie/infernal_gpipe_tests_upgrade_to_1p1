@@ -1,0 +1,38 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Lysinimicrobium_mangrovi.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Lysinimicrobium_mangrovi/1316158-DENOVO-20150207-2147.1462614/output/bacterial_annot/BBLU01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:27 2015
+# num seqs:   33
+# dbsize(Mb): 5.937472
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     297.494     7.68   0.0082  00:00:43.60
+#   2   cm  cyk  loc  1e-07      14.471     8.41   0.0004  00:00:06.92
+#   3   cm  ins  loc  1e-15     1.0e-06    40.00  1.9e-11  00:00:02.16
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:52.69
+#
+#
+# CM: 5S_rRNA
+#                                             target coord   query coord                         
+#                                   ----------------------  ------------                         
+# target name                            start        stop  start   stop    bit sc   E-value  GC%
+# --------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|687371309|dbj|BBLU01000025.1|         138          22      1    119     91.30  6.65e-20   66
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     297.494        5    0.0082   0.0001
+#   2   cm  cyk  loc  1e-07      14.471        1    0.0004  2.7e-05
+#   3   cm  ins  loc  1e-15     1.0e-06        1   1.9e-11  2.0e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:52.69    00:00:48.00

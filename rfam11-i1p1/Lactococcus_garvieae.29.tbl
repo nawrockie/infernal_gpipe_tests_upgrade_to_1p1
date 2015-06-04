@@ -1,0 +1,31 @@
+#target name                     accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|698836772|emb|CCXC01000001.1| -         RNaseP_bact_a        RF00010    cm        1      367   573589   573211      -    no    1 0.47   1.9   52.7   3.9e-16 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836215|emb|CCXC01000003.1| -         FMN                  RF00050    cm        1      139    46160    46044      -    no    1 0.50   0.6  102.4   1.4e-25 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836300|emb|CCXC01000002.1| -         Purine               RF00167    cm        1      102   171338   171241      -    no    1 0.36   1.7   62.5   2.1e-13 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         T-box                RF00230    cm        1      217  1270114  1270284      +    no    1 0.39   7.2   94.7   7.3e-24 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         T-box                RF00230    cm        1      217  1133497  1133721      +    no    1 0.38   6.6   90.7   9.7e-23 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         T-box                RF00230    cm        1      217    19920    19717      -    no    1 0.35   8.3   83.9   7.5e-21 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         T-box                RF00230    cm        1      217   627550   627754      +    no    1 0.36   8.8   79.6   1.2e-19 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         T-box                RF00230    cm        1      217    62888    62671      -    no    1 0.39   3.5   77.0     6e-19 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836300|emb|CCXC01000002.1| -         T-box                RF00230    cm        1      217   304334   304517      +    no    1 0.35  10.2   70.2   4.9e-17 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         T-box                RF00230    cm        1      217   979943   979668      -    no    1 0.38  10.1   69.9   5.9e-17 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         T-box                RF00230    cm        1      217   642621   642443      -    no    1 0.43   2.8   68.8   1.2e-16 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         T-box                RF00230    cm        1      217    86521    86361      -    no    1 0.37   5.1   57.2   1.9e-13 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         T-box                RF00230    cm        1      217    97715    97543      -    no    1 0.39   9.0   40.2   1.1e-08 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         K_chan_RES           RF00485    cm        1      114   442130   442020      -    no    1 0.38   1.1   28.0   0.00049 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         K_chan_RES           RF00485    cm        1      114  1484492  1484601      +    no    1 0.43   0.4   20.3     0.061 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836215|emb|CCXC01000003.1| -         L10_leader           RF00557    cm        1      139    45226    45100      -    no    1 0.38   2.1   76.2   2.7e-15 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         L20_leader           RF00558    cm        1      127  1451708  1451834      +    no    1 0.45   0.1   71.4   2.5e-16 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         L21_leader           RF00559    cm        1       77   317607   317535      -    no    1 0.48   0.1   46.5   4.9e-09 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+gi|698836772|emb|CCXC01000001.1| -         cspA                 RF01766    cm        1      428  1087343  1087692      +    no    1 0.35  16.8   77.7   1.9e-23 !   Lactococcus garvieae strain M14, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Lactococcus_garvieae/1479648-DENOVO-20150127-0902.1448574/output/bacterial_annot/CCXC01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Lactococcus_garvieae.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Lactococcus_garvieae/1479648-DENOVO-20150127-0902.1448574/output/bacterial_annot/CCXC01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:09 2015
+# [ok]

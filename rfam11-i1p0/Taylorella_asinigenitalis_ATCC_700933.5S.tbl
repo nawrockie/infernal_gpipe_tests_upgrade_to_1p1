@@ -1,0 +1,40 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Taylorella_asinigenitalis_ATCC_700933.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Taylorella_asinigenitalis_ATCC_700933/1066218-DENOVO-20150227-2032.1488224/output/bacterial_annot/JHXN01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:28 2015
+# num seqs:   51
+# dbsize(Mb): 3.235726
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     162.124     7.68   0.0082  00:00:23.76
+#   2   cm  cyk  loc  1e-07       7.886     8.41   0.0004  00:00:03.01
+#   3   cm  ins  loc  1e-15     5.6e-07    40.00  1.9e-11  00:00:00.91
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:27.69
+#
+#
+# CM: 5S_rRNA
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|607832426|gb|JHXN01000003.1|      138755      138643      1    119     84.89  1.62e-18   54
+  gi|607832415|gb|JHXN01000007.1|         190         302      1    119     84.89  1.62e-18   54
+  gi|607832348|gb|JHXN01000027.1|        2831        2719      1    119     84.89  1.62e-18   54
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     162.124       71    0.0082   0.0038
+#   2   cm  cyk  loc  1e-07       7.886        4    0.0004   0.0002
+#   3   cm  ins  loc  1e-15     5.6e-07        3   1.9e-11   0.0001
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:27.69    00:00:22.00

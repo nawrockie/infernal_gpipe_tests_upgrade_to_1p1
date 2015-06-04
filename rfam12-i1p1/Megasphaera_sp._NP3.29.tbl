@@ -1,0 +1,36 @@
+#target name                 accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#--------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|531090593|emb|HF954537.1| -         RNaseP_bact_a        RF00010    cm        1      367    49875    50222      +    no    1 0.54   0.0  278.8   1.9e-90 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090593|emb|HF954537.1| -         FMN                  RF00050    cm        1      140  1284986  1285118      +    no    1 0.53   0.0  115.1   6.7e-28 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090593|emb|HF954537.1| -         FMN                  RF00050    cm        1      140   778870   778739      -    no    1 0.51   0.0   84.0   1.8e-19 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090593|emb|HF954537.1| -         SAM                  RF00162    cm        1      108   633872   633969      +    no    1 0.59   0.0   86.3   8.5e-19 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090593|emb|HF954537.1| -         SAM                  RF00162    cm        1      108   351427   351525      +    no    1 0.54   0.0   85.2   1.7e-18 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090598|emb|HF954532.1| -         SAM                  RF00162    cm        1      108   112774   112873      +    no    1 0.58   0.0   84.7   2.2e-18 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090572|emb|HF954558.1| -         SAM                  RF00162    cm        1      108    38135    38229      +    no    1 0.53   0.0   84.0   3.4e-18 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090596|emb|HF954534.1| -         SAM                  RF00162    cm        1      108    26531    26433      -    no    1 0.53   0.0   78.7   8.9e-17 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090576|emb|HF954554.1| -         SAM                  RF00162    cm        1      108     1852     1742      -    no    1 0.54   0.0   77.6   1.7e-16 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090593|emb|HF954537.1| -         SAM                  RF00162    cm        1      108   791105   791005      -    no    1 0.50   0.0   75.3   6.8e-16 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090593|emb|HF954537.1| -         Cobalamin            RF00174    cm        1      191   514223   514044      -    no    1 0.51   0.0  117.4   9.5e-32 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090594|emb|HF954536.1| -         Cobalamin            RF00174    cm        1      191     7761     7584      -    no    1 0.54   0.0  110.9   8.2e-30 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090571|emb|HF954559.1| -         T-box                RF00230    cm        1      224   106097   106337      +    no    1 0.49   0.0  133.4   1.3e-31 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090571|emb|HF954559.1| -         T-box                RF00230    cm        1      224   257688   257958      +    no    1 0.49   0.0  128.6   2.3e-30 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090593|emb|HF954537.1| -         T-box                RF00230    cm        1      224   274932   275179      +    no    1 0.51   0.0  118.0   1.3e-27 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090572|emb|HF954558.1| -         T-box                RF00230    cm        1      224    31804    32043      +    no    1 0.47   0.0  114.7   8.9e-27 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090592|emb|HF954538.1| -         T-box                RF00230    cm        1      224    72250    72496      +    no    1 0.51   0.0  111.1   7.6e-26 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090598|emb|HF954532.1| -         T-box                RF00230    cm        1      224   156738   156953      +    no    1 0.46   0.0  109.3   2.3e-25 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090593|emb|HF954537.1| -         T-box                RF00230    cm        1      224     9603     9820      +    no    1 0.48   0.0  108.5   3.6e-25 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090571|emb|HF954559.1| -         T-box                RF00230    cm        1      224   114068   114320      +    no    1 0.50   0.0  105.1   2.8e-24 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090571|emb|HF954559.1| -         T-box                RF00230    cm        1      224   117760   118010      +    no    1 0.52   0.0   98.6   1.3e-22 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090595|emb|HF954535.1| -         Glycine              RF00504    cm        1       94    61377    61290      -    no    1 0.52   0.0   64.7   3.2e-13 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090593|emb|HF954537.1| -         L20_leader           RF00558    cm        1      127  1132089  1131980      -    no    1 0.44   0.0   57.6   1.4e-10 !   Megasphaera sp. NP3, whole genome shotgun sequence
+gi|531090593|emb|HF954537.1| -         cspA                 RF01766    cm        1      428   135498   135856      +    no    1 0.41   0.1   82.6     1e-20 !   Megasphaera sp. NP3, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Megasphaera_sp._NP3/765268-DENOVO-20150227-1847.1484484/output/bacterial_annot/CAVO01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Megasphaera_sp._NP3.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Megasphaera_sp._NP3/765268-DENOVO-20150227-1847.1484484/output/bacterial_annot/CAVO01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:19 2015
+# [ok]

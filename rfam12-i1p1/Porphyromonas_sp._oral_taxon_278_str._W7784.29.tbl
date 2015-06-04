@@ -1,0 +1,15 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|543996004|gb|KI259228.1| -         RNaseP_bact_a        RF00010    cm        1      367    97001    97388      +    no    1 0.56   0.0  241.9     3e-78 !   Porphyromonas sp. oral taxon 278 str. W7784 Scaffold199, whole genome shotgun sequence
+gi|543995974|gb|KI259258.1| -         Cobalamin            RF00174    cm        1      191   365181   364952      -    no    1 0.52   0.0   92.8   1.4e-24 !   Porphyromonas sp. oral taxon 278 str. W7784 Scaffold919, whole genome shotgun sequence
+gi|543996002|gb|KI259230.1| -         Cobalamin            RF00174    cm        1      191   291188   290858      -    no    1 0.55   0.0   56.3     9e-14 !   Porphyromonas sp. oral taxon 278 str. W7784 Scaffold224, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Porphyromonas_sp._oral_taxon_278_str._W7784/782508-DENOVO-20150227-1847.1485114/output/bacterial_annot/AWUX01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Porphyromonas_sp._oral_taxon_278_str._W7784.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Porphyromonas_sp._oral_taxon_278_str._W7784/782508-DENOVO-20150227-1847.1485114/output/bacterial_annot/AWUX01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:46 2015
+# [ok]

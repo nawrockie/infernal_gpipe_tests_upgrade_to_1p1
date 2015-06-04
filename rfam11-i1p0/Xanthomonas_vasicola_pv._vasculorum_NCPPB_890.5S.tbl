@@ -1,0 +1,38 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Xanthomonas_vasicola_pv._vasculorum_NCPPB_890.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Xanthomonas_vasicola_pv._vasculorum_NCPPB_890/534828-DENOVO-20150124-1027.1444964/output/bacterial_annot/AKBN01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:29 2015
+# num seqs:   2565
+# dbsize(Mb): 9.902106
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     496.140     7.68   0.0082  00:00:56.56
+#   2   cm  cyk  loc  1e-07      24.134     8.41   0.0004  00:00:13.84
+#   3   cm  ins  loc  1e-15     1.7e-06    40.00  1.9e-11  00:00:03.26
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:13.67
+#
+#
+# CM: 5S_rRNA
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|395636173|gb|AKBN01001716.1|         266         152      1    119     85.80  2.88e-18   59
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     496.140      143    0.0082   0.0025
+#   2   cm  cyk  loc  1e-07      24.134        1    0.0004  1.6e-05
+#   3   cm  ins  loc  1e-15     1.7e-06        1   1.9e-11  1.2e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:13.67    00:01:06.00

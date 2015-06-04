@@ -1,0 +1,4 @@
+gi|384407448|gb|AJKI01000015.1|	cmsearch-1.1.1	rna	110290	110656	228.2	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=2.6e-73
+gi|384407432|gb|AJKI01000031.1|	cmsearch-1.1.1	rna	230087	230336	107.0	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=2.2e-28
+gi|384407428|gb|AJKI01000035.1|	cmsearch-1.1.1	rna	23274	23518	101.6	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=8.3e-27
+gi|384407442|gb|AJKI01000021.1|	cmsearch-1.1.1	rna	82004	82286	98.3	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=8e-26

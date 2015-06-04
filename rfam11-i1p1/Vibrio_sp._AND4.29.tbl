@@ -1,0 +1,26 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|159175546|gb|ABGR01000001.1| -         FMN                  RF00050    cm        1      139   230717   230576      -    no    1 0.54   0.3  124.7   1.5e-31 !   Vibrio sp. AND4 1103602000595, whole genome shotgun sequence
+gi|159173814|gb|ABGR01000008.1| -         S15                  RF00114    cm        1      116    23065    23184      +    no    1 0.43   0.5   91.6   7.3e-23 !   Vibrio sp. AND4 1103602000417, whole genome shotgun sequence
+gi|159172789|gb|ABGR01000027.1| -         Cobalamin            RF00174    cm        1      190     3919     3717      -    no    1 0.47   0.5  100.4   1.2e-25 !   Vibrio sp. AND4 1103602000602, whole genome shotgun sequence
+gi|159174684|gb|ABGR01000003.1| -         K_chan_RES           RF00485    cm        1      114   190441   190557      +    no    1 0.46   0.2   20.1      0.13 !   Vibrio sp. AND4 1103602000598, whole genome shotgun sequence
+gi|159175033|gb|ABGR01000002.1| -         Glycine              RF00504    cm        1       94   106073   105972      -    no    1 0.53   3.1   64.4   3.3e-13 !   Vibrio sp. AND4 1103602000593, whole genome shotgun sequence
+gi|159172425|gb|ABGR01000046.1| -         L20_leader           RF00558    cm        1      127      692      802      +    no    1 0.43   0.5   38.6   4.1e-07 !   Vibrio sp. AND4 1103602000587, whole genome shotgun sequence
+gi|159174091|gb|ABGR01000006.1| -         c-di-GMP-I           RF01051    cm        1       87   118490   118579      +    no    1 0.58   0.9   67.6   5.5e-13 !   Vibrio sp. AND4 1103602000573, whole genome shotgun sequence
+gi|159174684|gb|ABGR01000003.1| -         cspA                 RF01766    cm        1      428    64345    64754      +    no    1 0.37  15.0   89.1   5.8e-27 !   Vibrio sp. AND4 1103602000598, whole genome shotgun sequence
+gi|159175546|gb|ABGR01000001.1| -         cspA                 RF01766    cm        1      428   278956   278527      -    no    1 0.39   9.4   85.8   7.2e-26 !   Vibrio sp. AND4 1103602000595, whole genome shotgun sequence
+gi|159173704|gb|ABGR01000009.1| -         cspA                 RF01766    cm        1      428   102369   102800      +    no    1 0.39  10.8   83.5   4.3e-25 !   Vibrio sp. AND4 1103602000590, whole genome shotgun sequence
+gi|159173935|gb|ABGR01000007.1| -         cspA                 RF01766    cm        1      428   148060   147656      -    no    1 0.36  20.1   63.3   2.3e-18 !   Vibrio sp. AND4 1103602000603, whole genome shotgun sequence
+gi|159174684|gb|ABGR01000003.1| -         cspA                 RF01766    cm        1      428    72420    72014      -    no    1 0.33  28.7   60.5   1.9e-17 !   Vibrio sp. AND4 1103602000598, whole genome shotgun sequence
+gi|159173935|gb|ABGR01000007.1| -         cspA                 RF01766    cm        1      428   147644   147239      -    no    1 0.35  21.4   57.1   2.7e-16 !   Vibrio sp. AND4 1103602000603, whole genome shotgun sequence
+gi|159173704|gb|ABGR01000009.1| -         Phe_leader           RF01859    cm        1      126    22284    22163      -    no    1 0.38   1.4   88.9   4.7e-20 !   Vibrio sp. AND4 1103602000590, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Vibrio_sp._AND4/211958-DENOVO-20150227-1622.1477824/output/bacterial_annot/ABGR01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Vibrio_sp._AND4.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Vibrio_sp._AND4/211958-DENOVO-20150227-1622.1477824/output/bacterial_annot/ABGR01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:01 2015
+# [ok]

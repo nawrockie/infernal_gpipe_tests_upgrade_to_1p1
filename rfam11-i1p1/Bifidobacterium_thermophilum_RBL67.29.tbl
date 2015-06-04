@@ -1,0 +1,14 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|469497741|gb|CP004346.1| -         RNaseP_bact_a        RF00010    cm        1      367   913798   913447      -    no    1 0.61  14.8  277.4   9.4e-95 !   Bifidobacterium thermophilum RBL67, complete genome
+gi|469497741|gb|CP004346.1| -         FMN                  RF00050    cm        1      139  2212143  2212299      +    no    1 0.60   2.3   85.8   6.1e-21 !   Bifidobacterium thermophilum RBL67, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Bifidobacterium_thermophilum_RBL67/558758-DENOVO-20150207-1527.1457404/output/bacterial_annot/ASM34769v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Bifidobacterium_thermophilum_RBL67.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Bifidobacterium_thermophilum_RBL67/558758-DENOVO-20150207-1527.1457404/output/bacterial_annot/ASM34769v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:58 2015
+# [ok]

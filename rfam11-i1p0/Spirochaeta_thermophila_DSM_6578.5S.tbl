@@ -1,0 +1,39 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Spirochaeta_thermophila_DSM_6578.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Spirochaeta_thermophila_DSM_6578/293738-DENOVO-20150121-1607.1442044/output/bacterial_annot/ASM18434v2.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:26 2015
+# num seqs:   1
+# dbsize(Mb): 5.120444
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     256.557     7.68   0.0082  00:00:50.14
+#   2   cm  cyk  loc  1e-07      12.480     8.41   0.0004  00:00:05.96
+#   3   cm  ins  loc  1e-15     8.8e-07    40.00  1.9e-11  00:00:01.86
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:57.98
+#
+#
+# CM: 5S_rRNA
+#                                        target coord   query coord                         
+#                              ----------------------  ------------                         
+# target name                       start        stop  start   stop    bit sc   E-value  GC%
+# ---------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|339410722|gb|CP002903.1|      667319      667433      1    119     91.43  5.32e-20   65
+  gi|339410722|gb|CP002903.1|     1594351     1594237      1    119     91.43  5.32e-20   65
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     256.557       92    0.0082   0.0030
+#   2   cm  cyk  loc  1e-07      12.480        3    0.0004   0.0001
+#   3   cm  ins  loc  1e-15     8.8e-07        2   1.9e-11  4.5e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:57.98    00:00:45.00

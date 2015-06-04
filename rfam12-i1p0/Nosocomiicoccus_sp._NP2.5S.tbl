@@ -1,0 +1,37 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam12-i1p0/Nosocomiicoccus_sp._NP2.5S.tbl ./RF00001.rfam12.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Nosocomiicoccus_sp._NP2/745428-DENOVO-20150124-1127.1445994/output/bacterial_annot/CAVG01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:32 2015
+# num seqs:   154
+# dbsize(Mb): 3.019468
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -      59.519     8.84   0.0054  00:00:17.24
+#   2   cm  cyk  loc  1e-07       2.906     9.30   0.0003  00:00:02.99
+#   3   cm  ins  loc  1e-15     2.5e-07    40.00  9.6e-12  00:00:00.95
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:00:21.20
+#
+#
+# CM: 5S_rRNA
+#                                              target coord   query coord                         
+#                                    ----------------------  ------------                         
+# target name                             start        stop  start   stop    bit sc   E-value  GC%
+# ---------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -      59.519        9    0.0054   0.0008
+#   2   cm  cyk  loc  1e-07       2.906        0    0.0003  0.0e+00
+#   3   cm  ins  loc  1e-15     2.5e-07        0   9.6e-12  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:00:21.20    00:00:19.00

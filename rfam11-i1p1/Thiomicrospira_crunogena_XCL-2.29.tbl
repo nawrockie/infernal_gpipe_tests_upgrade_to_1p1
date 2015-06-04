@@ -1,0 +1,24 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|110744159|gb|CP000109.2| -         RNaseP_bact_a        RF00010    cm        1      367   627864   628230      +    no    1 0.52   2.9  300.6  7.7e-103 !   Thiomicrospira crunogena XCL-2, complete genome
+gi|110744159|gb|CP000109.2| -         S15                  RF00114    cm        1      116  1216906  1217023      +    no    1 0.36   3.1   35.6   3.7e-07 !   Thiomicrospira crunogena XCL-2, complete genome
+gi|110744159|gb|CP000109.2| -         Cobalamin            RF00174    cm        1      190  1043405  1043179      -    no    1 0.44   0.3  100.9   4.7e-26 !   Thiomicrospira crunogena XCL-2, complete genome
+gi|110744159|gb|CP000109.2| -         RNaseP_arch          RF00373    cm        1      289   627863   628227      +    no    1 0.53   3.5   58.4   1.8e-17 !   Thiomicrospira crunogena XCL-2, complete genome
+gi|110744159|gb|CP000109.2| -         c-di-GMP-I           RF01051    cm        1       87  1051066  1051149      +    no    1 0.44   0.3   58.7   4.6e-11 !   Thiomicrospira crunogena XCL-2, complete genome
+gi|110744159|gb|CP000109.2| -         c-di-GMP-I           RF01051    cm        1       87   325943   326021      +    no    1 0.46   0.2   58.1   6.5e-11 !   Thiomicrospira crunogena XCL-2, complete genome
+gi|110744159|gb|CP000109.2| -         c-di-GMP-I           RF01051    cm        1       87   326120   326199      +    no    1 0.45   0.2   56.7   1.4e-10 !   Thiomicrospira crunogena XCL-2, complete genome
+gi|110744159|gb|CP000109.2| -         c-di-GMP-I           RF01051    cm        1       87  1048651  1048725      +    no    1 0.49   0.1   53.6   7.9e-10 !   Thiomicrospira crunogena XCL-2, complete genome
+gi|110744159|gb|CP000109.2| -         isrK                 RF01394    cm        1       77   611511   611455      -    no    1 0.49   0.1   25.1    0.0018 !   Thiomicrospira crunogena XCL-2, complete genome
+gi|110744159|gb|CP000109.2| -         isrK                 RF01394    cm        1       77  1185418  1185477      +    no    1 0.37   0.9   23.5    0.0046 !   Thiomicrospira crunogena XCL-2, complete genome
+gi|110744159|gb|CP000109.2| -         isrK                 RF01394    cm        1       77  1083782  1083842      +    no    1 0.43   0.2   22.3    0.0097 !   Thiomicrospira crunogena XCL-2, complete genome
+gi|110744159|gb|CP000109.2| -         cspA                 RF01766    cm       21      425  1132046  1131614      -    no    1 0.36  20.7   45.3   1.3e-12 !   Thiomicrospira crunogena XCL-2, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Thiomicrospira_crunogena_XCL-2/13408-DENOVO-20150227-1527.1476194/output/bacterial_annot/ASM1260v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Thiomicrospira_crunogena_XCL-2.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Thiomicrospira_crunogena_XCL-2/13408-DENOVO-20150227-1527.1476194/output/bacterial_annot/ASM1260v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:56 2015
+# [ok]

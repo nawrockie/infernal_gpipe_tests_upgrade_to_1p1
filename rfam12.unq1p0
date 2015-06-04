@@ -1,0 +1,17 @@
+# Key: rfam12
+# GFF file 1 (infernal 1.0): rfam12-i1p0.gff
+# GFF file 2 (infernal 1.1): rfam12-i1p1.gff
+# Hits found by Infernal 1.0 for which Infernal 1.1 finds zero overlapping hits on the same strand
+#Rfam-accession:name	sequence-name	number-nt-overlap	1p0-start	1p0-end	1p0-strand	1p0-score	1p0-evalue
+RF00504:Glycine	gi|748231934|gb|CP006883.1|	0	3602944	3603028	-	36.50	9.79e-06
+RF00504:Glycine	gi|752490328|dbj|BBSQ01000030.1|	0	11196	11304	+	46.76	1.24e-08
+RF00504:Glycine	gi|396301555|emb|HE610959.1|	0	173473	173603	-	47.53	1.32e-08
+RF00504:Glycine	gi|665414195|dbj|BBIW01000004.1|	0	440342	440417	+	37.14	7.50e-06
+RF00504:Glycine	gi|306526293|gb|CP002038.1|	0	2325213	2325299	+	50.41	2.00e-09
+RF00504:Glycine	gi|151558385|gb|ABDV01000009.1|	0	26750	26823	-	48.02	6.81e-09
+RF00504:Glycine	gi|118415003|gb|CP000485.1|	0	2277612	2277712	-	39.06	2.20e-06
+RF00504:Glycine	gi|511113039|gb|ANNT01001049.1|	0	1573	1657	-	36.50	8.42e-06
+RF00504:Glycine	gi|151558551|gb|ABDX01000020.1|	0	9811	9884	-	48.02	6.14e-09
+RF01766:cspA	gi|511113728|gb|ANNT01000360.1|	0	1	357	-	80.04	1.21e-23
+RF00001:5S_rRNA	gi|228031882|gb|GG665867.1|	0	705	822	-	51.79	2.95e-10
+RF00001:5S_rRNA	gi|228031884|gb|GG665866.1|	0	771046	771163	-	51.79	2.95e-10

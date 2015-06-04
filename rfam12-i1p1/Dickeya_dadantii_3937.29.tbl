@@ -1,0 +1,38 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|306526293|gb|CP002038.1| -         RNaseP_bact_a        RF00010    cm        1      367   380717   381097      +    no    1 0.61   4.8  318.2  2.4e-103 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         FMN                  RF00050    cm        1      140   996705   996864      +    no    1 0.63   0.0  118.7   1.3e-28 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         S15                  RF00114    cm        1      117   679925   680039      +    no    1 0.46   0.0   95.7   5.2e-23 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         Cobalamin            RF00174    cm        1      191   228516   228718      +    no    1 0.58   0.0  111.8   7.9e-30 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         DnaX                 RF00382    cm        1       65  1292814  1292878      +    no    1 0.55   0.8   46.6   1.2e-08 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         RtT                  RF00391    cm        1      130  1458577  1458701      +    no    1 0.66   0.1  107.1   1.4e-23 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         RtT                  RF00391    cm        1      130  1458407  1458531      +    no    1 0.66   0.2  106.6   1.9e-23 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         RtT                  RF00391    cm        1      130  1458747  1458871      +    no    1 0.66   0.2  106.6   1.9e-23 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         RtT                  RF00391    cm        1      130  1459087  1459211      +    no    1 0.66   0.2  103.2   1.4e-22 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         RtT                  RF00391    cm        1      130  1458917  1459041      +    no    1 0.66   0.1   98.5   2.4e-21 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         RtT                  RF00391    cm        1      130   241447   241571      +    no    1 0.54   0.0   74.4   3.8e-15 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         Glycine              RF00504    cm        1       94  2325303  2325397      +    no    1 0.58   0.0   59.4   1.4e-11 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         isrK                 RF01394    cm        1       77  2043961  2043884      -    no    1 0.56   0.0   77.3   2.4e-16 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         isrK                 RF01394    cm        1       77  3760965  3760887      -    no    1 0.49   0.0   60.5   4.7e-12 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         isrK                 RF01394    cm        1       77   459664   459749      +    no    1 0.47   0.0   55.9   7.4e-11 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         STnc490k             RF01405    cm        1      124  1375394  1375517      +    no    1 0.47   0.0  140.5   6.3e-30 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         STnc490k             RF01405    cm        1      124  2102968  2103091      +    no    1 0.47   0.0  140.5   6.3e-30 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         STnc490k             RF01405    cm        1      124  2346253  2346376      +    no    1 0.47   0.0  140.5   6.3e-30 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         STnc490k             RF01405    cm        1      124  2599968  2599845      -    no    1 0.47   0.0  140.5   6.3e-30 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         STnc490k             RF01405    cm        1      124  3047148  3047025      -    no    1 0.47   0.0  140.5   6.3e-30 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         STnc490k             RF01405    cm        1      124  3690188  3690061      -    no    1 0.47   0.0  131.6   8.2e-28 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         cspA                 RF01766    cm        1      428  4500569  4500137      -    no    1 0.43   0.0  185.6   7.2e-50 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         cspA                 RF01766    cm        1      428  1374976  1375384      +    no    1 0.43   0.1  124.6   1.8e-32 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         cspA                 RF01766    cm        1      428  2570101  2569676      -    no    1 0.43   0.0  122.0     1e-31 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         Phe_leader           RF01859    cm        1      125  3683517  3683643      +    no    1 0.45   0.0  112.8   4.4e-21 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         Phe_leader           RF01859    cm        1      125  2592705  2592581      -    no    1 0.45   0.0   76.5   4.8e-13 !   Dickeya dadantii 3937, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Dickeya_dadantii_3937/169828-DENOVO-20150226-0902.1471794/output/bacterial_annot/ASM14705v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Dickeya_dadantii_3937.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Dickeya_dadantii_3937/169828-DENOVO-20150226-0902.1471794/output/bacterial_annot/ASM14705v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:12 2015
+# [ok]

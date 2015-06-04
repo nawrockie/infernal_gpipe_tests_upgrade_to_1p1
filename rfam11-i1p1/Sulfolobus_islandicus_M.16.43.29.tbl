@@ -1,0 +1,20 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|373959031|gb|AHJR01000001.1| -         snoPyro_CD           RF00095    cm        1       58  1374448  1374503      +    no    1 0.54   0.1   31.8   9.1e-05 !   Sulfolobus islandicus M.16.43 chromosome, whole genome shotgun sequence
+gi|373959031|gb|AHJR01000001.1| -         snoPyro_CD           RF00095    cm        1       58    17969    17914      -    no    1 0.39   0.2   25.9    0.0032 !   Sulfolobus islandicus M.16.43 chromosome, whole genome shotgun sequence
+gi|373959031|gb|AHJR01000001.1| -         snoPyro_CD           RF00095    cm        1       58  2410020  2409963      -    no    1 0.38   0.7   23.5     0.014 !   Sulfolobus islandicus M.16.43 chromosome, whole genome shotgun sequence
+gi|373959031|gb|AHJR01000001.1| -         snoPyro_CD           RF00095    cm        1       58  1559204  1559148      -    no    1 0.39   1.3   23.1     0.017 !   Sulfolobus islandicus M.16.43 chromosome, whole genome shotgun sequence
+gi|373959031|gb|AHJR01000001.1| -         snoPyro_CD           RF00095    cm        1       58   133327   133383      +    no    1 0.47   0.2   22.9     0.019 !   Sulfolobus islandicus M.16.43 chromosome, whole genome shotgun sequence
+gi|373959031|gb|AHJR01000001.1| -         snoPyro_CD           RF00095    cm        1       58  1988850  1988795      -    no    1 0.41   0.6   20.9     0.062 !   Sulfolobus islandicus M.16.43 chromosome, whole genome shotgun sequence
+gi|373959031|gb|AHJR01000001.1| -         snoPyro_CD           RF00095    cm        1       58     6242     6187      -    no    1 0.39   0.3   20.6     0.074 !   Sulfolobus islandicus M.16.43 chromosome, whole genome shotgun sequence
+gi|373959031|gb|AHJR01000001.1| -         RNaseP_arch          RF00373    cm        1      289  1721980  1722284      +    no    1 0.49   3.4  169.1   9.4e-55 !   Sulfolobus islandicus M.16.43 chromosome, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Sulfolobus_islandicus_M.16.43/332308-DENOVO-20150207-1427.1454994/output/bacterial_annot/AHJR01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Sulfolobus_islandicus_M.16.43.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Sulfolobus_islandicus_M.16.43/332308-DENOVO-20150207-1427.1454994/output/bacterial_annot/AHJR01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:51 2015
+# [ok]

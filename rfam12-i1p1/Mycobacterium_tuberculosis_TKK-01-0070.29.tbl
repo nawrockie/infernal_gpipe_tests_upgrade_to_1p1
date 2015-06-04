@@ -1,0 +1,22 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|627627129|gb|KK328372.1| -         RNaseP_bact_a        RF00010    cm        1      367  1428328  1428756      +    no    1 0.65  15.8  291.6   1.6e-94 !   Mycobacterium tuberculosis TKK-01-0070 adbAN-supercont1.1, whole genome shotgun sequence
+gi|627627129|gb|KK328372.1| -         Cobalamin            RF00174    cm        1      191  2672003  2672221      +    no    1 0.66   6.0   97.6   1.1e-25 !   Mycobacterium tuberculosis TKK-01-0070 adbAN-supercont1.1, whole genome shotgun sequence
+gi|627627129|gb|KK328372.1| -         Cobalamin            RF00174    cm        1      191  3634136  3634309      +    no    1 0.65   0.3   93.3   2.1e-24 !   Mycobacterium tuberculosis TKK-01-0070 adbAN-supercont1.1, whole genome shotgun sequence
+gi|627627129|gb|KK328372.1| -         Glycine              RF00504    cm        1       94  1860423  1860326      -    no    1 0.63   0.0   60.0     9e-12 !   Mycobacterium tuberculosis TKK-01-0070 adbAN-supercont1.1, whole genome shotgun sequence
+gi|627627129|gb|KK328372.1| -         Glycine              RF00504    cm        1       94  3873275  3873365      +    no    1 0.62   0.0   49.7     5e-09 !   Mycobacterium tuberculosis TKK-01-0070 adbAN-supercont1.1, whole genome shotgun sequence
+gi|627627129|gb|KK328372.1| -         ASpks                RF01782    cm        1       75   642188   642114      -    no    1 0.65   0.0   83.6   6.9e-16 !   Mycobacterium tuberculosis TKK-01-0070 adbAN-supercont1.1, whole genome shotgun sequence
+gi|627627129|gb|KK328372.1| -         ASpks                RF01782    cm        1       75  1620434  1620357      -    no    1 0.62   0.0   77.0   2.4e-14 !   Mycobacterium tuberculosis TKK-01-0070 adbAN-supercont1.1, whole genome shotgun sequence
+gi|627627129|gb|KK328372.1| -         ASpks                RF01782    cm        1       75  1625827  1625750      -    no    1 0.62   0.0   77.0   2.4e-14 !   Mycobacterium tuberculosis TKK-01-0070 adbAN-supercont1.1, whole genome shotgun sequence
+gi|627627129|gb|KK328372.1| -         ASpks                RF01782    cm        1       75  2066401  2066472      +    no    1 0.64   0.0   64.9   1.6e-11 !   Mycobacterium tuberculosis TKK-01-0070 adbAN-supercont1.1, whole genome shotgun sequence
+gi|627627129|gb|KK328372.1| -         ASpks                RF01782    cm        1       75  2060013  2060081      +    no    1 0.64   0.0   59.0   3.9e-10 !   Mycobacterium tuberculosis TKK-01-0070 adbAN-supercont1.1, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Mycobacterium_tuberculosis_TKK-01-0070/1037718-DENOVO-20150227-2032.1488064/output/bacterial_annot/JLXD01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Mycobacterium_tuberculosis_TKK-01-0070.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Mycobacterium_tuberculosis_TKK-01-0070/1037718-DENOVO-20150227-2032.1488064/output/bacterial_annot/JLXD01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:15 2015
+# [ok]

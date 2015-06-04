@@ -1,0 +1,40 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|373501687|gb|JH594557.1| -         RNaseP_bact_a        RF00010    cm        1      367   216429   216053      -    no    1 0.62  17.8  292.4   1.2e-99 !   Escherichia coli 4_1_47FAA supercont1.5, whole genome shotgun sequence
+gi|373501687|gb|JH594557.1| -         FMN                  RF00050    cm        1      139   137603   137455      -    no    1 0.58   1.1  123.4   4.3e-31 !   Escherichia coli 4_1_47FAA supercont1.5, whole genome shotgun sequence
+gi|373501682|gb|JH594562.1| -         QUAD                 RF00113    cm        1      147   103605   103457      -    no    1 0.46   0.1  151.0   4.3e-34 !   Escherichia coli 4_1_47FAA supercont1.10, whole genome shotgun sequence
+gi|373501687|gb|JH594557.1| -         QUAD                 RF00113    cm        1      147   141593   141445      -    no    1 0.41   0.5  143.2   3.6e-32 !   Escherichia coli 4_1_47FAA supercont1.5, whole genome shotgun sequence
+gi|373501687|gb|JH594557.1| -         QUAD                 RF00113    cm        1      147   141218   141068      -    no    1 0.40   0.9  139.2   3.6e-31 !   Escherichia coli 4_1_47FAA supercont1.5, whole genome shotgun sequence
+gi|373501689|gb|JH594555.1| -         QUAD                 RF00113    cm        1      147   353822   353972      +    no    1 0.40   0.6  135.9   2.4e-30 !   Escherichia coli 4_1_47FAA supercont1.3, whole genome shotgun sequence
+gi|373501682|gb|JH594562.1| -         QUAD                 RF00113    cm        1      147   102825   102683      -    no    1 0.48   0.1  134.9   4.2e-30 !   Escherichia coli 4_1_47FAA supercont1.10, whole genome shotgun sequence
+gi|373501682|gb|JH594562.1| -         QUAD                 RF00113    cm        1      147   103270   103128      -    no    1 0.47   0.1  133.5   9.3e-30 !   Escherichia coli 4_1_47FAA supercont1.10, whole genome shotgun sequence
+gi|373501687|gb|JH594557.1| -         S15                  RF00114    cm        1      116   254518   254404      -    no    1 0.40   0.9  106.4   5.8e-27 !   Escherichia coli 4_1_47FAA supercont1.5, whole genome shotgun sequence
+gi|373501682|gb|JH594562.1| -         Cobalamin            RF00174    cm        1      190   189905   190080      +    no    1 0.53   1.0   99.5   2.6e-25 !   Escherichia coli 4_1_47FAA supercont1.10, whole genome shotgun sequence
+gi|373501678|gb|JH594566.1| -         Cobalamin            RF00174    cm        1      190     3319     3129      -    no    1 0.54   0.1   87.9   5.3e-22 !   Escherichia coli 4_1_47FAA supercont1.14, whole genome shotgun sequence
+gi|373501784|gb|JH594553.1| -         DnaX                 RF00382    cm        1       65   238580   238644      +    no    1 0.62   4.6   87.4   1.7e-20 !   Escherichia coli 4_1_47FAA supercont1.1, whole genome shotgun sequence
+gi|373501680|gb|JH594564.1| -         RtT                  RF00391    cm        1      131   153182   153313      +    no    1 0.61   3.1  128.4   6.3e-28 !   Escherichia coli 4_1_47FAA supercont1.12, whole genome shotgun sequence
+gi|373501784|gb|JH594553.1| -         RtT                  RF00391    cm        1      131   530525   530650      +    no    1 0.60   2.9   46.9   6.4e-08 !   Escherichia coli 4_1_47FAA supercont1.1, whole genome shotgun sequence
+gi|373501784|gb|JH594553.1| -         RtT                  RF00391    cm        1      131   530162   530305      +    no    1 0.53   0.3   44.3   2.9e-07 !   Escherichia coli 4_1_47FAA supercont1.1, whole genome shotgun sequence
+gi|373501690|gb|JH594554.1| -         isrK                 RF01394    cm        1       77     3754     3678      -    no    1 0.56   0.1   62.8   6.2e-13 !   Escherichia coli 4_1_47FAA supercont1.2, whole genome shotgun sequence
+gi|373501674|gb|JH594570.1| -         isrK                 RF01394    cm        1       77    17399    17314      -    no    1 0.50   0.1   30.5   0.00015 !   Escherichia coli 4_1_47FAA supercont1.18, whole genome shotgun sequence
+gi|373501683|gb|JH594561.1| -         isrK                 RF01394    cm        1       77    11005    10954      -    no    1 0.50   0.1   22.5     0.019 !   Escherichia coli 4_1_47FAA supercont1.9, whole genome shotgun sequence
+gi|373501680|gb|JH594564.1| -         STnc490k             RF01405    cm        1      124    58560    58683      +    no    1 0.46   0.1  141.1   1.1e-35 !   Escherichia coli 4_1_47FAA supercont1.12, whole genome shotgun sequence
+gi|373501679|gb|JH594565.1| -         cspA                 RF01766    cm        1      428    56367    56794      +    no    1 0.45   0.5  480.8  2.5e-157 !   Escherichia coli 4_1_47FAA supercont1.13, whole genome shotgun sequence
+gi|373501688|gb|JH594556.1| -         cspA                 RF01766    cm        1      428   151697   151281      -    no    1 0.42   3.1  144.1   3.5e-45 !   Escherichia coli 4_1_47FAA supercont1.4, whole genome shotgun sequence
+gi|373501685|gb|JH594559.1| -         cspA                 RF01766    cm        1      428     1466     1890      +    no    1 0.36  23.2  137.1   7.5e-43 !   Escherichia coli 4_1_47FAA supercont1.7, whole genome shotgun sequence
+gi|373501675|gb|JH594569.1| -         cspA                 RF01766    cm        1      428    94853    95278      +    no    1 0.44   2.4  133.2   1.5e-41 !   Escherichia coli 4_1_47FAA supercont1.17, whole genome shotgun sequence
+gi|373501784|gb|JH594553.1| -         cspA                 RF01766    cm        1      428   410560   410918      +    no    1 0.41   3.5  116.8   4.2e-36 !   Escherichia coli 4_1_47FAA supercont1.1, whole genome shotgun sequence
+gi|373501685|gb|JH594559.1| -         cspA                 RF01766    cm        1      428     4931     5318      +    no    1 0.37  17.5   93.1   3.3e-28 !   Escherichia coli 4_1_47FAA supercont1.7, whole genome shotgun sequence
+gi|373501676|gb|JH594568.1| -         ROSE_2               RF01832    cm        1       73    74606    74678      +    no    1 0.45   0.4   92.9     4e-24 !   Escherichia coli 4_1_47FAA supercont1.16, whole genome shotgun sequence
+gi|373501689|gb|JH594555.1| -         Phe_leader           RF01859    cm        1      126     6567     6692      +    no    1 0.47   0.1  132.8   1.6e-31 !   Escherichia coli 4_1_47FAA supercont1.3, whole genome shotgun sequence
+gi|373501686|gb|JH594558.1| -         Phe_leader           RF01859    cm        1      126   223592   223469      -    no    1 0.48   0.1   68.3   1.6e-14 !   Escherichia coli 4_1_47FAA supercont1.6, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Escherichia_coli_4_1_47FAA/329918-DENOVO-20150227-1622.1479514/output/bacterial_annot/ACTQ01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Escherichia_coli_4_1_47FAA.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Escherichia_coli_4_1_47FAA/329918-DENOVO-20150227-1622.1479514/output/bacterial_annot/ACTQ01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:09 2015
+# [ok]

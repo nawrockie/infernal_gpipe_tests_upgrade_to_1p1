@@ -1,0 +1,22 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|338755570|gb|CP002623.1| -         RNaseP_bact_a        RF00010    cm        1      367  1178937  1178537      -    no    1 0.65  40.8  257.3     2e-87 !   Roseobacter litoralis Och 149, complete genome
+gi|338755570|gb|CP002623.1| -         FMN                  RF00050    cm        1      139  4091454  4091606      +    no    1 0.59   1.4  116.9   2.5e-29 !   Roseobacter litoralis Och 149, complete genome
+gi|338755570|gb|CP002623.1| -         S15                  RF00114    cm        1      116  3948444  3948562      +    no    1 0.50   0.2   28.0   0.00011 !   Roseobacter litoralis Och 149, complete genome
+gi|338755570|gb|CP002623.1| -         Cobalamin            RF00174    cm        1      190   644438   644634      +    no    1 0.59   8.1  127.7   2.3e-33 !   Roseobacter litoralis Och 149, complete genome
+gi|338755570|gb|CP002623.1| -         Cobalamin            RF00174    cm        1      190  2748868  2748648      -    no    1 0.58   4.1  127.6   2.3e-33 !   Roseobacter litoralis Och 149, complete genome
+gi|338755570|gb|CP002623.1| -         Cobalamin            RF00174    cm        1      190  4112951  4113103      +    no    1 0.58   1.4   90.1   1.1e-22 !   Roseobacter litoralis Och 149, complete genome
+gi|338755570|gb|CP002623.1| -         Glycine              RF00504    cm        1       94  2865963  2865875      -    no    1 0.57   1.9   65.1   2.5e-13 !   Roseobacter litoralis Och 149, complete genome
+gi|338755570|gb|CP002623.1| -         Glycine              RF00504    cm        1       94  3611573  3611485      -    no    1 0.58   0.7   56.5   4.7e-11 !   Roseobacter litoralis Och 149, complete genome
+gi|338755570|gb|CP002623.1| -         L21_leader           RF00559    cm        1       77  1043672  1043587      -    no    1 0.41   0.4   20.3      0.18 !   Roseobacter litoralis Och 149, complete genome
+gi|338760063|gb|CP002626.1| -         ALIL                 RF01497    cm        1      117    11296    11412      +    no    1 0.59   0.3  120.4   8.8e-32 !   Roseobacter litoralis Och 149 plasmid pRLO149_63, complete sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Roseobacter_litoralis_Och_149/305298-DENOVO-20150207-1427.1454794/output/bacterial_annot/ASM15478v2.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Roseobacter_litoralis_Och_149.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Roseobacter_litoralis_Och_149/305298-DENOVO-20150207-1427.1454794/output/bacterial_annot/ASM15478v2.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:00 2015
+# [ok]

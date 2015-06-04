@@ -1,0 +1,44 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|509555184|gb|AOUK01000036.1| -         RNaseP_bact_a        RF00010    cm        1      367    39171    38789      -    no    1 0.49   0.9   60.2   1.2e-18 !   Enterococcus faecium CRL1879 Contig_169, whole genome shotgun sequence
+gi|509555136|gb|AOUK01000055.1| -         FMN                  RF00050    cm        1      139    63873    63998      +    no    1 0.44   0.3  104.4   4.8e-26 !   Enterococcus faecium CRL1879 Contig_255, whole genome shotgun sequence
+gi|509555217|gb|AOUK01000024.1| -         S15                  RF00114    cm        1      116   145747   145660      -    no    1 0.35   1.6   26.3    0.0002 !   Enterococcus faecium CRL1879 Contig_151, whole genome shotgun sequence
+gi|509555116|gb|AOUK01000065.1| -         Purine               RF00167    cm        1      102   226760   226663      -    no    1 0.32   4.9   62.1   3.5e-13 !   Enterococcus faecium CRL1879 Contig_348, whole genome shotgun sequence
+gi|509555267|gb|AOUK01000001.1| -         T-box                RF00230    cm        1      217    45102    44886      -    no    1 0.41   3.6  135.6   3.8e-35 !   Enterococcus faecium CRL1879 Contig_71, whole genome shotgun sequence
+gi|509555136|gb|AOUK01000055.1| -         T-box                RF00230    cm        1      217     3844     4078      +    no    1 0.47   2.4  111.8   1.6e-28 !   Enterococcus faecium CRL1879 Contig_255, whole genome shotgun sequence
+gi|509555239|gb|AOUK01000015.1| -         T-box                RF00230    cm        1      217    13542    13748      +    no    1 0.47   0.3  110.1   4.8e-28 !   Enterococcus faecium CRL1879 Contig_131, whole genome shotgun sequence
+gi|509555242|gb|AOUK01000014.1| -         T-box                RF00230    cm        1      217     5565     5798      +    no    1 0.43   5.1  109.3     8e-28 !   Enterococcus faecium CRL1879 Contig_127, whole genome shotgun sequence
+gi|509555140|gb|AOUK01000053.1| -         T-box                RF00230    cm        1      217   132547   132320      -    no    1 0.39  10.9  108.4   1.4e-27 !   Enterococcus faecium CRL1879 Contig_231, whole genome shotgun sequence
+gi|509555116|gb|AOUK01000065.1| -         T-box                RF00230    cm        1      217    69131    68892      -    no    1 0.42  13.3  108.0   1.8e-27 !   Enterococcus faecium CRL1879 Contig_348, whole genome shotgun sequence
+gi|509555188|gb|AOUK01000034.1| -         T-box                RF00230    cm        1      217      586      834      +    no    1 0.43   2.2  100.9   1.8e-25 !   Enterococcus faecium CRL1879 Contig_166, whole genome shotgun sequence
+gi|509555263|gb|AOUK01000003.1| -         T-box                RF00230    cm        1      217    85877    86074      +    no    1 0.44   0.6   99.2   5.3e-25 !   Enterococcus faecium CRL1879 Contig_73, whole genome shotgun sequence
+gi|509555217|gb|AOUK01000024.1| -         T-box                RF00230    cm        1      217   115704   115507      -    no    1 0.44   1.5   97.1     2e-24 !   Enterococcus faecium CRL1879 Contig_151, whole genome shotgun sequence
+gi|509555242|gb|AOUK01000014.1| -         T-box                RF00230    cm        1      217     5840     6078      +    no    1 0.45   4.4   94.7   9.5e-24 !   Enterococcus faecium CRL1879 Contig_127, whole genome shotgun sequence
+gi|509555201|gb|AOUK01000028.1| -         T-box                RF00230    cm        1      217    20256    20467      +    no    1 0.42   2.4   94.6     1e-23 !   Enterococcus faecium CRL1879 Contig_157, whole genome shotgun sequence
+gi|509555255|gb|AOUK01000007.1| -         T-box                RF00230    cm        1      217    41599    41343      -    no    1 0.45   8.4   93.7   1.8e-23 !   Enterococcus faecium CRL1879 Contig_86, whole genome shotgun sequence
+gi|509555140|gb|AOUK01000053.1| -         T-box                RF00230    cm        1      217   193187   192982      -    no    1 0.44   0.3   93.7   1.8e-23 !   Enterococcus faecium CRL1879 Contig_231, whole genome shotgun sequence
+gi|509555128|gb|AOUK01000059.1| -         T-box                RF00230    cm        1      217    34267    34474      +    no    1 0.40   4.0   90.4   1.5e-22 !   Enterococcus faecium CRL1879 Contig_279, whole genome shotgun sequence
+gi|509555242|gb|AOUK01000014.1| -         T-box                RF00230    cm        1      217    10108    10286      +    no    1 0.40   2.3   80.9   6.7e-20 !   Enterococcus faecium CRL1879 Contig_127, whole genome shotgun sequence
+gi|509555217|gb|AOUK01000024.1| -         T-box                RF00230    cm        1      217   212759   212593      -    no    1 0.46   0.7   80.5   8.4e-20 !   Enterococcus faecium CRL1879 Contig_151, whole genome shotgun sequence
+gi|509555217|gb|AOUK01000024.1| -         T-box                RF00230    cm        1      217    23175    22974      -    no    1 0.44   1.2   78.5   2.9e-19 !   Enterococcus faecium CRL1879 Contig_151, whole genome shotgun sequence
+gi|509555184|gb|AOUK01000036.1| -         T-box                RF00230    cm        1      217    26986    26783      -    no    1 0.36   6.5   78.2   3.6e-19 !   Enterococcus faecium CRL1879 Contig_169, whole genome shotgun sequence
+gi|509555217|gb|AOUK01000024.1| -         T-box                RF00230    cm        1      217   219151   219392      +    no    1 0.41   2.9   69.2   1.2e-16 !   Enterococcus faecium CRL1879 Contig_151, whole genome shotgun sequence
+gi|509555104|gb|AOUK01000072.1| -         T-box                RF00230    cm        1      217    91838    91617      -    no    1 0.45   0.6   66.8   5.4e-16 !   Enterococcus faecium CRL1879 Contig_400, whole genome shotgun sequence
+gi|509555128|gb|AOUK01000059.1| -         L10_leader           RF00557    cm        1      139    82464    82591      +    no    1 0.38   2.3   84.5   3.8e-17 !   Enterococcus faecium CRL1879 Contig_279, whole genome shotgun sequence
+gi|509555242|gb|AOUK01000014.1| -         L20_leader           RF00558    cm        1      127    40105    40230      +    no    1 0.43   0.4   63.4   4.7e-14 !   Enterococcus faecium CRL1879 Contig_127, whole genome shotgun sequence
+gi|509555104|gb|AOUK01000072.1| -         L21_leader           RF00559    cm        1       77   125918   125842      -    no    1 0.45   0.3   63.9   9.3e-14 !   Enterococcus faecium CRL1879 Contig_400, whole genome shotgun sequence
+gi|509555217|gb|AOUK01000024.1| -         cspA                 RF01766    cm        1      428   176842   176455      -    no    1 0.37  17.0   89.5     3e-27 !   Enterococcus faecium CRL1879 Contig_151, whole genome shotgun sequence
+gi|509555108|gb|AOUK01000070.1| -         cspA                 RF01766    cm        1      428     9114     9499      +    no    1 0.34  26.3   75.8   1.1e-22 !   Enterococcus faecium CRL1879 Contig_382, whole genome shotgun sequence
+gi|509555162|gb|AOUK01000042.1| -         cspA                 RF01766    cm        1      428     2737     3117      +    no    1 0.34  27.6   60.5   1.3e-17 !   Enterococcus faecium CRL1879 Contig_178, whole genome shotgun sequence
+gi|509555267|gb|AOUK01000001.1| -         cspA                 RF01766    cm        1      428    39103    38789      -    no    1 0.39   8.0   56.8   2.3e-16 !   Enterococcus faecium CRL1879 Contig_71, whole genome shotgun sequence
+gi|509555104|gb|AOUK01000072.1| -         cspA                 RF01766    cm        1      428    29664    29347      -    no    1 0.38  13.7   52.5     6e-15 !   Enterococcus faecium CRL1879 Contig_400, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Enterococcus_faecium_CRL1879/697928-DENOVO-20150227-1757.1483364/output/bacterial_annot/AOUK01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Enterococcus_faecium_CRL1879.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Enterococcus_faecium_CRL1879/697928-DENOVO-20150227-1757.1483364/output/bacterial_annot/AOUK01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:18 2015
+# [ok]

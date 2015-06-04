@@ -1,0 +1,25 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|311315065|gb|GL538291.1| -         RNaseP_bact_a        RF00010    cm        1      367   125488   125151      -    no    1 0.57   0.0  262.1   7.3e-85 !   Faecalibacterium cf. prausnitzii KLE1255 Scfld147, whole genome shotgun sequence
+gi|311315015|gb|GL538341.1| -         FMN                  RF00050    cm        1      140   113414   113300      -    no    1 0.53   0.0  112.3   4.1e-27 !   Faecalibacterium cf. prausnitzii KLE1255 Scfld535, whole genome shotgun sequence
+gi|311315041|gb|GL538315.1| -         FMN                  RF00050    cm        1      140   197822   197941      +    no    1 0.62   0.0  106.5   1.6e-25 !   Faecalibacterium cf. prausnitzii KLE1255 Scfld256, whole genome shotgun sequence
+gi|311315014|gb|GL538342.1| -         SAM                  RF00162    cm        1      108   258293   258195      -    no    1 0.60   0.0   71.0     1e-14 !   Faecalibacterium cf. prausnitzii KLE1255 Scfld551, whole genome shotgun sequence
+gi|311315020|gb|GL538336.1| -         Cobalamin            RF00174    cm        1      191    33281    33068      -    no    1 0.57   0.0  100.9   7.6e-27 !   Faecalibacterium cf. prausnitzii KLE1255 Scfld479, whole genome shotgun sequence
+gi|311315041|gb|GL538315.1| -         T-box                RF00230    cm        1      224   229755   230010      +    no    1 0.56   0.0  114.4   1.2e-26 !   Faecalibacterium cf. prausnitzii KLE1255 Scfld256, whole genome shotgun sequence
+gi|311315013|gb|GL538343.1| -         T-box                RF00230    cm        1      224    85019    84764      -    no    1 0.58   0.0  113.0   2.7e-26 !   Faecalibacterium cf. prausnitzii KLE1255 Scfld592, whole genome shotgun sequence
+gi|311315014|gb|GL538342.1| -         T-box                RF00230    cm        1      224   157745   158007      +    no    1 0.56   0.0  106.5   1.3e-24 !   Faecalibacterium cf. prausnitzii KLE1255 Scfld551, whole genome shotgun sequence
+gi|311315039|gb|GL538317.1| -         T-box                RF00230    cm        1      224     4168     4426      +    no    1 0.56   0.0  103.9   5.9e-24 !   Faecalibacterium cf. prausnitzii KLE1255 Scfld285, whole genome shotgun sequence
+gi|311315014|gb|GL538342.1| -         T-box                RF00230    cm        1      224   133785   134026      +    no    1 0.62   0.1  102.6   1.3e-23 !   Faecalibacterium cf. prausnitzii KLE1255 Scfld551, whole genome shotgun sequence
+gi|311315039|gb|GL538317.1| -         T-box                RF00230    cm        1      224    21084    20817      -    no    1 0.56   0.0  101.1   3.2e-23 !   Faecalibacterium cf. prausnitzii KLE1255 Scfld285, whole genome shotgun sequence
+gi|311315010|gb|GL538346.1| -         T-box                RF00230    cm        1      224   166646   166884      +    no    1 0.59   0.0   94.1     2e-21 !   Faecalibacterium cf. prausnitzii KLE1255 Scfld670, whole genome shotgun sequence
+gi|311315096|gb|GL538260.1| -         Glycine              RF00504    cm        1       94     6320     6219      -    no    1 0.58   0.0   49.5   3.7e-09 !   Faecalibacterium cf. prausnitzii KLE1255 Scfld63, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Faecalibacterium_cf._prausnitzii_KLE1255/232748-DENOVO-20150227-1622.1478304/output/bacterial_annot/AECU01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Faecalibacterium_cf._prausnitzii_KLE1255.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Faecalibacterium_cf._prausnitzii_KLE1255/232748-DENOVO-20150227-1622.1478304/output/bacterial_annot/AECU01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:57 2015
+# [ok]

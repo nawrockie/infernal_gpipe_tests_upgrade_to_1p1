@@ -1,0 +1,13 @@
+gi|311315065|gb|GL538291.1|	cmsearch-1.1.1	rna	125151	125488	262.1	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=7.3e-85
+gi|311315015|gb|GL538341.1|	cmsearch-1.1.1	rna	113300	113414	112.3	-	.	gb_key=FMN;rfam_acc=RF00050;evalue=4.1e-27
+gi|311315041|gb|GL538315.1|	cmsearch-1.1.1	rna	197822	197941	106.5	+	.	gb_key=FMN;rfam_acc=RF00050;evalue=1.6e-25
+gi|311315014|gb|GL538342.1|	cmsearch-1.1.1	rna	258195	258293	71.0	-	.	gb_key=SAM;rfam_acc=RF00162;evalue=1e-14
+gi|311315020|gb|GL538336.1|	cmsearch-1.1.1	rna	33068	33281	100.9	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=7.6e-27
+gi|311315041|gb|GL538315.1|	cmsearch-1.1.1	rna	229755	230010	114.4	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=1.2e-26
+gi|311315013|gb|GL538343.1|	cmsearch-1.1.1	rna	84764	85019	113.0	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=2.7e-26
+gi|311315014|gb|GL538342.1|	cmsearch-1.1.1	rna	157745	158007	106.5	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=1.3e-24
+gi|311315039|gb|GL538317.1|	cmsearch-1.1.1	rna	4168	4426	103.9	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=5.9e-24
+gi|311315014|gb|GL538342.1|	cmsearch-1.1.1	rna	133785	134026	102.6	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=1.3e-23
+gi|311315039|gb|GL538317.1|	cmsearch-1.1.1	rna	20817	21084	101.1	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=3.2e-23
+gi|311315010|gb|GL538346.1|	cmsearch-1.1.1	rna	166646	166884	94.1	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=2e-21
+gi|311315096|gb|GL538260.1|	cmsearch-1.1.1	rna	6219	6320	49.5	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=3.7e-09

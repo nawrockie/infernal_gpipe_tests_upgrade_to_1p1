@@ -1,0 +1,16 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|374646858|gb|AHQN01000818.1| -         RNaseP_bact_a        RF00010    cm        1      367     3604     3991      +    no    1 0.47   3.3  249.9   8.4e-85 !   Leptospira interrogans serovar Pyrogenes str. SriLanka2 contig_818, whole genome shotgun sequence
+gi|374646808|gb|AHQN01000835.1| -         Cobalamin            RF00174    cm        1      190      416      596      +    no    1 0.46   1.4  105.3   5.4e-27 !   Leptospira interrogans serovar Pyrogenes str. SriLanka2 contig_835, whole genome shotgun sequence
+gi|374647741|gb|AHQN01000514.1| -         Cobalamin            RF00174    cm        1      190    14430    14248      -    no    1 0.43   1.8   79.3   1.3e-19 !   Leptospira interrogans serovar Pyrogenes str. SriLanka2 contig_514, whole genome shotgun sequence
+gi|374648234|gb|AHQN01000304.1| -         K_chan_RES           RF00485    cm        1      114     7833     7922      +    no    1 0.36   1.8   20.1      0.15 !   Leptospira interrogans serovar Pyrogenes str. SriLanka2 contig_304, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Leptospira_interrogans_serovar_Pyrogenes_str._SriLanka2/431138-DENOVO-20150227-1712.1481314/output/bacterial_annot/AHQN01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Leptospira_interrogans_serovar_Pyrogenes_str._SriLanka2.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Leptospira_interrogans_serovar_Pyrogenes_str._SriLanka2/431138-DENOVO-20150227-1712.1481314/output/bacterial_annot/AHQN01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:28 2015
+# [ok]

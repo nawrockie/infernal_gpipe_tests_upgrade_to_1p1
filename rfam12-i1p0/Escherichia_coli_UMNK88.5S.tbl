@@ -1,0 +1,45 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam12-i1p0/Escherichia_coli_UMNK88.5S.tbl ./RF00001.rfam12.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Escherichia_coli_UMNK88/516798-DENOVO-20150227-1757.1481944/output/bacterial_annot/ASM21271v2.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:12 2015
+# num seqs:   6
+# dbsize(Mb): 11.333528
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     223.402     8.84   0.0054  00:02:27.98
+#   2   cm  cyk  loc  1e-07      10.907     9.30   0.0003  00:00:24.35
+#   3   cm  ins  loc  1e-15     9.6e-07    40.00  9.6e-12  00:00:06.03
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:02:58.36
+#
+#
+# CM: 5S_rRNA
+#                                        target coord   query coord                         
+#                              ----------------------  ------------                         
+# target name                       start        stop  start   stop    bit sc   E-value  GC%
+# ---------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|332341332|gb|CP002729.1|     4731610     4731725      1    119     74.40  9.00e-16   65
+  gi|332341332|gb|CP002729.1|     4690141     4690256      1    119     74.40  9.00e-16   65
+  gi|332341332|gb|CP002729.1|     4449626     4449741      1    119     74.40  9.00e-16   65
+  gi|332341332|gb|CP002729.1|      231585      231700      1    119     73.41  1.63e-15   66
+  gi|332341332|gb|CP002729.1|     4557633     4557748      1    119     71.59  4.92e-15   65
+  gi|332341332|gb|CP002729.1|     3138155     3138040      1    119     73.41  1.63e-15   66
+  gi|332341332|gb|CP002729.1|     3910917     3910802      1    119     72.77  2.41e-15   63
+  gi|332341332|gb|CP002729.1|     3911168     3911047      1    119     53.84  2.24e-10   65
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     223.402      194    0.0054   0.0048
+#   2   cm  cyk  loc  1e-07      10.907       10    0.0003   0.0002
+#   3   cm  ins  loc  1e-15     9.6e-07        8   9.6e-12  8.2e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:02:58.36    00:01:47.00

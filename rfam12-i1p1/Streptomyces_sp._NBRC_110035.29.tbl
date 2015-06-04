@@ -1,0 +1,41 @@
+#target name                     accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|743399945|dbj|BBNN01000025.1| -         RNaseP_bact_a        RF00010    cm        1      367   212240   212645      +    no    1 0.70  39.4  283.2   1.8e-91 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399933|dbj|BBNN01000037.1| -         FMN                  RF00050    cm        1      140    61594    61464      -    no    1 0.66   0.1   96.9   1.7e-22 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399947|dbj|BBNN01000023.1| -         SAM                  RF00162    cm        1      108    56911    57116      +    no    1 0.64   0.2   74.0   4.1e-15 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399942|dbj|BBNN01000028.1| -         Cobalamin            RF00174    cm        1      191   151755   151580      -    no    1 0.71   9.4   96.2   4.9e-25 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399942|dbj|BBNN01000028.1| -         Cobalamin            RF00174    cm       43      170   158877   159006      +    no    1 0.70   3.9   92.8     5e-24 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399942|dbj|BBNN01000028.1| -         Cobalamin            RF00174    cm        1      191   157365   157163      -    no    1 0.72  15.4   81.5   1.1e-20 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399934|dbj|BBNN01000036.1| -         Cobalamin            RF00174    cm        1      191    39564    39356      -    no    1 0.72  18.2   77.8   1.3e-19 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399952|dbj|BBNN01000018.1| -         Cobalamin            RF00174    cm        1      191   390277   390115      -    no    1 0.67   0.8   52.3   4.8e-12 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399950|dbj|BBNN01000020.1| -         Cobalamin            RF00174    cm        1      191    46477    46307      -    no    1 0.64   0.0   45.2   5.9e-10 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399945|dbj|BBNN01000025.1| -         Cobalamin            RF00174    cm       46      170   185274   185165      -    no    1 0.72   1.2   34.2   1.1e-06 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399949|dbj|BBNN01000021.1| -         Glycine              RF00504    cm        1       94    30722    30623      -    no    1 0.69   0.0   66.2   3.6e-13 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399919|dbj|BBNN01000051.1| -         Glycine              RF00504    cm        1       94    31357    31261      -    no    1 0.67   0.0   59.9   1.7e-11 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399899|dbj|BBNN01000071.1| -         ASpks                RF01782    cm        1       75    10203    10129      -    no    1 0.72   0.0   85.9   3.4e-16 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399885|dbj|BBNN01000085.1| -         ASpks                RF01782    cm        1       75     1322     1396      +    no    1 0.77   3.1   84.1     9e-16 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399883|dbj|BBNN01000087.1| -         ASpks                RF01782    cm        1       75     2731     2657      -    no    1 0.75   0.4   83.2   1.5e-15 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399931|dbj|BBNN01000039.1| -         ASpks                RF01782    cm        1       75    86993    87067      +    no    1 0.73   0.1   82.8   1.8e-15 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399890|dbj|BBNN01000080.1| -         ASpks                RF01782    cm        1       75     3860     3786      -    no    1 0.75   0.4   78.9   1.4e-14 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399931|dbj|BBNN01000039.1| -         ASpks                RF01782    cm        1       75    77104    77030      -    no    1 0.73   0.2   77.5   3.2e-14 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399889|dbj|BBNN01000081.1| -         ASpks                RF01782    cm        1       75     3035     2961      -    no    1 0.77   2.0   75.5   9.3e-14 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399927|dbj|BBNN01000043.1| -         ASpks                RF01782    cm        1       75    61243    61169      -    no    1 0.75   0.3   75.3     1e-13 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399968|dbj|BBNN01000002.1| -         ASpks                RF01782    cm        1       75      586      660      +    no    1 0.73   0.1   73.1   3.4e-13 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399927|dbj|BBNN01000043.1| -         ASpks                RF01782    cm        1       75    75748    75674      -    no    1 0.76   0.9   71.8   6.6e-13 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399899|dbj|BBNN01000071.1| -         ASpks                RF01782    cm        1       75     3685     3611      -    no    1 0.76   0.9   70.3   1.5e-12 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399903|dbj|BBNN01000067.1| -         ASpks                RF01782    cm        1       75     3561     3487      -    no    1 0.75   0.4   69.5   2.3e-12 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399882|dbj|BBNN01000088.1| -         ASpks                RF01782    cm        1       75     1584     1510      -    no    1 0.75   0.4   65.9   1.6e-11 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399903|dbj|BBNN01000067.1| -         ASpks                RF01782    cm        1       75     8551     8477      -    no    1 0.72   0.1   60.8   2.5e-10 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399927|dbj|BBNN01000043.1| -         ASpks                RF01782    cm        1       75    66514    66440      -    no    1 0.77   2.3   56.8   2.1e-09 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399927|dbj|BBNN01000043.1| -         ASpks                RF01782    cm        1       75    71158    71084      -    no    1 0.77   2.3   56.8   2.1e-09 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+gi|743399902|dbj|BBNN01000068.1| -         ASpks                RF01782    cm        1       75     1346     1420      +    no    1 0.77   4.7   54.4     8e-09 !   Streptomyces sp. NBRC 110035, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Streptomyces_sp._NBRC_110035/1506308-DENOVO-20150208-1207.1467274/output/bacterial_annot/BBNN01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Streptomyces_sp._NBRC_110035.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Streptomyces_sp._NBRC_110035/1506308-DENOVO-20150208-1207.1467274/output/bacterial_annot/BBNN01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:16 2015
+# [ok]

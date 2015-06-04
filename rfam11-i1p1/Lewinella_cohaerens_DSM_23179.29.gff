@@ -1,0 +1,3 @@
+gi|482581813|gb|KB903576.1|	cmsearch-1.1.1	rna	122105	122518	191.0	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=5.2e-64
+gi|482581835|gb|KB903554.1|	cmsearch-1.1.1	rna	285915	286032	64.0	+	.	gb_key=SAM;rfam_acc=RF00162;evalue=6.7e-14
+gi|482581770|gb|KB903619.1|	cmsearch-1.1.1	rna	61675	61869	106.1	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=4.8e-27

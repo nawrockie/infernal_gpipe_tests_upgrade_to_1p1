@@ -1,0 +1,26 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|71801762|gb|CP000056.1| -         FMN                  RF00050    cm        1      139   320678   320802      +    no    1 0.55   0.6  117.7   6.3e-30 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         S15                  RF00114    cm        1      116  1652900  1652782      -    no    1 0.34   8.0   25.7    0.0002 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         T-box                RF00230    cm        1      217  1887371  1887130      -    no    1 0.37   9.2  105.5   5.8e-27 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         T-box                RF00230    cm        1      217  1191356  1191134      -    no    1 0.38   5.5   78.2   2.3e-19 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         T-box                RF00230    cm        1      217   421603   421807      +    no    1 0.44   0.4   75.3   1.5e-18 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         T-box                RF00230    cm        1      217  1467867  1468032      +    no    1 0.40   2.8   67.0   3.1e-16 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         T-box                RF00230    cm        1      217  1132661  1132494      -    no    1 0.34   9.3   52.6   3.2e-12 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         T-box                RF00230    cm        1      217  1429552  1429356      -    no    1 0.41   4.0   47.4   8.8e-11 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         T-box                RF00230    cm        1      217  1284094  1283906      -    no    1 0.44   2.6   36.0   1.4e-07 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         Glycine              RF00504    cm        1       94   967294   967380      +    no    1 0.51   0.6   70.6   3.4e-15 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         L10_leader           RF00557    cm        1      139   797961   798096      +    no    1 0.38   1.8   81.8   1.1e-16 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         L20_leader           RF00558    cm        1      127   620585   620708      +    no    1 0.43   1.1   77.8   3.7e-18 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         L21_leader           RF00559    cm        1       77   635465   635539      +    no    1 0.53   0.1   50.1   4.1e-10 !   Streptococcus pyogenes MGAS6180, complete genome
+gi|71801762|gb|CP000056.1| -         cspA                 RF01766    cm        1      428  1762024  1761649      -    no    1 0.33  29.7   52.8   3.1e-15 !   Streptococcus pyogenes MGAS6180, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Streptococcus_pyogenes_MGAS6180/12968-DENOVO-20150227-1527.1476164/output/bacterial_annot/ASM1216v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Streptococcus_pyogenes_MGAS6180.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Streptococcus_pyogenes_MGAS6180/12968-DENOVO-20150227-1527.1476164/output/bacterial_annot/ASM1216v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:48 2015
+# [ok]

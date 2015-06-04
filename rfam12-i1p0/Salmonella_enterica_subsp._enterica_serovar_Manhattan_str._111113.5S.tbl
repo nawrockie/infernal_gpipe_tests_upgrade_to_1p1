@@ -1,0 +1,48 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam12-i1p0/Salmonella_enterica_subsp._enterica_serovar_Manhattan_str._111113.5S.tbl ./RF00001.rfam12.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Salmonella_enterica_subsp._enterica_serovar_Manhattan_str._111113/737948-DENOVO-20150126-0947.1448034/output/bacterial_annot/CBKW01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:14 2015
+# num seqs:   21
+# dbsize(Mb): 9.368684
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     184.672     8.84   0.0054  00:01:08.80
+#   2   cm  cyk  loc  1e-07       9.016     9.30   0.0003  00:00:12.38
+#   3   cm  ins  loc  1e-15     7.9e-07    40.00  9.6e-12  00:00:04.31
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:25.51
+#
+#
+# CM: 5S_rRNA
+#                                              target coord   query coord                         
+#                                    ----------------------  ------------                         
+# target name                             start        stop  start   stop    bit sc   E-value  GC%
+# ---------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|519433663|emb|CBKW010000001.1|         258         373      1    119     71.28  4.91e-15   65
+  gi|519432882|emb|CBKW010000005.1|      676466      676351      1    119     71.28  4.91e-15   65
+  gi|519432877|emb|CBKW010000006.1|        5461        5576      1    119     71.28  4.91e-15   65
+  gi|519432731|emb|CBKW010000007.1|         176         291      1    119     71.28  4.91e-15   65
+  gi|519432725|emb|CBKW010000008.1|          87         202      1    119     71.28  4.91e-15   65
+  gi|519432639|emb|CBKW010000010.1|         131         246      1    119     71.28  4.91e-15   65
+  gi|519432138|emb|CBKW010000012.1|         232         347      1    119     71.28  4.91e-15   65
+  gi|519431011|emb|CBKW010000016.1|      743070      742955      1    119     72.77  1.99e-15   63
+  gi|519431011|emb|CBKW010000016.1|      743315      743200      1    119     71.28  4.91e-15   65
+  gi|519431010|emb|CBKW010000017.1|         322         437      1    119     71.28  4.91e-15   65
+  gi|519431010|emb|CBKW010000017.1|         607         492      1    119     71.28  4.91e-15   65
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     184.672      134    0.0054   0.0040
+#   2   cm  cyk  loc  1e-07       9.016       12    0.0003   0.0003
+#   3   cm  ins  loc  1e-15     7.9e-07       11   9.6e-12   0.0001
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:25.51    00:01:31.00

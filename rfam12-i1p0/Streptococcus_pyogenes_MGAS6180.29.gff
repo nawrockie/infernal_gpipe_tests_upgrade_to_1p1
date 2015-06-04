@@ -1,0 +1,6 @@
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	320678	320802	117.80	+	.	gb_key=FMN;rfam_acc=RF00050;evalue=3.77e-29
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	851504	851599	51.18	+	.	gb_key=Purine;rfam_acc=RF00167;evalue=3.64e-10
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	967294	967380	72.74	+	.	gb_key=Glycine;rfam_acc=RF00504;evalue=9.42e-16
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	797961	798096	85.39	+	.	gb_key=L10_leader;rfam_acc=RF00557;evalue=1.37e-18
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	620585	620708	81.49	+	.	gb_key=L20_leader;rfam_acc=RF00558;evalue=6.17e-22
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	635465	635539	57.50	+	.	gb_key=L21_leader;rfam_acc=RF00559;evalue=3.79e-11

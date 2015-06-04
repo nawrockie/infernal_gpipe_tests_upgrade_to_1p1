@@ -1,0 +1,14 @@
+#target name                 accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#--------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|399567533|emb|HE973753.1| -         RNaseP_bact_a        RF00010    cm        1      367   889523   889021      -    no    1 0.45   1.9  217.9   1.4e-73 !   Microcystis aeruginosa PCC 9809, whole genome shotgun sequence
+gi|399567514|emb|HE973734.1| -         L10_leader           RF00557    cm        1      139   319210   319093      -    no    1 0.46   2.1   40.7   1.5e-06 !   Microcystis aeruginosa PCC 9809, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Microcystis_aeruginosa_PCC_9809/456638-DENOVO-20150207-1527.1456824/output/bacterial_annot/CAIO01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Microcystis_aeruginosa_PCC_9809.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Microcystis_aeruginosa_PCC_9809/456638-DENOVO-20150207-1527.1456824/output/bacterial_annot/CAIO01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:24 2015
+# [ok]

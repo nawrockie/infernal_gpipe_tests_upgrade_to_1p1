@@ -1,0 +1,36 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|749204400|gb|CP007592.1| -         RNaseP_bact_a        RF00010    cm        1      367  3800634  3800258      -    no    1 0.62   6.8  312.6  1.9e-101 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         FMN                  RF00050    cm        1      140  3438183  3438331      +    no    1 0.58   0.0  127.0   7.4e-31 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         SIB_RNA              RF00113    cm        1      147  2541196  2541344      +    no    1 0.46   0.0  148.7   3.1e-33 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         SIB_RNA              RF00113    cm        1      147  3434569  3434717      +    no    1 0.40   0.0  143.7   5.5e-32 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         SIB_RNA              RF00113    cm        1      147  3434193  3434342      +    no    1 0.42   0.0  140.9   2.6e-31 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         SIB_RNA              RF00113    cm        1      147  3656172  3656022      -    no    1 0.40   0.0  140.4   3.7e-31 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         SIB_RNA              RF00113    cm        1      147  2541531  2541673      +    no    1 0.48   0.0  138.7   9.7e-31 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         SIB_RNA              RF00113    cm        1      147  3656564  3656414      -    no    1 0.40   0.0  136.6   3.2e-30 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         S15                  RF00114    cm        1      117  3844213  3844099      -    no    1 0.40   0.0  115.6   1.7e-28 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         Cobalamin            RF00174    cm        1      191  4743356  4743546      +    no    1 0.54   0.0   98.3   7.9e-26 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         DnaX                 RF00382    cm        1       65   854568   854632      +    no    1 0.62   0.0   96.8   1.1e-21 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         RtT                  RF00391    cm        1      130  1654604  1654473      -    no    1 0.62   0.0  129.2   3.1e-29 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         RtT                  RF00391    cm        1      130  1118019  1118185      +    no    1 0.51   0.0   58.0   6.2e-11 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         RtT                  RF00391    cm        1      130  2891814  2891939      +    no    1 0.61   0.0   53.7     8e-10 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         RtT                  RF00391    cm        1      130  1118449  1118574      +    no    1 0.60   0.0   49.2   1.1e-08 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         ALIL                 RF01497    cm        1      117  5099304  5099188      -    no    1 0.56   0.0  117.7   1.1e-31 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         ALIL                 RF01497    cm        1      117  5070879  5070995      +    no    1 0.55   0.0  116.3   2.9e-31 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         cspA                 RF01766    cm        1      428  4264624  4265051      +    no    1 0.45   0.0  493.6    9e-138 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         cspA                 RF01766    cm        1      428  1395864  1396286      +    no    1 0.43   0.0  155.2   3.5e-41 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         cspA                 RF01766    cm        1      428  2231318  2230858      -    no    1 0.44   0.0  141.6   2.7e-37 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         cspA                 RF01766    cm        1      428   995124   995572      +    no    1 0.38   2.3  137.1   5.2e-36 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         ROSE_2               RF01832    cm        1       73  4431117  4431045      -    no    1 0.45   0.0  100.3     2e-23 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         Phe_leader           RF01859    cm        1      125  3100562  3100687      +    no    1 0.45   0.0  131.2   3.7e-25 !   Escherichia coli O157 strain Santai, complete genome
+gi|749204400|gb|CP007592.1| -         Phe_leader           RF01859    cm        1      125  2122969  2122845      -    no    1 0.46   0.0   77.4   3.2e-13 !   Escherichia coli O157 strain Santai, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Escherichia_coli_O157/1490518-DENOVO-20150122-0902.1442834/output/bacterial_annot/ASM82710v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Escherichia_coli_O157.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Escherichia_coli_O157/1490518-DENOVO-20150122-0902.1442834/output/bacterial_annot/ASM82710v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:05 2015
+# [ok]

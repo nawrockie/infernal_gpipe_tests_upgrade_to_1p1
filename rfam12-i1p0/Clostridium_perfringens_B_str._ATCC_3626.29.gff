@@ -1,0 +1,16 @@
+gi|151558393|gb|ABDV01000001.1|	cmsearch-1.0	rna	116691	117037	316.48	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=1.29e-101
+gi|151558384|gb|ABDV01000010.1|	cmsearch-1.0	rna	9225	9342	116.53	-	.	gb_key=FMN;rfam_acc=RF00050;evalue=1.72e-28
+gi|151558382|gb|ABDV01000012.1|	cmsearch-1.0	rna	7632	7747	121.98	+	.	gb_key=FMN;rfam_acc=RF00050;evalue=5.66e-30
+gi|151558384|gb|ABDV01000010.1|	cmsearch-1.0	rna	25089	25194	89.35	-	.	gb_key=SAM;rfam_acc=RF00162;evalue=1.75e-21
+gi|151558381|gb|ABDV01000013.1|	cmsearch-1.0	rna	67132	67296	73.48	+	.	gb_key=SAM;rfam_acc=RF00162;evalue=5.45e-17
+gi|151558392|gb|ABDV01000002.1|	cmsearch-1.0	rna	235816	235917	77.93	+	.	gb_key=Purine;rfam_acc=RF00167;evalue=4.45e-17
+gi|151558387|gb|ABDV01000007.1|	cmsearch-1.0	rna	34022	34121	74.86	-	.	gb_key=Purine;rfam_acc=RF00167;evalue=3.00e-16
+gi|151558380|gb|ABDV01000014.1|	cmsearch-1.0	rna	46056	46157	74.25	+	.	gb_key=Purine;rfam_acc=RF00167;evalue=4.40e-16
+gi|151558361|gb|ABDV01000033.1|	cmsearch-1.0	rna	29048	29145	67.97	+	.	gb_key=Purine;rfam_acc=RF00167;evalue=2.18e-14
+gi|151558389|gb|ABDV01000005.1|	cmsearch-1.0	rna	20310	20489	113.80	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=2.54e-31
+gi|151558388|gb|ABDV01000006.1|	cmsearch-1.0	rna	92950	93129	114.81	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=1.27e-31
+gi|151558381|gb|ABDV01000013.1|	cmsearch-1.0	rna	61607	61826	102.97	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=1.35e-28
+gi|151558327|gb|ABDV01000067.1|	cmsearch-1.0	rna	2463	2699	101.83	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=3.01e-28
+gi|151558385|gb|ABDV01000009.1|	cmsearch-1.0	rna	26651	26749	73.46	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=1.25e-15
+gi|151558385|gb|ABDV01000009.1|	cmsearch-1.0	rna	26750	26823	48.02	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=6.81e-09
+gi|151558393|gb|ABDV01000001.1|	cmsearch-1.0	rna	372	491	68.48	-	.	gb_key=L20_leader;rfam_acc=RF00558;evalue=1.20e-17

@@ -1,0 +1,17 @@
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	4956344	4956693	323.91	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=1.34e-110
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	4536677	4536839	95.23	-	.	gb_key=FMN;rfam_acc=RF00050;evalue=3.94e-23
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	867780	867832	21.77	+	.	gb_key=snoPyro_CD;rfam_acc=RF00095;evalue=9.13e-02
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	5325866	5325986	50.40	-	.	gb_key=S15;rfam_acc=RF00114;evalue=5.99e-11
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	3265544	3265749	114.61	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=1.55e-29
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	1381500	1381708	84.17	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=7.00e-21
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	3305860	3306010	77.89	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=4.28e-19
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	3305610	3305801	104.56	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=1.12e-26
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	3261185	3261436	87.82	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=6.45e-22
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	4956347	4956694	53.78	-	.	gb_key=RNaseP_arch;rfam_acc=RF00373;evalue=1.66e-15
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	4894255	4894323	24.29	+	.	gb_key=isrK;rfam_acc=RF01394;evalue=7.48e-03
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	1348552	1348639	33.54	-	.	gb_key=isrK;rfam_acc=RF01394;evalue=2.98e-05
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	5172686	5172752	32.05	-	.	gb_key=isrK;rfam_acc=RF01394;evalue=7.26e-05
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	5223844	5223913	23.17	-	.	gb_key=isrK;rfam_acc=RF01394;evalue=1.46e-02
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	3653527	3653922	74.79	+	.	gb_key=cspA;rfam_acc=RF01766;evalue=4.99e-22
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	1257566	1258022	63.87	+	.	gb_key=cspA;rfam_acc=RF01766;evalue=2.17e-18
+gi|660504631|gb|CP008749.1|	cmsearch-1.0	rna	514635	515037	58.68	+	.	gb_key=cspA;rfam_acc=RF01766;evalue=1.16e-16

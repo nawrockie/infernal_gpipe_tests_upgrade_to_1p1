@@ -1,0 +1,40 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|581982566|gb|KI979284.1| -         RNaseP_bact_a        RF00010    cm        1      367   173146   172752      -    no    1 0.39  14.5   41.6     4e-12 !   Staphylococcus aureus KINW6048 adpnw-supercont1.1, whole genome shotgun sequence
+gi|581982530|gb|KI979320.1| -         FMN                  RF00050    cm        1      139   139146   139011      -    no    1 0.43   0.5  123.5   2.4e-31 !   Staphylococcus aureus KINW6048 adpnw-supercont1.7, whole genome shotgun sequence
+gi|581982566|gb|KI979284.1| -         FMN                  RF00050    cm        1      139   212906   212772      -    no    1 0.47   0.3  123.0   3.2e-31 !   Staphylococcus aureus KINW6048 adpnw-supercont1.1, whole genome shotgun sequence
+gi|581982528|gb|KI979322.1| -         SAM                  RF00162    cm        1      108    44436    44539      +    no    1 0.44   0.2   83.1   1.2e-19 !   Staphylococcus aureus KINW6048 adpnw-supercont1.9, whole genome shotgun sequence
+gi|581982532|gb|KI979318.1| -         SAM                  RF00162    cm        1      108   148872   148777      -    no    1 0.48   0.1   78.7     2e-18 !   Staphylococcus aureus KINW6048 adpnw-supercont1.5, whole genome shotgun sequence
+gi|581982530|gb|KI979320.1| -         SAM                  RF00162    cm        1      108   155899   155789      -    no    1 0.44   0.3   76.6   7.9e-18 !   Staphylococcus aureus KINW6048 adpnw-supercont1.7, whole genome shotgun sequence
+gi|581982553|gb|KI979297.1| -         SAM                  RF00162    cm        1      108    15966    16064      +    no    1 0.42   0.2   72.8   9.3e-17 !   Staphylococcus aureus KINW6048 adpnw-supercont1.21, whole genome shotgun sequence
+gi|581982544|gb|KI979306.1| -         Purine               RF00167    cm        1      102   161360   161462      +    no    1 0.29   9.5   73.0   3.6e-16 !   Staphylococcus aureus KINW6048 adpnw-supercont1.3, whole genome shotgun sequence
+gi|581982553|gb|KI979297.1| -         T-box                RF00230    cm        1      217    12511    12720      +    no    1 0.34  13.5   98.1   1.1e-24 !   Staphylococcus aureus KINW6048 adpnw-supercont1.21, whole genome shotgun sequence
+gi|581982530|gb|KI979320.1| -         T-box                RF00230    cm        1      217    25282    25069      -    no    1 0.32  16.7   91.1     1e-22 !   Staphylococcus aureus KINW6048 adpnw-supercont1.7, whole genome shotgun sequence
+gi|581982556|gb|KI979294.1| -         T-box                RF00230    cm        1      217    15505    15328      -    no    1 0.34  10.7   90.7   1.3e-22 !   Staphylococcus aureus KINW6048 adpnw-supercont1.19, whole genome shotgun sequence
+gi|581982530|gb|KI979320.1| -         T-box                RF00230    cm        1      217     5866     5565      -    no    1 0.32  30.3   89.0   3.8e-22 !   Staphylococcus aureus KINW6048 adpnw-supercont1.7, whole genome shotgun sequence
+gi|581982544|gb|KI979306.1| -         T-box                RF00230    cm        1      217   140019   139650      -    no    1 0.36  19.3   85.1   4.7e-21 !   Staphylococcus aureus KINW6048 adpnw-supercont1.3, whole genome shotgun sequence
+gi|581982529|gb|KI979321.1| -         T-box                RF00230    cm        1      217    29528    29700      +    no    1 0.34   9.6   81.0   6.3e-20 !   Staphylococcus aureus KINW6048 adpnw-supercont1.8, whole genome shotgun sequence
+gi|581982530|gb|KI979320.1| -         T-box                RF00230    cm        1      217    83437    83235      -    no    1 0.32  16.6   80.6   8.4e-20 !   Staphylococcus aureus KINW6048 adpnw-supercont1.7, whole genome shotgun sequence
+gi|581982564|gb|KI979286.1| -         T-box                RF00230    cm        1      217   108055   108268      +    no    1 0.31  17.6   75.8   1.7e-18 !   Staphylococcus aureus KINW6048 adpnw-supercont1.11, whole genome shotgun sequence
+gi|581982566|gb|KI979284.1| -         T-box                RF00230    cm        1      217    60686    60862      +    no    1 0.36  10.5   70.7   4.8e-17 !   Staphylococcus aureus KINW6048 adpnw-supercont1.1, whole genome shotgun sequence
+gi|581982566|gb|KI979284.1| -         T-box                RF00230    cm        1      217    60890    61076      +    no    1 0.33  16.6   68.1   2.4e-16 !   Staphylococcus aureus KINW6048 adpnw-supercont1.1, whole genome shotgun sequence
+gi|581982530|gb|KI979320.1| -         T-box                RF00230    cm        1      217   128375   128204      -    no    1 0.34  10.4   63.2   5.7e-15 !   Staphylococcus aureus KINW6048 adpnw-supercont1.7, whole genome shotgun sequence
+gi|581982561|gb|KI979289.1| -         T-box                RF00230    cm        1      217    18248    18472      +    no    1 0.36  12.5   61.9   1.3e-14 !   Staphylococcus aureus KINW6048 adpnw-supercont1.14, whole genome shotgun sequence
+gi|581982556|gb|KI979294.1| -         T-box                RF00230    cm        1      217    30024    29795      -    no    1 0.33  17.3   49.8     3e-11 !   Staphylococcus aureus KINW6048 adpnw-supercont1.19, whole genome shotgun sequence
+gi|581982566|gb|KI979284.1| -         Glycine              RF00504    cm        1       94   264114   264017      -    no    1 0.39   2.0   68.1   2.4e-14 !   Staphylococcus aureus KINW6048 adpnw-supercont1.1, whole genome shotgun sequence
+gi|581982561|gb|KI979289.1| -         L10_leader           RF00557    cm        1      139    25569    25715      +    no    1 0.31  13.4   72.8   2.4e-14 !   Staphylococcus aureus KINW6048 adpnw-supercont1.14, whole genome shotgun sequence
+gi|581982530|gb|KI979320.1| -         L20_leader           RF00558    cm        1      127    20977    20852      -    no    1 0.44   0.1   86.0   3.4e-20 !   Staphylococcus aureus KINW6048 adpnw-supercont1.7, whole genome shotgun sequence
+gi|581982556|gb|KI979294.1| -         L21_leader           RF00559    cm        1       77    46948    46821      -    no    1 0.38   2.6   43.9   3.5e-08 !   Staphylococcus aureus KINW6048 adpnw-supercont1.19, whole genome shotgun sequence
+gi|581982566|gb|KI979284.1| -         STnc490k             RF01405    cm        1      124   113767   113881      +    no    1 0.38   3.0   48.1   2.9e-10 !   Staphylococcus aureus KINW6048 adpnw-supercont1.1, whole genome shotgun sequence
+gi|581982530|gb|KI979320.1| -         STnc490k             RF01405    cm        1      124   158390   158276      -    no    1 0.38   3.0   48.1   2.9e-10 !   Staphylococcus aureus KINW6048 adpnw-supercont1.7, whole genome shotgun sequence
+gi|581982528|gb|KI979322.1| -         cspA                 RF01766    cm        1      428    32479    32826      +    no    1 0.35  22.8   53.8   2.4e-15 !   Staphylococcus aureus KINW6048 adpnw-supercont1.9, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Staphylococcus_aureus_KINW6048/916808-DENOVO-20150227-1937.1486904/output/bacterial_annot/JBEK01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Staphylococcus_aureus_KINW6048.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Staphylococcus_aureus_KINW6048/916808-DENOVO-20150227-1937.1486904/output/bacterial_annot/JBEK01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:13 2015
+# [ok]

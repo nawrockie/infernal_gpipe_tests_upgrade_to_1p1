@@ -1,0 +1,20 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|306526293|gb|CP002038.1| -         5S_rRNA              RF00001    cm        1      119  3824530  3824415      -    no    1 0.61   0.0   75.4   1.8e-15 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         5S_rRNA              RF00001    cm        1      119    17890    18005      +    no    1 0.66   0.0   75.2   2.1e-15 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         5S_rRNA              RF00001    cm        1      119   236734   236849      +    no    1 0.66   0.0   75.2   2.1e-15 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         5S_rRNA              RF00001    cm        1      119   283558   283673      +    no    1 0.66   0.0   75.2   2.1e-15 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         5S_rRNA              RF00001    cm        1      119  3671989  3671874      -    no    1 0.66   0.0   75.2   2.1e-15 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         5S_rRNA              RF00001    cm        1      119  3824778  3824663      -    no    1 0.66   0.0   75.2   2.1e-15 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         5S_rRNA              RF00001    cm        1      119  4362697  4362582      -    no    1 0.66   0.0   75.2   2.1e-15 !   Dickeya dadantii 3937, complete genome
+gi|306526293|gb|CP002038.1| -         5S_rRNA              RF00001    cm        1      119  4603391  4603276      -    no    1 0.66   0.0   75.2   2.1e-15 !   Dickeya dadantii 3937, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./RF00001.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Dickeya_dadantii_3937/169828-DENOVO-20150226-0902.1471794/output/bacterial_annot/ASM14705v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Dickeya_dadantii_3937.5S.tbl -T 40 --rfam --cpu 0 --nohmmonly ./RF00001.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Dickeya_dadantii_3937/169828-DENOVO-20150226-0902.1471794/output/bacterial_annot/ASM14705v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:44 2015
+# [ok]

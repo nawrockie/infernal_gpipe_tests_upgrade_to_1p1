@@ -1,0 +1,39 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|507196726|gb|AHZL01000093.1| -         RNaseP_bact_a        RF00010    cm        1      367   193635   194029      +    no    1 0.39  14.5   41.6   3.9e-12 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_125, whole genome shotgun sequence
+gi|507196726|gb|AHZL01000093.1| -         FMN                  RF00050    cm        1      139   153875   154009      +    no    1 0.46   0.3  123.5   2.3e-31 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_125, whole genome shotgun sequence
+gi|507198816|gb|AHZL01000033.1| -         FMN                  RF00050    cm        1      139     5838     5703      -    no    1 0.43   0.5  123.5   2.3e-31 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_42, whole genome shotgun sequence
+gi|507200275|gb|AHZL01000014.1| -         SAM                  RF00162    cm        1      108     1040     1143      +    no    1 0.44   0.2   83.1   1.2e-19 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_20, whole genome shotgun sequence
+gi|507199120|gb|AHZL01000031.1| -         SAM                  RF00162    cm        1      108    33314    33409      +    no    1 0.48   0.1   78.7     2e-18 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_40, whole genome shotgun sequence
+gi|507197319|gb|AHZL01000073.1| -         SAM                  RF00162    cm        1      108     1784     1894      +    no    1 0.44   0.3   76.6   7.8e-18 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_99, whole genome shotgun sequence
+gi|507200921|gb|AHZL01000008.1| -         SAM                  RF00162    cm        1      108   116111   116209      +    no    1 0.42   0.2   72.8   9.2e-17 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_9, whole genome shotgun sequence
+gi|507200643|gb|AHZL01000011.1| -         Purine               RF00167    cm        1      102    44200    44098      -    no    1 0.29   9.5   73.0   3.6e-16 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_14, whole genome shotgun sequence
+gi|507200921|gb|AHZL01000008.1| -         T-box                RF00230    cm        1      217   112656   112865      +    no    1 0.34  13.5   98.1   1.1e-24 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_9, whole genome shotgun sequence
+gi|507198044|gb|AHZL01000054.1| -         T-box                RF00230    cm        1      217    17612    17825      +    no    1 0.32  16.7   91.1     1e-22 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_72, whole genome shotgun sequence
+gi|507196726|gb|AHZL01000093.1| -         T-box                RF00230    cm        1      217    34711    34888      +    no    1 0.34  10.7   90.7   1.3e-22 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_125, whole genome shotgun sequence
+gi|507198044|gb|AHZL01000054.1| -         T-box                RF00230    cm        1      217    37028    37329      +    no    1 0.32  30.3   89.0   3.7e-22 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_72, whole genome shotgun sequence
+gi|507200643|gb|AHZL01000011.1| -         T-box                RF00230    cm        1      217    65541    65910      +    no    1 0.36  19.3   85.1   4.6e-21 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_14, whole genome shotgun sequence
+gi|507199248|gb|AHZL01000029.1| -         T-box                RF00230    cm        1      217    67953    68125      +    no    1 0.34   9.6   81.0   6.3e-20 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_38, whole genome shotgun sequence
+gi|507200445|gb|AHZL01000012.1| -         T-box                RF00230    cm        1      217    38591    38389      -    no    1 0.32  16.6   80.6   8.4e-20 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_15, whole genome shotgun sequence
+gi|507199248|gb|AHZL01000029.1| -         T-box                RF00230    cm        1      217    12684    12897      +    no    1 0.31  17.6   75.8   1.7e-18 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_38, whole genome shotgun sequence
+gi|507199722|gb|AHZL01000022.1| -         T-box                RF00230    cm        1      217    22510    22334      -    no    1 0.36  10.5   70.7   4.8e-17 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_28, whole genome shotgun sequence
+gi|507199811|gb|AHZL01000021.1| -         T-box                RF00230    cm        1      217    37067    36842      -    no    1 0.35  12.8   68.2   2.2e-16 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_27, whole genome shotgun sequence
+gi|507199722|gb|AHZL01000022.1| -         T-box                RF00230    cm        1      217    22306    22120      -    no    1 0.33  16.6   68.1   2.4e-16 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_28, whole genome shotgun sequence
+gi|507200445|gb|AHZL01000012.1| -         T-box                RF00230    cm        1      217    83357    83186      -    no    1 0.34  10.4   63.2   5.7e-15 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_15, whole genome shotgun sequence
+gi|507196726|gb|AHZL01000093.1| -         T-box                RF00230    cm        1      217    20192    20421      +    no    1 0.33  17.3   49.8     3e-11 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_125, whole genome shotgun sequence
+gi|507196726|gb|AHZL01000093.1| -         Glycine              RF00504    cm        1       94   106829   106926      +    no    1 0.39   2.0   68.1   2.4e-14 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_125, whole genome shotgun sequence
+gi|507199811|gb|AHZL01000021.1| -         L10_leader           RF00557    cm        1      139    29745    29599      -    no    1 0.31  13.4   72.8   2.3e-14 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_27, whole genome shotgun sequence
+gi|507198044|gb|AHZL01000054.1| -         L20_leader           RF00558    cm        1      127    21917    22042      +    no    1 0.44   0.1   86.0   3.4e-20 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_72, whole genome shotgun sequence
+gi|507196726|gb|AHZL01000093.1| -         L21_leader           RF00559    cm        1       77     3268     3395      +    no    1 0.38   2.6   43.9   3.5e-08 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_125, whole genome shotgun sequence
+gi|507198378|gb|AHZL01000045.1| -         STnc490k             RF01405    cm        1      124      487      373      -    no    1 0.38   3.0   48.1   2.9e-10 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_62, whole genome shotgun sequence
+gi|507197929|gb|AHZL01000058.1| -         cspA                 RF01766    cm        1      428     5735     6082      +    no    1 0.35  22.8   53.8   2.4e-15 !   Staphylococcus aureus subsp. aureus MRGR3 MRGR3_77, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Staphylococcus_aureus_subsp._aureus_MRGR3/692828-DENOVO-20150227-1757.1483244/output/bacterial_annot/AHZL01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Staphylococcus_aureus_subsp._aureus_MRGR3.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Staphylococcus_aureus_subsp._aureus_MRGR3/692828-DENOVO-20150227-1757.1483244/output/bacterial_annot/AHZL01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:13 2015
+# [ok]

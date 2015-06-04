@@ -1,0 +1,23 @@
+#target name                 accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#--------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|299065054|emb|FP885895.1| -         RNaseP_bact_a        RF00010    cm        1      367  3072586  3072243      -    no    1 0.65  22.6  206.0   2.1e-69 !   Ralstonia solanacearum CMR15 chromosome, complete genome
+gi|299068436|emb|FP885896.1| -         FMN                  RF00050    cm        1      139  1451594  1451438      -    no    1 0.69  14.7   95.0     4e-23 !   Ralstonia solanacearum CMR15 plasmid CMR15_mp, complete genome
+gi|299068436|emb|FP885896.1| -         Cobalamin            RF00174    cm        1      190   651866   651687      -    no    1 0.67  12.4  122.2   9.8e-32 !   Ralstonia solanacearum CMR15 plasmid CMR15_mp, complete genome
+gi|299065054|emb|FP885895.1| -         Cobalamin            RF00174    cm        1      190  1028700  1028956      +    no    1 0.68  23.6   47.4   1.8e-10 !   Ralstonia solanacearum CMR15 chromosome, complete genome
+gi|299065054|emb|FP885895.1| -         Glycine              RF00504    cm        1       94   196881   196784      -    no    1 0.67   6.0   41.3     6e-07 !   Ralstonia solanacearum CMR15 chromosome, complete genome
+gi|299065054|emb|FP885895.1| -         Glycine              RF00504    cm        1       94   196770   196647      -    no    1 0.72  14.2   28.2    0.0017 !   Ralstonia solanacearum CMR15 chromosome, complete genome
+gi|299065054|emb|FP885895.1| -         isrK                 RF01394    cm        1       77   338854   338926      +    no    1 0.60   0.3   45.4   2.2e-08 !   Ralstonia solanacearum CMR15 chromosome, complete genome
+gi|299065054|emb|FP885895.1| -         isrK                 RF01394    cm        1       77   949638   949722      +    no    1 0.64   0.8   38.1   1.8e-06 !   Ralstonia solanacearum CMR15 chromosome, complete genome
+gi|299068436|emb|FP885896.1| -         cspA                 RF01766    cm        1      428     3038     2698      -    no    1 0.53   0.1   69.2   3.3e-20 !   Ralstonia solanacearum CMR15 plasmid CMR15_mp, complete genome
+gi|299065054|emb|FP885895.1| -         cspA                 RF01766    cm        1      428   259136   258721      -    no    1 0.51   0.1   60.3   3.1e-17 !   Ralstonia solanacearum CMR15 chromosome, complete genome
+gi|299068436|emb|FP885896.1| -         Hammerhead_II        RF02276    cm        1       67   451588   451654      +    no    1 0.75   8.2   63.9   4.5e-14 !   Ralstonia solanacearum CMR15 plasmid CMR15_mp, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Ralstonia_solanacearum_CMR15/734388-DENOVO-20150227-1847.1483734/output/bacterial_annot/ASM42719v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Ralstonia_solanacearum_CMR15.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Ralstonia_solanacearum_CMR15/734388-DENOVO-20150227-1847.1483734/output/bacterial_annot/ASM42719v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:59 2015
+# [ok]

@@ -1,0 +1,46 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Vibrio_cholerae_O1_biovar_El_Tor.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Vibrio_cholerae_O1_biovar_El_Tor/1181158-DENOVO-20150227-2032.1489284/output/bacterial_annot/JPLT01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:29 2015
+# num seqs:   50
+# dbsize(Mb): 7.915534
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     396.604     7.68   0.0082  00:00:58.13
+#   2   cm  cyk  loc  1e-07      19.292     8.41   0.0004  00:00:09.22
+#   3   cm  ins  loc  1e-15     1.4e-06    40.00  1.9e-11  00:00:02.88
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:10.25
+#
+#
+# CM: 5S_rRNA
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|669033253|gb|JPLT01000003.1|         213         328      1    119     90.97  1.08e-19   54
+  gi|669033251|gb|JPLT01000005.1|         587         702      1    119     90.97  1.08e-19   54
+  gi|669033248|gb|JPLT01000008.1|         197         312      1    119     90.97  1.08e-19   54
+  gi|669033245|gb|JPLT01000011.1|         170         285      1    119     90.97  1.08e-19   54
+  gi|669033239|gb|JPLT01000017.1|         347         462      1    119     90.97  1.08e-19   54
+  gi|669033227|gb|JPLT01000029.1|       80894       80779      1    119     93.13  3.01e-20   54
+  gi|669033227|gb|JPLT01000029.1|       81176       81061      1    119     90.97  1.08e-19   54
+  gi|669033226|gb|JPLT01000030.1|      246919      246804      1    119     90.97  1.08e-19   54
+  gi|669033224|gb|JPLT01000032.1|         733         618      1    119     91.54  7.69e-20   53
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     396.604      486    0.0082   0.0104
+#   2   cm  cyk  loc  1e-07      19.292       12    0.0004   0.0003
+#   3   cm  ins  loc  1e-15     1.4e-06        9   1.9e-11   0.0001
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:10.25    00:01:15.00

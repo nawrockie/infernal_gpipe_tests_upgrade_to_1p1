@@ -1,0 +1,20 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|338755570|gb|CP002623.1| -         RNaseP_bact_a        RF00010    cm        1      367  1178937  1178537      -    no    1 0.65  29.8  271.8   7.2e-88 !   Roseobacter litoralis Och 149, complete genome
+gi|338755570|gb|CP002623.1| -         FMN                  RF00050    cm        1      140  4091454  4091606      +    no    1 0.59   0.0  120.0   5.5e-29 !   Roseobacter litoralis Och 149, complete genome
+gi|338755570|gb|CP002623.1| -         Cobalamin            RF00174    cm        1      191   644438   644634      +    no    1 0.59   0.2  131.9   8.7e-36 !   Roseobacter litoralis Och 149, complete genome
+gi|338755570|gb|CP002623.1| -         Cobalamin            RF00174    cm        1      191  2748868  2748648      -    no    1 0.58   0.0  127.1   2.3e-34 !   Roseobacter litoralis Och 149, complete genome
+gi|338755570|gb|CP002623.1| -         Cobalamin            RF00174    cm        1      191  4112951  4113103      +    no    1 0.58   0.0   89.7   2.6e-23 !   Roseobacter litoralis Och 149, complete genome
+gi|338755570|gb|CP002623.1| -         Glycine              RF00504    cm        1       94  2865963  2865875      -    no    1 0.57   0.0   67.1   1.3e-13 !   Roseobacter litoralis Och 149, complete genome
+gi|338755570|gb|CP002623.1| -         Glycine              RF00504    cm        1       94  3611573  3611485      -    no    1 0.58   0.0   57.3   5.1e-11 !   Roseobacter litoralis Och 149, complete genome
+gi|338760063|gb|CP002626.1| -         ALIL                 RF01497    cm        1      117    11296    11412      +    no    1 0.59   0.0  117.1   1.5e-31 !   Roseobacter litoralis Och 149 plasmid pRLO149_63, complete sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Roseobacter_litoralis_Och_149/305298-DENOVO-20150207-1427.1454794/output/bacterial_annot/ASM15478v2.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Roseobacter_litoralis_Och_149.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Roseobacter_litoralis_Och_149/305298-DENOVO-20150207-1427.1454794/output/bacterial_annot/ASM15478v2.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:03 2015
+# [ok]

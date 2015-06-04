@@ -1,0 +1,21 @@
+#target name                     accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|604719055|dbj|BAWE01000004.1| -         RNaseP_bact_a        RF00010    cm        1      367   975433   975016      -    no    1 0.66  34.5  278.4   1.4e-94 !   Bradyrhizobium sp. DOA9, whole genome shotgun sequence
+gi|604719055|dbj|BAWE01000004.1| -         FMN                  RF00050    cm        1      139   237203   237361      +    no    1 0.61   4.1  112.1   9.2e-28 !   Bradyrhizobium sp. DOA9, whole genome shotgun sequence
+gi|604719055|dbj|BAWE01000004.1| -         snoPyro_CD           RF00095    cm        1       58   713353   713401      +    no    1 0.55   0.1   20.6      0.23 !   Bradyrhizobium sp. DOA9, whole genome shotgun sequence
+gi|604719055|dbj|BAWE01000004.1| -         Cobalamin            RF00174    cm        1      190  1831294  1831497      +    no    1 0.63   6.8  139.8   1.3e-36 !   Bradyrhizobium sp. DOA9, whole genome shotgun sequence
+gi|604719055|dbj|BAWE01000004.1| -         Cobalamin            RF00174    cm        1      190  1827873  1828092      +    no    1 0.68  25.5  102.0   7.3e-26 !   Bradyrhizobium sp. DOA9, whole genome shotgun sequence
+gi|604719055|dbj|BAWE01000004.1| -         Cobalamin            RF00174    cm        1      190  1814524  1814745      +    no    1 0.62   8.7   92.5   3.8e-23 !   Bradyrhizobium sp. DOA9, whole genome shotgun sequence
+gi|604719054|dbj|BAWE01000005.1| -         Glycine              RF00504    cm        1       94   787970   788059      +    no    1 0.67   5.0   59.3   1.4e-11 !   Bradyrhizobium sp. DOA9, whole genome shotgun sequence
+gi|604719053|dbj|BAWE01000006.1| -         Glycine              RF00504    cm        1       94   228271   228172      -    no    1 0.62   1.7   57.9   3.3e-11 !   Bradyrhizobium sp. DOA9, whole genome shotgun sequence
+gi|604719055|dbj|BAWE01000004.1| -         L21_leader           RF00559    cm        1       77  2957812  2957741      -    no    1 0.64   0.7   21.6      0.13 !   Bradyrhizobium sp. DOA9, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Bradyrhizobium_sp._DOA9/990198-DENOVO-20150207-2047.1460244/output/bacterial_annot/BAWE01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Bradyrhizobium_sp._DOA9.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Bradyrhizobium_sp._DOA9/990198-DENOVO-20150207-2047.1460244/output/bacterial_annot/BAWE01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:07 2015
+# [ok]

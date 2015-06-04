@@ -1,0 +1,16 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|509555132|gb|AOUK01000057.1| -         5S_rRNA              RF00001    cm        1      119      173      288      +    no    1 0.54   0.0   75.8   8.4e-16 !   Enterococcus faecium CRL1879 Contig_266, whole genome shotgun sequence
+gi|509555128|gb|AOUK01000059.1| -         5S_rRNA              RF00001    cm        1      119       24      139      +    no    1 0.54   0.0   75.8   8.4e-16 !   Enterococcus faecium CRL1879 Contig_279, whole genome shotgun sequence
+gi|509555114|gb|AOUK01000066.1| -         5S_rRNA              RF00001    cm        1      119    56843    56958      +    no    1 0.54   0.0   75.8   8.4e-16 !   Enterococcus faecium CRL1879 Contig_358, whole genome shotgun sequence
+gi|509555110|gb|AOUK01000068.1| -         5S_rRNA              RF00001    cm       26      119    45496    45406      -    5'    2 0.55   0.0   42.2     4e-07 !   Enterococcus faecium CRL1879 Contig_366, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./RF00001.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Enterococcus_faecium_CRL1879/697928-DENOVO-20150227-1757.1483364/output/bacterial_annot/AOUK01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Enterococcus_faecium_CRL1879.5S.tbl -T 40 --rfam --cpu 0 --nohmmonly ./RF00001.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Enterococcus_faecium_CRL1879/697928-DENOVO-20150227-1757.1483364/output/bacterial_annot/AOUK01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:49 2015
+# [ok]

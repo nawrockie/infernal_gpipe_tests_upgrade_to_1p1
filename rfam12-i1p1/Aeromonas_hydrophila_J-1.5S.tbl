@@ -1,0 +1,23 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|748231934|gb|CP006883.1| -         5S_rRNA              RF00001    cm        1      119    90399    90513      +    no    1 0.62   0.0   75.4   1.9e-15 !   Aeromonas hydrophila J-1, complete genome
+gi|748231934|gb|CP006883.1| -         5S_rRNA              RF00001    cm        1      119   301779   301893      +    no    1 0.62   0.0   75.4   1.9e-15 !   Aeromonas hydrophila J-1, complete genome
+gi|748231934|gb|CP006883.1| -         5S_rRNA              RF00001    cm        1      119   385804   385918      +    no    1 0.62   0.0   75.4   1.9e-15 !   Aeromonas hydrophila J-1, complete genome
+gi|748231934|gb|CP006883.1| -         5S_rRNA              RF00001    cm        1      119  4085646  4085532      -    no    1 0.62   0.0   75.4   1.9e-15 !   Aeromonas hydrophila J-1, complete genome
+gi|748231934|gb|CP006883.1| -         5S_rRNA              RF00001    cm        1      119  4217215  4217101      -    no    1 0.62   0.0   75.4   1.9e-15 !   Aeromonas hydrophila J-1, complete genome
+gi|748231934|gb|CP006883.1| -         5S_rRNA              RF00001    cm        1      119  4692931  4692817      -    no    1 0.62   0.0   75.4   1.9e-15 !   Aeromonas hydrophila J-1, complete genome
+gi|748231934|gb|CP006883.1| -         5S_rRNA              RF00001    cm        1      119  4824447  4824333      -    no    1 0.62   0.0   75.4   1.9e-15 !   Aeromonas hydrophila J-1, complete genome
+gi|748231934|gb|CP006883.1| -         5S_rRNA              RF00001    cm        1      119  4876029  4875915      -    no    1 0.62   0.0   75.4   1.9e-15 !   Aeromonas hydrophila J-1, complete genome
+gi|748231934|gb|CP006883.1| -         5S_rRNA              RF00001    cm        1      119  4954053  4953939      -    no    1 0.62   0.0   75.4   1.9e-15 !   Aeromonas hydrophila J-1, complete genome
+gi|748231934|gb|CP006883.1| -         5S_rRNA              RF00001    cm        1      119   816884   816998      +    no    1 0.61   0.0   75.4   1.9e-15 !   Aeromonas hydrophila J-1, complete genome
+gi|748231934|gb|CP006883.1| -         5S_rRNA              RF00001    cm        1      119  4824182  4824068      -    no    1 0.59   0.0   74.7   2.7e-15 !   Aeromonas hydrophila J-1, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./RF00001.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Aeromonas_hydrophila_J-1/1478698-DENOVO-20150208-1112.1465974/output/bacterial_annot/ASM81950v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Aeromonas_hydrophila_J-1.5S.tbl -T 40 --rfam --cpu 0 --nohmmonly ./RF00001.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Aeromonas_hydrophila_J-1/1478698-DENOVO-20150208-1112.1465974/output/bacterial_annot/ASM81950v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:38 2015
+# [ok]

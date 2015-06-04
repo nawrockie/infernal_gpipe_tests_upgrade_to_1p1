@@ -1,0 +1,18 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|332330813|gb|CP002691.1| -         RNaseP_bact_a        RF00010    cm        1      367  6052140  6052551      +    no    1 0.52   7.5  190.9   6.3e-64 !   Haliscomenobacter hydrossis DSM 1100, complete genome
+gi|332330813|gb|CP002691.1| -         snoPyro_CD           RF00095    cm        1       58  4159076  4159131      +    no    1 0.50   0.4   28.7    0.0021 !   Haliscomenobacter hydrossis DSM 1100, complete genome
+gi|332330813|gb|CP002691.1| -         Cobalamin            RF00174    cm        1      190  2317470  2317697      +    no    1 0.52   0.1   97.1     2e-24 !   Haliscomenobacter hydrossis DSM 1100, complete genome
+gi|332330813|gb|CP002691.1| -         Cobalamin            RF00174    cm        1      190  2174213  2174436      +    no    1 0.41   1.6   84.6   7.5e-21 !   Haliscomenobacter hydrossis DSM 1100, complete genome
+gi|332330813|gb|CP002691.1| -         K_chan_RES           RF00485    cm        1      114  7843906  7843817      -    no    1 0.46   0.2   21.2      0.13 !   Haliscomenobacter hydrossis DSM 1100, complete genome
+gi|332330813|gb|CP002691.1| -         isrK                 RF01394    cm        1       77  4660202  4660126      -    no    1 0.45   0.8   25.3    0.0058 !   Haliscomenobacter hydrossis DSM 1100, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Haliscomenobacter_hydrossis_DSM_1100/280678-DENOVO-20150207-1427.1454544/output/bacterial_annot/ASM21273v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Haliscomenobacter_hydrossis_DSM_1100.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Haliscomenobacter_hydrossis_DSM_1100/280678-DENOVO-20150207-1427.1454544/output/bacterial_annot/ASM21273v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:33 2015
+# [ok]

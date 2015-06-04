@@ -1,0 +1,16 @@
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	616518	616896	313.00	+	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=2.26e-100
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	734793	734977	115.48	-	.	gb_key=FMN;rfam_acc=RF00050;evalue=4.19e-28
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	4202857	4202975	108.67	-	.	gb_key=S15;rfam_acc=RF00114;evalue=2.69e-30
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	1794963	1795155	105.48	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=1.01e-28
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	4574152	4574364	108.38	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=1.36e-29
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	1516334	1516455	71.61	+	.	gb_key=RtT;rfam_acc=RF00391;evalue=5.48e-15
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	1516617	1516728	66.44	+	.	gb_key=RtT;rfam_acc=RF00391;evalue=1.22e-13
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	3378115	3378240	95.54	-	.	gb_key=RtT;rfam_acc=RF00391;evalue=3.18e-21
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	1881433	1881875	273.03	+	.	gb_key=cspA;rfam_acc=RF01766;evalue=4.02e-87
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	1418647	1419006	97.87	+	.	gb_key=cspA;rfam_acc=RF01766;evalue=1.86e-29
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	501081	501517	257.45	-	.	gb_key=cspA;rfam_acc=RF01766;evalue=5.40e-82
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	501556	501996	239.43	-	.	gb_key=cspA;rfam_acc=RF01766;evalue=4.64e-76
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	2756922	2757353	152.95	-	.	gb_key=cspA;rfam_acc=RF01766;evalue=1.37e-47
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	3020645	3021045	97.46	-	.	gb_key=cspA;rfam_acc=RF01766;evalue=2.54e-29
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	3717954	3718078	132.58	+	.	gb_key=Phe_leader;rfam_acc=RF01859;evalue=6.04e-32
+gi|595639001|gb|CP007448.1|	cmsearch-1.0	rna	2603210	2603332	77.56	-	.	gb_key=Phe_leader;rfam_acc=RF01859;evalue=2.68e-17

@@ -1,0 +1,19 @@
+#target name                 accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#--------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|299065054|emb|FP885895.1| -         RNaseP_bact_a        RF00010    cm        1      367  3072586  3072243      -    no    1 0.65  11.6  231.9   1.7e-74 !   Ralstonia solanacearum CMR15 chromosome, complete genome
+gi|299068436|emb|FP885896.1| -         FMN                  RF00050    cm        1      140  1451594  1451438      -    no    1 0.69   3.8  110.2   2.9e-26 !   Ralstonia solanacearum CMR15 plasmid CMR15_mp, complete genome
+gi|299068436|emb|FP885896.1| -         Cobalamin            RF00174    cm        1      191   651866   651687      -    no    1 0.67   1.8  133.0     5e-36 !   Ralstonia solanacearum CMR15 plasmid CMR15_mp, complete genome
+gi|299065054|emb|FP885895.1| -         Cobalamin            RF00174    cm        1      191  1028700  1028956      +    no    1 0.68  12.6   66.9   1.7e-16 !   Ralstonia solanacearum CMR15 chromosome, complete genome
+gi|299065054|emb|FP885895.1| -         Glycine              RF00504    cm        1       94   196881   196784      -    no    1 0.67   0.0   50.0   5.1e-09 !   Ralstonia solanacearum CMR15 chromosome, complete genome
+gi|299065054|emb|FP885895.1| -         Glycine              RF00504    cm        1       94   196770   196647      -    no    1 0.72   3.4   41.3     1e-06 !   Ralstonia solanacearum CMR15 chromosome, complete genome
+gi|299068436|emb|FP885896.1| -         Hammerhead_II        RF02276    cm        1       67   451588   451654      +    no    1 0.75   0.2   72.4     1e-14 !   Ralstonia solanacearum CMR15 plasmid CMR15_mp, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Ralstonia_solanacearum_CMR15/734388-DENOVO-20150227-1847.1483734/output/bacterial_annot/ASM42719v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Ralstonia_solanacearum_CMR15.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Ralstonia_solanacearum_CMR15/734388-DENOVO-20150227-1847.1483734/output/bacterial_annot/ASM42719v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:03 2015
+# [ok]

@@ -1,0 +1,22 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|757437468|gb|CP010525.1| -         5S_rRNA              RF00001    cm        1      119   274052   274167      +    no    1 0.63   0.0   90.2     2e-19 !   Bacillus coagulans strain HM-08, complete genome
+gi|757437468|gb|CP010525.1| -         5S_rRNA              RF00001    cm        1      119   904301   904416      +    no    1 0.63   0.0   90.2     2e-19 !   Bacillus coagulans strain HM-08, complete genome
+gi|757437468|gb|CP010525.1| -         5S_rRNA              RF00001    cm        1      119  3447247  3447132      -    no    1 0.63   0.0   90.2     2e-19 !   Bacillus coagulans strain HM-08, complete genome
+gi|757437468|gb|CP010525.1| -         5S_rRNA              RF00001    cm        1      119  3529792  3529677      -    no    1 0.60   0.0   88.6   5.4e-19 !   Bacillus coagulans strain HM-08, complete genome
+gi|757437468|gb|CP010525.1| -         5S_rRNA              RF00001    cm        1      119  3555140  3555025      -    no    1 0.60   0.0   88.6   5.4e-19 !   Bacillus coagulans strain HM-08, complete genome
+gi|757437468|gb|CP010525.1| -         5S_rRNA              RF00001    cm        1      119  3615191  3615076      -    no    1 0.60   0.0   88.6   5.4e-19 !   Bacillus coagulans strain HM-08, complete genome
+gi|757437468|gb|CP010525.1| -         5S_rRNA              RF00001    cm        1      119  3561105  3560990      -    no    1 0.59   0.0   88.5   5.4e-19 !   Bacillus coagulans strain HM-08, complete genome
+gi|757437468|gb|CP010525.1| -         5S_rRNA              RF00001    cm        1      119   360251   360366      +    no    1 0.59   0.0   83.4   1.2e-17 !   Bacillus coagulans strain HM-08, complete genome
+gi|757437468|gb|CP010525.1| -         5S_rRNA              RF00001    cm        1      119  1940171  1940056      -    no    1 0.60   0.0   82.8   1.6e-17 !   Bacillus coagulans strain HM-08, complete genome
+gi|757437468|gb|CP010525.1| -         5S_rRNA              RF00001    cm        1      119  1185478  1185593      +    no    1 0.59   0.0   82.8   1.6e-17 !   Bacillus coagulans strain HM-08, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./RF00001.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Bacillus_coagulans/1573078-DENOVO-20150218-0904.1469814/output/bacterial_annot/ASM87654v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Bacillus_coagulans.5S.tbl -T 40 --rfam --cpu 0 --nohmmonly ./RF00001.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Bacillus_coagulans/1573078-DENOVO-20150218-0904.1469814/output/bacterial_annot/ASM87654v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:38 2015
+# [ok]

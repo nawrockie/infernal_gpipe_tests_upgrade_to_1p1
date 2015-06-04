@@ -1,0 +1,6 @@
+gi|698836215|emb|CCXC01000003.1|	cmsearch-1.0	rna	46044	46160	103.64	-	.	gb_key=FMN;rfam_acc=RF00050;evalue=3.24e-25
+gi|698836300|emb|CCXC01000002.1|	cmsearch-1.0	rna	171241	171338	65.80	-	.	gb_key=Purine;rfam_acc=RF00167;evalue=4.87e-14
+gi|698836215|emb|CCXC01000003.1|	cmsearch-1.0	rna	45100	45226	71.73	-	.	gb_key=L10_leader;rfam_acc=RF00557;evalue=3.97e-15
+gi|698836772|emb|CCXC01000001.1|	cmsearch-1.0	rna	1451708	1451834	71.21	+	.	gb_key=L20_leader;rfam_acc=RF00558;evalue=1.02e-18
+gi|698836772|emb|CCXC01000001.1|	cmsearch-1.0	rna	317535	317607	48.46	-	.	gb_key=L21_leader;rfam_acc=RF00559;evalue=9.25e-09
+gi|698836772|emb|CCXC01000001.1|	cmsearch-1.0	rna	1087343	1087692	81.12	+	.	gb_key=cspA;rfam_acc=RF01766;evalue=2.79e-24

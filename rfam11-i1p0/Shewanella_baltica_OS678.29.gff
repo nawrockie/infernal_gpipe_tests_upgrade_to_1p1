@@ -1,0 +1,17 @@
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	4894096	4894448	311.59	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=2.34e-106
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	3978887	3979000	96.52	-	.	gb_key=S15;rfam_acc=RF00114;evalue=3.76e-24
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	1204461	1204627	54.99	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=1.19e-12
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	4389134	4389367	74.88	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=2.64e-18
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	4812739	4812847	20.04	+	.	gb_key=K_chan_RES;rfam_acc=RF00485;evalue=1.68e-01
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	1022651	1022765	50.19	+	.	gb_key=Glycine;rfam_acc=RF00504;evalue=2.46e-09
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	1022502	1022648	36.47	+	.	gb_key=Glycine;rfam_acc=RF00504;evalue=1.07e-05
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	3754838	3754926	76.21	-	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=5.58e-15
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	4172491	4172590	69.58	-	.	gb_key=c-di-GMP-I;rfam_acc=RF01051;evalue=2.29e-13
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	4247516	4247592	25.10	+	.	gb_key=isrK;rfam_acc=RF01394;evalue=3.96e-03
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	830477	830548	22.31	+	.	gb_key=isrK;rfam_acc=RF01394;evalue=2.10e-02
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	931553	931634	58.67	-	.	gb_key=isrK;rfam_acc=RF01394;evalue=7.60e-12
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	2982188	2982256	22.98	-	.	gb_key=isrK;rfam_acc=RF01394;evalue=1.41e-02
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	2094803	2095214	69.20	+	.	gb_key=cspA;rfam_acc=RF01766;evalue=3.11e-20
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	1807520	1807984	69.34	-	.	gb_key=cspA;rfam_acc=RF01766;evalue=2.79e-20
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	1537979	1538095	84.57	-	.	gb_key=Phe_leader;rfam_acc=RF01859;evalue=8.34e-19
+gi|315265351|gb|CP002383.1|	cmsearch-1.0	rna	2492330	2492402	50.21	+	.	gb_key=Hammerhead_II;rfam_acc=RF02276;evalue=3.36e-10

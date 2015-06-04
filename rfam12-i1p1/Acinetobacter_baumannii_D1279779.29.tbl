@@ -1,0 +1,17 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|692145893|gb|CP003967.2| -         RNaseP_bact_a        RF00010    cm        1      367   887548   887902      +    no    1 0.57   0.2  326.9  2.3e-106 !   Acinetobacter baumannii D1279779, complete genome
+gi|692145893|gb|CP003967.2| -         FMN                  RF00050    cm        1      140   870629   870479      -    no    1 0.43   0.0  120.6     3e-29 !   Acinetobacter baumannii D1279779, complete genome
+gi|692145893|gb|CP003967.2| -         S15                  RF00114    cm        1      117   386084   386205      +    no    1 0.42   0.0   36.6   9.6e-07 !   Acinetobacter baumannii D1279779, complete genome
+gi|692145893|gb|CP003967.2| -         Cobalamin            RF00174    cm        1      191  3080505  3080712      +    no    1 0.44   0.0   88.9   3.5e-23 !   Acinetobacter baumannii D1279779, complete genome
+gi|692145893|gb|CP003967.2| -         Glycine              RF00504    cm        1       94  2161024  2160937      -    no    1 0.45   0.0   72.0     5e-15 !   Acinetobacter baumannii D1279779, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Acinetobacter_baumannii_D1279779/1350438-DENOVO-20150227-2122.1489984/output/bacterial_annot/ASM18666v4.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Acinetobacter_baumannii_D1279779.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Acinetobacter_baumannii_D1279779/1350438-DENOVO-20150227-2122.1489984/output/bacterial_annot/ASM18666v4.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:09 2015
+# [ok]

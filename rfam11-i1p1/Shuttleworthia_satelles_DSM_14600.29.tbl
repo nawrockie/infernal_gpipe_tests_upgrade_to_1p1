@@ -1,0 +1,20 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|228031884|gb|GG665866.1| -         RNaseP_bact_a        RF00010    cm        1      367   464354   464022      -    no    1 0.59  11.9  242.9     1e-82 !   Shuttleworthia satelles DSM 14600 Scfld0, whole genome shotgun sequence
+gi|228031882|gb|GG665867.1| -         FMN                  RF00050    cm        1      139    51065    51198      +    no    1 0.60   1.5   81.2   1.1e-19 !   Shuttleworthia satelles DSM 14600 Scfld1, whole genome shotgun sequence
+gi|228031882|gb|GG665867.1| -         SAM                  RF00162    cm        1      108   237213   237114      -    no    1 0.51   0.2   66.5   3.9e-15 !   Shuttleworthia satelles DSM 14600 Scfld1, whole genome shotgun sequence
+gi|228031884|gb|GG665866.1| -         T-box                RF00230    cm        1      217  1366910  1366629      -    no    1 0.53   3.0   89.6   1.8e-22 !   Shuttleworthia satelles DSM 14600 Scfld0, whole genome shotgun sequence
+gi|228031884|gb|GG665866.1| -         T-box                RF00230    cm        1      217   974384   974137      -    no    1 0.53   2.0   87.7   6.2e-22 !   Shuttleworthia satelles DSM 14600 Scfld0, whole genome shotgun sequence
+gi|228031884|gb|GG665866.1| -         T-box                RF00230    cm        1      217   744721   744482      -    no    1 0.55   1.2   64.3     2e-15 !   Shuttleworthia satelles DSM 14600 Scfld0, whole genome shotgun sequence
+gi|228031882|gb|GG665867.1| -         L10_leader           RF00557    cm        1      139   616764   616912      +    no    1 0.52   0.1   70.7   5.2e-14 !   Shuttleworthia satelles DSM 14600 Scfld1, whole genome shotgun sequence
+gi|228031884|gb|GG665866.1| -         L20_leader           RF00558    cm        1      127  1186559  1186432      -    no    1 0.45   0.6   35.1   1.8e-06 !   Shuttleworthia satelles DSM 14600 Scfld0, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Shuttleworthia_satelles_DSM_14600/190978-DENOVO-20150227-1527.1477294/output/bacterial_annot/ACIP02.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Shuttleworthia_satelles_DSM_14600.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Shuttleworthia_satelles_DSM_14600/190978-DENOVO-20150227-1527.1477294/output/bacterial_annot/ACIP02.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:45 2015
+# [ok]

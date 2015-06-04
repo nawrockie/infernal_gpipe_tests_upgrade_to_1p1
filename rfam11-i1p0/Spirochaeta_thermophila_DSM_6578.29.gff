@@ -1,0 +1,3 @@
+gi|339410722|gb|CP002903.1|	cmsearch-1.0	rna	1241005	1241348	245.53	+	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=1.46e-83
+gi|339410722|gb|CP002903.1|	cmsearch-1.0	rna	1241007	1241342	57.69	+	.	gb_key=RNaseP_arch;rfam_acc=RF00373;evalue=3.26e-17
+gi|339410722|gb|CP002903.1|	cmsearch-1.0	rna	545071	545159	24.04	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=1.00e-02

@@ -1,0 +1,15 @@
+#target name                    accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------------------ --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|374644041|gb|AHQG01000161.1| -         RNaseP_bact_a        RF00010    cm        1      367    15556    15942      +    no    1 0.49   2.1  251.3   2.4e-85 !   Leptospira kirschneri serovar Valbuzzi str. Brem 179 contig_161, whole genome shotgun sequence
+gi|374643938|gb|AHQG01000206.1| -         Cobalamin            RF00174    cm        1      190     3894     3715      -    no    1 0.44   4.5   90.8   6.1e-23 !   Leptospira kirschneri serovar Valbuzzi str. Brem 179 contig_206, whole genome shotgun sequence
+gi|374644325|gb|AHQG01000064.1| -         Cobalamin            RF00174    cm        1      190    20176    20360      +    no    1 0.41   2.2   82.2   1.7e-20 !   Leptospira kirschneri serovar Valbuzzi str. Brem 179 contig_64, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Leptospira_kirschneri_serovar_Valbuzzi_str._Brem_179/430988-DENOVO-20150207-1527.1456324/output/bacterial_annot/AHQG01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Leptospira_kirschneri_serovar_Valbuzzi_str._Brem_179.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Leptospira_kirschneri_serovar_Valbuzzi_str._Brem_179/430988-DENOVO-20150207-1527.1456324/output/bacterial_annot/AHQG01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:59 2015
+# [ok]

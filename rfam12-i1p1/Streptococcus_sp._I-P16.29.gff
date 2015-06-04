@@ -1,0 +1,9 @@
+gi|552057725|gb|CP006776.1|	cmsearch-1.1.1	rna	1352415	1352648	101.0	-	.	gb_key=FMN;rfam_acc=RF00050;evalue=3.2e-24
+gi|552057725|gb|CP006776.1|	cmsearch-1.1.1	rna	843613	843708	54.4	-	.	gb_key=Purine;rfam_acc=RF00167;evalue=7.1e-09
+gi|552057725|gb|CP006776.1|	cmsearch-1.1.1	rna	1002550	1002733	42.5	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=9.9e-10
+gi|552057725|gb|CP006776.1|	cmsearch-1.1.1	rna	365534	365769	98.1	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=1.3e-22
+gi|552057725|gb|CP006776.1|	cmsearch-1.1.1	rna	1170087	1170321	93.6	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=1.9e-21
+gi|552057725|gb|CP006776.1|	cmsearch-1.1.1	rna	382558	382774	93.0	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=2.7e-21
+gi|552057725|gb|CP006776.1|	cmsearch-1.1.1	rna	866887	867022	80.9	-	.	gb_key=L10_leader;rfam_acc=RF00557;evalue=1.1e-12
+gi|552057725|gb|CP006776.1|	cmsearch-1.1.1	rna	1069790	1069920	79.5	-	.	gb_key=L20_leader;rfam_acc=RF00558;evalue=4.3e-16
+gi|552057725|gb|CP006776.1|	cmsearch-1.1.1	rna	679439	679525	54.4	+	.	gb_key=L21_leader;rfam_acc=RF00559;evalue=5.8e-10

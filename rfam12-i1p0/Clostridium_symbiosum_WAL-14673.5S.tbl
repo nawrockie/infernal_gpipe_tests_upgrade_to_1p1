@@ -1,0 +1,39 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam12-i1p0/Clostridium_symbiosum_WAL-14673.5S.tbl ./RF00001.rfam12.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Clostridium_symbiosum_WAL-14673/252978-DENOVO-20150227-1622.1478524/output/bacterial_annot/ADLR01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:14 2015
+# num seqs:   55
+# dbsize(Mb): 9.833928
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     193.842     8.84   0.0054  00:02:16.42
+#   2   cm  cyk  loc  1e-07       9.464     9.30   0.0003  00:00:21.12
+#   3   cm  ins  loc  1e-15     8.3e-07    40.00  9.6e-12  00:00:05.13
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:02:42.69
+#
+#
+# CM: 5S_rRNA
+#                                        target coord   query coord                         
+#                              ----------------------  ------------                         
+# target name                       start        stop  start   stop    bit sc   E-value  GC%
+# ---------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|324021321|gb|GL834374.1|        1804        1921      1    119     68.53  2.72e-14   54
+  gi|324021286|gb|GL834409.1|          57         174      1    119     68.53  2.72e-14   54
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     193.842      111    0.0054   0.0032
+#   2   cm  cyk  loc  1e-07       9.464        5    0.0003   0.0002
+#   3   cm  ins  loc  1e-15     8.3e-07        2   9.6e-12  2.4e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:02:42.69    00:01:30.00

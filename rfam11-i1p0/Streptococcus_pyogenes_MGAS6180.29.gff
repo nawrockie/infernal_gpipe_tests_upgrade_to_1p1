@@ -1,0 +1,17 @@
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	320678	320802	117.63	+	.	gb_key=FMN;rfam_acc=RF00050;evalue=6.45e-30
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	1652782	1652900	25.66	-	.	gb_key=S15;rfam_acc=RF00114;evalue=2.02e-04
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	851504	851599	49.14	+	.	gb_key=Purine;rfam_acc=RF00167;evalue=8.50e-10
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	421597	421807	75.61	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=1.26e-18
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	1467867	1468032	66.97	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=3.20e-16
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	582911	583080	54.27	+	.	gb_key=T-box;rfam_acc=RF00230;evalue=1.10e-12
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	1887130	1887371	105.51	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=5.98e-27
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	1191134	1191356	78.19	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=2.42e-19
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	1132494	1132661	52.55	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=3.31e-12
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	1429356	1429552	47.40	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=9.02e-11
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	1283906	1284094	35.93	-	.	gb_key=T-box;rfam_acc=RF00230;evalue=1.40e-07
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	967294	967380	70.59	+	.	gb_key=Glycine;rfam_acc=RF00504;evalue=3.39e-15
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	967213	967293	22.54	+	.	gb_key=Glycine;rfam_acc=RF00504;evalue=1.86e-02
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	797961	798096	81.76	+	.	gb_key=L10_leader;rfam_acc=RF00557;evalue=1.12e-16
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	620585	620708	77.82	+	.	gb_key=L20_leader;rfam_acc=RF00558;evalue=3.71e-18
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	635465	635539	50.13	+	.	gb_key=L21_leader;rfam_acc=RF00559;evalue=4.09e-10
+gi|71801762|gb|CP000056.1|	cmsearch-1.0	rna	1761649	1762024	52.86	-	.	gb_key=cspA;rfam_acc=RF01766;evalue=3.05e-15

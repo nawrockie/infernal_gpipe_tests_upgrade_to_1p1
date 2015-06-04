@@ -1,0 +1,5 @@
+gi|482628550|emb|CAVJ010000273.1|	cmsearch-1.0	rna	50930	51343	258.84	+	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=2.05e-82
+gi|482632401|emb|CAVJ010000105.1|	cmsearch-1.0	rna	30622	30712	51.37	+	.	gb_key=Glycine;rfam_acc=RF00504;evalue=1.50e-09
+gi|482632953|emb|CAVJ010000083.1|	cmsearch-1.0	rna	337	471	68.82	+	.	gb_key=ALIL;rfam_acc=RF01497;evalue=2.71e-16
+gi|482628379|emb|CAVJ010000287.1|	cmsearch-1.0	rna	599	730	62.23	-	.	gb_key=ALIL;rfam_acc=RF01497;evalue=2.00e-14
+gi|482632531|emb|CAVJ010000100.1|	cmsearch-1.0	rna	33527	33598	74.14	+	.	gb_key=ASpks;rfam_acc=RF01782;evalue=3.42e-14

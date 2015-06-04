@@ -1,0 +1,51 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam12-i1p0/Bacillus_thuringiensis_str._Al_Hakam.5S.tbl ./RF00001.rfam12.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Bacillus_thuringiensis_str._Al_Hakam/15868-DENOVO-20150207-1327.1452414/output/bacterial_annot/ASM1506v1.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:28 2015
+# num seqs:   2
+# dbsize(Mb): 10.626060
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     209.457     8.84   0.0054  00:02:18.74
+#   2   cm  cyk  loc  1e-07      10.226     9.30   0.0003  00:00:22.83
+#   3   cm  ins  loc  1e-15     9.0e-07    40.00  9.6e-12  00:00:06.63
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:02:48.21
+#
+#
+# CM: 5S_rRNA
+#                                        target coord   query coord                         
+#                              ----------------------  ------------                         
+# target name                       start        stop  start   stop    bit sc   E-value  GC%
+# ---------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|118415003|gb|CP000485.1|      324151      324266      1    119     77.62  1.20e-16   55
+  gi|118415003|gb|CP000485.1|      316977      317092      1    119     77.62  1.20e-16   55
+  gi|118415003|gb|CP000485.1|      306973      307088      1    119     77.62  1.20e-16   55
+  gi|118415003|gb|CP000485.1|      299658      299773      1    119     77.62  1.20e-16   55
+  gi|118415003|gb|CP000485.1|      292415      292530      1    119     77.62  1.20e-16   55
+  gi|118415003|gb|CP000485.1|      262872      262987      1    119     77.62  1.20e-16   55
+  gi|118415003|gb|CP000485.1|       92817       92932      1    119     77.62  1.20e-16   55
+  gi|118415003|gb|CP000485.1|       34005       34120      1    119     77.62  1.20e-16   55
+  gi|118415003|gb|CP000485.1|       14206       14321      1    119     77.62  1.20e-16   55
+  gi|118415003|gb|CP000485.1|      766704      766819      1    119     76.87  1.90e-16   55
+  gi|118415003|gb|CP000485.1|      539176      539291      1    119     76.87  1.90e-16   55
+  gi|118415003|gb|CP000485.1|       87156       87271      1    119     76.23  2.79e-16   56
+  gi|118415003|gb|CP000485.1|      155921      156036      1    119     75.83  3.55e-16   56
+  gi|118415003|gb|CP000485.1|     4668308     4668193      1    119     76.23  2.79e-16   56
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     209.457       24    0.0054   0.0006
+#   2   cm  cyk  loc  1e-07      10.226       14    0.0003   0.0004
+#   3   cm  ins  loc  1e-15     9.0e-07       14   9.6e-12   0.0002
+#
+# expected time    actual time
+# -------------  -------------
+#   00:02:48.21    00:01:35.00

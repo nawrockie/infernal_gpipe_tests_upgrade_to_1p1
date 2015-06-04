@@ -1,0 +1,39 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Haliscomenobacter_hydrossis_DSM_1100.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Haliscomenobacter_hydrossis_DSM_1100/280678-DENOVO-20150207-1427.1454544/output/bacterial_annot/ASM21273v1.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:28 2015
+# num seqs:   4
+# dbsize(Mb): 17.543302
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     878.998     7.68   0.0082  00:03:20.42
+#   2   cm  cyk  loc  1e-07      42.758     8.41   0.0004  00:00:28.62
+#   3   cm  ins  loc  1e-15     3.0e-06    40.00  1.9e-11  00:00:05.99
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:03:55.04
+#
+#
+# CM: 5S_rRNA
+#                                        target coord   query coord                         
+#                              ----------------------  ------------                         
+# target name                       start        stop  start   stop    bit sc   E-value  GC%
+# ---------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|332330813|gb|CP002691.1|     3846975     3847085      1    119     88.07  1.33e-18   57
+  gi|332330813|gb|CP002691.1|     2494417     2494307      1    119     88.07  1.33e-18   57
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     878.998      944    0.0082   0.0092
+#   2   cm  cyk  loc  1e-07      42.758        9    0.0004  9.2e-05
+#   3   cm  ins  loc  1e-15     3.0e-06        2   1.9e-11  1.3e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:03:55.04    00:02:24.00

@@ -1,0 +1,26 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|315265351|gb|CP002383.1| -         RNaseP_bact_a        RF00010    cm        1      367  4894448  4894096      -    no    1 0.59   9.4  311.6  2.2e-106 !   Shewanella baltica OS678, complete genome
+gi|315265351|gb|CP002383.1| -         FMN                  RF00050    cm        1      139   164285   164056      -    no    1 0.51   0.1   84.5   3.4e-20 !   Shewanella baltica OS678, complete genome
+gi|315265351|gb|CP002383.1| -         S15                  RF00114    cm        1      116  3979000  3978887      -    no    1 0.37   3.0   96.5   3.7e-24 !   Shewanella baltica OS678, complete genome
+gi|315265351|gb|CP002383.1| -         Cobalamin            RF00174    cm        1      190  4389367  4389134      -    no    1 0.47   0.2   74.9   2.6e-18 !   Shewanella baltica OS678, complete genome
+gi|315265351|gb|CP002383.1| -         Cobalamin            RF00174    cm        1      190  1204461  1204627      +    no    1 0.46   0.1   55.0   1.2e-12 !   Shewanella baltica OS678, complete genome
+gi|315265351|gb|CP002383.1| -         Glycine              RF00504    cm        1       94  1022644  1022772      +    no    1 0.52   2.1   56.3   5.9e-11 !   Shewanella baltica OS678, complete genome
+gi|315265351|gb|CP002383.1| -         c-di-GMP-I           RF01051    cm        1       87  3754926  3754838      -    no    1 0.51   0.2   76.2   5.5e-15 !   Shewanella baltica OS678, complete genome
+gi|315265351|gb|CP002383.1| -         c-di-GMP-I           RF01051    cm        1       87  4172590  4172491      -    no    1 0.40   0.9   69.6   2.3e-13 !   Shewanella baltica OS678, complete genome
+gi|315265351|gb|CP002383.1| -         isrK                 RF01394    cm        1       77   931634   931553      -    no    1 0.54   0.1   58.7   7.5e-12 !   Shewanella baltica OS678, complete genome
+gi|315265351|gb|CP002383.1| -         isrK                 RF01394    cm        1       77  4247516  4247592      +    no    1 0.43   0.2   25.1    0.0039 !   Shewanella baltica OS678, complete genome
+gi|315265351|gb|CP002383.1| -         cspA                 RF01766    cm        1      428  2094803  2095213      +    no    1 0.40  10.1   63.8     2e-18 !   Shewanella baltica OS678, complete genome
+gi|315265351|gb|CP002383.1| -         cspA                 RF01766    cm        1      428  1807908  1807520      -    no    1 0.36  18.4   61.4   1.2e-17 !   Shewanella baltica OS678, complete genome
+gi|315265351|gb|CP002383.1| -         Phe_leader           RF01859    cm        1      126  1538095  1537979      -    no    1 0.39   0.8   84.6   8.3e-19 !   Shewanella baltica OS678, complete genome
+gi|315265351|gb|CP002383.1| -         Hammerhead_II        RF02276    cm        1       67  2492330  2492402      +    no    1 0.52   0.1   50.2   3.4e-10 !   Shewanella baltica OS678, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Shewanella_baltica_OS678/240938-DENOVO-20150226-0902.1471804/output/bacterial_annot/ASM17887v2.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Shewanella_baltica_OS678.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Shewanella_baltica_OS678/240938-DENOVO-20150226-0902.1471804/output/bacterial_annot/ASM17887v2.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:09 2015
+# [ok]

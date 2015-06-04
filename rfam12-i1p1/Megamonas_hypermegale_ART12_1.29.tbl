@@ -1,0 +1,36 @@
+#target name                 accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#--------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|291532143|emb|FP929048.1| -         RNaseP_bact_a        RF00010    cm        1      367  1900339  1899988      -    no    1 0.48   0.0  289.8   3.3e-94 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         FMN                  RF00050    cm        1      140  1327234  1327118      -    no    1 0.48   0.0  120.5   1.9e-29 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         SAM                  RF00162    cm        1      108   936205   936309      +    no    1 0.43   0.0   85.9   8.7e-19 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         Cobalamin            RF00174    cm        1      191   328901   328721      -    no    1 0.43   0.0  109.0   2.3e-29 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         Cobalamin            RF00174    cm        1      191  1646972  1646797      -    no    1 0.40   0.0  101.5     4e-27 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         Cobalamin            RF00174    cm        1      191  1056456  1056645      +    no    1 0.40   0.0   99.6   1.4e-26 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         Cobalamin            RF00174    cm        1      191   734399   734584      +    no    1 0.39   0.0   99.3   1.8e-26 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         Cobalamin            RF00174    cm        1      191  1944691  1944517      -    no    1 0.40   0.0   98.5     3e-26 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         Cobalamin            RF00174    cm        1      191  1056325  1056151      -    no    1 0.45   0.0   97.7   5.1e-26 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         Cobalamin            RF00174    cm        1      191  1945206  1945376      +    no    1 0.36   0.2   42.2   1.3e-09 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         T-box                RF00230    cm        1      224   477337   477094      -    no    1 0.36   1.2  150.5   4.1e-36 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         T-box                RF00230    cm        1      224   103149   103386      +    no    1 0.38   0.3  135.8   2.6e-32 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         T-box                RF00230    cm        1      224  1786785  1786514      -    no    1 0.32  11.7  133.2   1.2e-31 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         T-box                RF00230    cm        1      224  1488219  1487973      -    no    1 0.39   0.2  129.5   1.1e-30 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         T-box                RF00230    cm        1      224  1003149  1002899      -    no    1 0.37   4.6  129.0   1.5e-30 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         T-box                RF00230    cm        1      224   226294   226056      -    no    1 0.33  10.1  126.6   6.2e-30 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         T-box                RF00230    cm        1      224  1612923  1613121      +    no    1 0.35   0.6  122.4   7.6e-29 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         T-box                RF00230    cm        1      224   688638   688828      +    no    1 0.40   0.0  122.1   9.2e-29 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         T-box                RF00230    cm        1      224  2177352  2177547      +    no    1 0.42   0.0  111.6   4.8e-26 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         T-box                RF00230    cm        1      224   610506   610261      -    no    1 0.30  16.0  110.1   1.1e-25 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         Glycine              RF00504    cm        1       94  2187559  2187476      -    no    1 0.51   0.0   59.1   7.7e-12 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         L10_leader           RF00557    cm        1      139  1546467  1546328      -    no    1 0.41   0.0   62.6   4.2e-09 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         L20_leader           RF00558    cm        1      127  1182165  1182028      -    no    1 0.37   0.0   54.3   7.5e-10 !   Megamonas hypermegale ART12/1
+gi|291532143|emb|FP929048.1| -         cspA                 RF01766    cm        1      428  2155996  2156339      +    no    1 0.34  12.3   79.2   7.5e-20 !   Megamonas hypermegale ART12/1
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Megamonas_hypermegale_ART12_1/272538-DENOVO-20150227-1622.1478794/output/bacterial_annot/ASM20997v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Megamonas_hypermegale_ART12_1.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Megamonas_hypermegale_ART12_1/272538-DENOVO-20150227-1622.1478794/output/bacterial_annot/ASM20997v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:13 2015
+# [ok]

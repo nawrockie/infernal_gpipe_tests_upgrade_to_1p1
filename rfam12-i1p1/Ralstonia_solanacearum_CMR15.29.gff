@@ -1,0 +1,7 @@
+gi|299065054|emb|FP885895.1|	cmsearch-1.1.1	rna	3072243	3072586	231.9	-	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=1.7e-74
+gi|299068436|emb|FP885896.1|	cmsearch-1.1.1	rna	1451438	1451594	110.2	-	.	gb_key=FMN;rfam_acc=RF00050;evalue=2.9e-26
+gi|299068436|emb|FP885896.1|	cmsearch-1.1.1	rna	651687	651866	133.0	-	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=5e-36
+gi|299065054|emb|FP885895.1|	cmsearch-1.1.1	rna	1028700	1028956	66.9	+	.	gb_key=Cobalamin;rfam_acc=RF00174;evalue=1.7e-16
+gi|299065054|emb|FP885895.1|	cmsearch-1.1.1	rna	196784	196881	50.0	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=5.1e-09
+gi|299065054|emb|FP885895.1|	cmsearch-1.1.1	rna	196647	196770	41.3	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=1e-06
+gi|299068436|emb|FP885896.1|	cmsearch-1.1.1	rna	451588	451654	72.4	+	.	gb_key=Hammerhead_II;rfam_acc=RF02276;evalue=1e-14

@@ -1,0 +1,45 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Vibrio_cholerae_INDRE_91_1.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Vibrio_cholerae_INDRE_91_1/220898-DENOVO-20150227-1622.1478014/output/bacterial_annot/ADAK01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:33 2015
+# num seqs:   60
+# dbsize(Mb): 7.895414
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     395.596     7.68   0.0082  00:01:23.76
+#   2   cm  cyk  loc  1e-07      19.243     8.41   0.0004  00:00:12.88
+#   3   cm  ins  loc  1e-15     1.4e-06    40.00  1.9e-11  00:00:03.62
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:40.27
+#
+#
+# CM: 5S_rRNA
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|262031408|gb|ADAK01000005.1|         311         426      1    119     91.54  7.67e-20   53
+  gi|262031388|gb|ADAK01000008.1|        8629        8514      1    119     90.97  1.08e-19   54
+  gi|262031255|gb|ADAK01000017.1|        3942        4057      1    119     90.97  1.08e-19   54
+  gi|262030854|gb|ADAK01000031.1|       40684       40569      1    119     90.97  1.08e-19   54
+  gi|262029610|gb|ADAK01000050.1|      164209      164094      1    119     90.97  1.08e-19   54
+  gi|262028868|gb|ADAK01000054.1|      262031      261916      1    119     90.97  1.08e-19   54
+  gi|262028251|gb|ADAK01000058.1|        4542        4657      1    119     93.13  3.00e-20   54
+  gi|262028251|gb|ADAK01000058.1|        4260        4375      1    119     90.97  1.08e-19   54
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     395.596      474    0.0082   0.0102
+#   2   cm  cyk  loc  1e-07      19.243       11    0.0004   0.0002
+#   3   cm  ins  loc  1e-15     1.4e-06        8   1.9e-11   0.0001
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:40.27    00:01:01.00

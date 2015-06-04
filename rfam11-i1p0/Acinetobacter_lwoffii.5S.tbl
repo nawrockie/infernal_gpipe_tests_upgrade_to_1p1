@@ -1,0 +1,37 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Acinetobacter_lwoffii.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Acinetobacter_lwoffii/1530228-DENOVO-20150212-0902.1469164/output/bacterial_annot/BBSQ01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:24 2015
+# num seqs:   100
+# dbsize(Mb): 6.597768
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     330.578     7.68   0.0082  00:01:26.14
+#   2   cm  cyk  loc  1e-07      16.081     8.41   0.0004  00:00:13.84
+#   3   cm  ins  loc  1e-15     1.1e-06    40.00  1.9e-11  00:00:03.72
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:43.71
+#
+#
+# CM: 5S_rRNA
+#                                             target coord   query coord                         
+#                                   ----------------------  ------------                         
+# target name                            start        stop  start   stop    bit sc   E-value  GC%
+# --------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     330.578      286    0.0082   0.0074
+#   2   cm  cyk  loc  1e-07      16.081        1    0.0004  2.6e-05
+#   3   cm  ins  loc  1e-15     1.1e-06        0   1.9e-11  0.0e+00
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:43.71    00:01:28.00

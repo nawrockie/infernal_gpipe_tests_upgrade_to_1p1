@@ -1,0 +1,97 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|118415003|gb|CP000485.1| -         RNaseP_bact_a        RF00010    cm        1      367  1548525  1548930      +    no    1 0.47   4.3   54.8   1.7e-16 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         FMN                  RF00050    cm        1      139  1482197  1482336      +    no    1 0.51   0.6  119.1     7e-30 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         FMN                  RF00050    cm        1      139  3940252  3940395      +    no    1 0.51   0.2  115.6   6.8e-29 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108  4061326  4061435      +    no    1 0.39   0.9   99.1   6.7e-24 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108   184231   184117      -    no    1 0.49   0.1   94.5   1.3e-22 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108  1422983  1423091      +    no    1 0.47   1.3   93.5   2.5e-22 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108  5171425  5171320      -    no    1 0.45   1.4   92.2   5.8e-22 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108   350036   350142      +    no    1 0.47   0.1   91.5   8.8e-22 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108  3165958  3165860      -    no    1 0.51   0.1   91.0   1.2e-21 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108  4758870  4758763      -    no    1 0.49   0.1   90.7   1.5e-21 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108  3033380  3033279      -    no    1 0.45   0.1   89.8   2.8e-21 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108   192545   192650      +    no    1 0.49   0.1   89.6   3.2e-21 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108  4061123  4061014      -    no    1 0.45   0.3   88.6   5.8e-21 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108   403285   403173      -    no    1 0.42   0.4   88.0   8.6e-21 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108  2549385  2549500      +    no    1 0.45   0.4   87.3   1.4e-20 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108   205649   205543      -    no    1 0.45   0.1   86.5   2.3e-20 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108  3877093  3876952      -    no    1 0.49   0.4   84.1   1.1e-19 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108  1435718  1435823      +    no    1 0.51   0.2   83.9   1.3e-19 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108  3879287  3879394      +    no    1 0.50   0.2   78.8   3.3e-18 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         SAM                  RF00162    cm        1      108  4559003  4558882      -    no    1 0.53   0.2   73.6   9.8e-17 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         Purine               RF00167    cm        1      102  1557047  1557148      +    no    1 0.37   1.3   90.9   7.5e-21 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         Purine               RF00167    cm        1      102   324753   324854      +    no    1 0.41   0.4   86.1   1.6e-19 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         Purine               RF00167    cm        1      102   274643   274744      +    no    1 0.37   1.0   86.0   1.7e-19 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         Purine               RF00167    cm        1      102   373160   373059      -    no    1 0.37   1.0   85.4   2.4e-19 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         Purine               RF00167    cm        1      102   283558   283659      +    no    1 0.41   0.4   84.7   3.9e-19 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         Purine               RF00167    cm        1      102  3632124  3632023      -    no    1 0.40   0.5   79.2   1.2e-17 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         Purine               RF00167    cm        1      102  3178229  3178126      -    no    1 0.40   0.3   73.5   4.8e-16 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         Cobalamin            RF00174    cm        1      190  3845995  3846183      +    no    1 0.41   2.1  115.5   7.6e-30 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  2803082  2802863      -    no    1 0.43   4.1  149.9   7.2e-39 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  4154465  4154693      +    no    1 0.40   3.3  148.7   1.6e-38 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  1760276  1760498      +    no    1 0.40   5.4  147.9   2.6e-38 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  4534177  4533955      -    no    1 0.41   2.7  146.2   8.1e-38 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  3951063  3951283      +    no    1 0.43   2.0  144.4   2.6e-37 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  2093423  2093634      +    no    1 0.42   4.5  143.8   3.7e-37 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  2804600  2804364      -    no    1 0.41   6.3  143.3     5e-37 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  1241757  1241994      +    no    1 0.46   1.5  141.8   1.4e-36 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  2804891  2804655      -    no    1 0.40   8.2  140.6   2.9e-36 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217    20072    20293      +    no    1 0.42   4.3  140.2   3.6e-36 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  4463872  4463644      -    no    1 0.42   3.1  139.3   6.7e-36 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  4272751  4272519      -    no    1 0.39   6.3  134.1   1.8e-34 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  1191974  1191758      -    no    1 0.41   5.3  134.1   1.8e-34 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  4154744  4154971      +    no    1 0.37   7.9  133.1   3.5e-34 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  4199467  4199237      -    no    1 0.39   6.4  127.8     1e-32 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  1400021  1400401      +    no    1 0.48   0.3  124.8   7.2e-32 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  3747061  3746837      -    no    1 0.42   4.2  124.6     8e-32 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  1443155  1442897      -    no    1 0.44   0.4  124.2   1.1e-31 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  2086879  2087118      +    no    1 0.47   0.9  122.8   2.6e-31 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  1429998  1430246      +    no    1 0.43   4.7  122.7   2.7e-31 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  1242037  1242281      +    no    1 0.46   1.9  121.2     7e-31 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  2129206  2129454      +    no    1 0.39   7.6  119.1   2.7e-30 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  2562123  2562381      +    no    1 0.39   9.2  114.2   6.6e-29 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  2843182  2842972      -    no    1 0.41   1.2  113.2   1.2e-28 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  1733368  1733626      +    no    1 0.46   0.4  112.8   1.5e-28 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  4810292  4810022      -    no    1 0.41   3.7  111.4   3.7e-28 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  4361793  4361542      -    no    1 0.41   6.9  111.2   4.4e-28 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  4365753  4365525      -    no    1 0.44   1.1  110.5   6.8e-28 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  1896230  1896461      +    no    1 0.41   4.8  109.8   1.1e-27 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  4845437  4845222      -    no    1 0.42   2.0  109.6   1.2e-27 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  1895883  1896114      +    no    1 0.41   3.7  108.4   2.6e-27 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217   453025   453231      +    no    1 0.43   0.8  106.3   9.9e-27 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217   104552   104797      +    no    1 0.45   1.4  106.1   1.1e-26 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  4381173  4380945      -    no    1 0.40   2.9  104.3   3.7e-26 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  4794528  4794291      -    no    1 0.41   2.0  103.6   5.9e-26 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  2078425  2078639      +    no    1 0.47   1.4  102.8   9.3e-26 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  2280743  2280966      +    no    1 0.42   4.0  100.8   3.4e-25 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  1769952  1770191      +    no    1 0.42   4.4   99.0   1.1e-24 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  2502804  2503060      +    no    1 0.43   8.5   98.0     2e-24 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  4183783  4183564      -    no    1 0.41   1.7   97.1   3.6e-24 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  4352178  4351928      -    no    1 0.37   6.8   96.8   4.5e-24 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  1769639  1769884      +    no    1 0.47   2.8   96.6   5.1e-24 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  2281002  2281224      +    no    1 0.43   4.3   92.9   5.3e-23 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm        1      217  4688897  4689061      +    no    1 0.48   0.7   64.9   3.3e-15 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm      182      214  1760551  1760584      +    no    1 0.47   0.1   28.0   6.5e-05 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         T-box                RF00230    cm      182      214  1760640  1760674      +    no    1 0.49   0.1   26.2    0.0002 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         Glycine              RF00504    cm        1       94  2277611  2277492      -    no    1 0.48   1.6   59.8     7e-12 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         L10_leader           RF00557    cm        1      139   112036   112179      +    no    1 0.38   5.0   79.4   1.1e-15 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         L20_leader           RF00558    cm        1      127  4378749  4378629      -    no    1 0.44   0.3   87.9   1.9e-20 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         L21_leader           RF00559    cm        1       77  4240659  4240582      -    no    1 0.41   0.2   56.7   1.8e-11 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         c-di-GMP-I           RF01051    cm        1       87   435376   435460      +    no    1 0.49   3.5   68.1   5.1e-13 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         c-di-GMP-I           RF01051    cm        1       87  1077635  1077727      +    no    1 0.39   0.5   52.3   3.6e-09 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         cspA                 RF01766    cm        1      428  1147702  1148018      +    no    1 0.33  24.5   75.5   2.4e-22 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         cspA                 RF01766    cm        1      428  4648593  4648254      -    no    1 0.36  14.4   70.9   8.3e-21 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         cspA                 RF01766    cm        1      428  2315192  2314832      -    no    1 0.36  16.2   67.4   1.2e-19 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         cspA                 RF01766    cm        1      428  3366706  3366403      -    no    1 0.36  18.4   59.2   6.8e-17 !   Bacillus thuringiensis str. Al Hakam, complete genome
+gi|118415003|gb|CP000485.1| -         cspA                 RF01766    cm        1      428  1594126  1593719      -    no    1 0.33  33.2   52.9   8.4e-15 !   Bacillus thuringiensis str. Al Hakam, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Bacillus_thuringiensis_str._Al_Hakam/15868-DENOVO-20150207-1327.1452414/output/bacterial_annot/ASM1506v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Bacillus_thuringiensis_str._Al_Hakam.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Bacillus_thuringiensis_str._Al_Hakam/15868-DENOVO-20150207-1327.1452414/output/bacterial_annot/ASM1506v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:32 2015
+# [ok]

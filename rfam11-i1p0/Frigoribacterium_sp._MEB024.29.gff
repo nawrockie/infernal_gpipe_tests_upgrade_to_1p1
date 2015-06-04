@@ -1,0 +1,3 @@
+gi|758272233|gb|JXQZ01000001.1|	cmsearch-1.0	rna	89477	89857	248.28	+	.	gb_key=RNaseP_bact_a;rfam_acc=RF00010;evalue=2.12e-84
+gi|758272134|gb|JXQZ01000002.1|	cmsearch-1.0	rna	108306	108443	69.71	-	.	gb_key=FMN;rfam_acc=RF00050;evalue=2.96e-16
+gi|758270777|gb|JXQZ01000039.1|	cmsearch-1.0	rna	84673	84776	57.44	-	.	gb_key=Glycine;rfam_acc=RF00504;evalue=1.87e-11

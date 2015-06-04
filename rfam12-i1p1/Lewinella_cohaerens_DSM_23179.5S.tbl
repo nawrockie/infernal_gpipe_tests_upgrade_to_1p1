@@ -1,0 +1,14 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|482581857|gb|KB903532.1| -         5S_rRNA              RF00001    cm        1      119   399942   399833      -    no    1 0.50   0.0   73.7   7.4e-15 !   Lewinella cohaerens DSM 23179 A3EUDRAFT_scaffold_1.2, whole genome shotgun sequence
+gi|482581818|gb|KB903571.1| -         5S_rRNA              RF00001    cm        1      119     3375     3484      +    no    1 0.50   0.0   73.7   7.4e-15 !   Lewinella cohaerens DSM 23179 A3EUDRAFT_scaffold_45.46, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./RF00001.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Lewinella_cohaerens_DSM_23179/602938-DENOVO-20150227-1757.1482674/output/bacterial_annot/ARBR01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Lewinella_cohaerens_DSM_23179.5S.tbl -T 40 --rfam --cpu 0 --nohmmonly ./RF00001.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Lewinella_cohaerens_DSM_23179/602938-DENOVO-20150227-1757.1482674/output/bacterial_annot/ARBR01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:53 2015
+# [ok]

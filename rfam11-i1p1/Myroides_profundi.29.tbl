@@ -1,0 +1,18 @@
+#target name                accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|753770668|gb|CP010817.1| -         RNaseP_bact_a        RF00010    cm        1      367  2840852  2840538      -    no    1 0.44   4.5  170.7   3.5e-57 !   Myroides profundi strain D25, complete genome
+gi|753770668|gb|CP010817.1| -         Cobalamin            RF00174    cm        1      190  1012604  1012797      +    no    1 0.34  11.7   93.2   1.2e-23 !   Myroides profundi strain D25, complete genome
+gi|753770668|gb|CP010817.1| -         Cobalamin            RF00174    cm        1      190   361508   361327      -    no    1 0.37   5.1   85.7   1.6e-21 !   Myroides profundi strain D25, complete genome
+gi|753770668|gb|CP010817.1| -         Cobalamin            RF00174    cm        1      190  3045748  3045561      -    no    1 0.37   6.4   85.3   2.1e-21 !   Myroides profundi strain D25, complete genome
+gi|753770668|gb|CP010817.1| -         Cobalamin            RF00174    cm       46      168  1306515  1306445      -    no    1 0.42   0.2   35.5   3.1e-07 !   Myroides profundi strain D25, complete genome
+gi|753770668|gb|CP010817.1| -         L20_leader           RF00558    cm        1      127  3973198  3973087      -    no    1 0.33   5.0   34.8   4.1e-06 !   Myroides profundi strain D25, complete genome
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam11.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Myroides_profundi/1514148-DENOVO-20150206-0904.1451574/output/bacterial_annot/ASM83302v1.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam11-i1p1/Myroides_profundi.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam11.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Myroides_profundi/1514148-DENOVO-20150206-0904.1451574/output/bacterial_annot/ASM83302v1.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:17 2015
+# [ok]

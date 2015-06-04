@@ -1,0 +1,30 @@
+#target name         accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|756892467|gb|JXCF01000007.1| -         FMN                  RF00050    cm        1      140    72348    72479      +    no    1 0.43   0.0  125.8   9.8e-31 !   Staphylococcus gallinarum strain DSM 20610 contig_7, whole genome shotgun sequence
+gi|756892467|gb|JXCF01000007.1| -         FMN                  RF00050    cm        1      140   368936   369067      +    no    1 0.44   0.0  124.2   2.7e-30 !   Staphylococcus gallinarum strain DSM 20610 contig_7, whole genome shotgun sequence
+gi|756890721|gb|JXCF01000256.1| -         SAM                  RF00162    cm        1      108   183335   183231      -    no    1 0.44   0.0   89.3   1.6e-19 !   Staphylococcus gallinarum strain DSM 20610 contig_256, whole genome shotgun sequence
+gi|756892124|gb|JXCF01000010.1| -         SAM                  RF00162    cm        1      108   163681   163779      +    no    1 0.43   0.0   84.8   2.5e-18 !   Staphylococcus gallinarum strain DSM 20610 contig_10, whole genome shotgun sequence
+gi|756890721|gb|JXCF01000256.1| -         SAM                  RF00162    cm        1      108   132209   132101      -    no    1 0.41   0.0   81.7   1.7e-17 !   Staphylococcus gallinarum strain DSM 20610 contig_256, whole genome shotgun sequence
+gi|756891579|gb|JXCF01000026.1| -         SAM                  RF00162    cm        1      108    89157    89264      +    no    1 0.49   0.0   78.7     1e-16 !   Staphylococcus gallinarum strain DSM 20610 contig_26, whole genome shotgun sequence
+gi|756892467|gb|JXCF01000007.1| -         SAM                  RF00162    cm        1      108    59727    59839      +    no    1 0.49   0.0   76.8   3.2e-16 !   Staphylococcus gallinarum strain DSM 20610 contig_7, whole genome shotgun sequence
+gi|756893556|gb|JXCF01000001.1| -         SAM                  RF00162    cm        1      108   300000   300105      +    no    1 0.43   0.0   74.6   1.2e-15 !   Staphylococcus gallinarum strain DSM 20610 contig_1, whole genome shotgun sequence
+gi|756893556|gb|JXCF01000001.1| -         SAM                  RF00162    cm        1      108   357687   357586      -    no    1 0.42   0.0   74.1   1.7e-15 !   Staphylococcus gallinarum strain DSM 20610 contig_1, whole genome shotgun sequence
+gi|756893556|gb|JXCF01000001.1| -         Purine               RF00167    cm        1      102    41787    41685      -    no    1 0.33   0.0   74.3   1.4e-13 !   Staphylococcus gallinarum strain DSM 20610 contig_1, whole genome shotgun sequence
+gi|756893556|gb|JXCF01000001.1| -         T-box                RF00230    cm        1      224   143023   143399      +    no    1 0.37   3.5  133.5   1.5e-31 !   Staphylococcus gallinarum strain DSM 20610 contig_1, whole genome shotgun sequence
+gi|756892467|gb|JXCF01000007.1| -         T-box                RF00230    cm        1      224   197171   197411      +    no    1 0.35   7.3  116.1   4.5e-27 !   Staphylococcus gallinarum strain DSM 20610 contig_7, whole genome shotgun sequence
+gi|756893556|gb|JXCF01000001.1| -         T-box                RF00230    cm        1      224   296830   297027      +    no    1 0.37   0.1  105.0   3.4e-24 !   Staphylococcus gallinarum strain DSM 20610 contig_1, whole genome shotgun sequence
+gi|756892467|gb|JXCF01000007.1| -         T-box                RF00230    cm        1      224    83492    83691      +    no    1 0.37   0.3   99.3     1e-22 !   Staphylococcus gallinarum strain DSM 20610 contig_7, whole genome shotgun sequence
+gi|756892467|gb|JXCF01000007.1| -         Glycine              RF00504    cm        1       94   322585   322682      +    no    1 0.37   0.0   64.6   3.9e-13 !   Staphylococcus gallinarum strain DSM 20610 contig_7, whole genome shotgun sequence
+gi|756893230|gb|JXCF01000003.1| -         L10_leader           RF00557    cm        1      139    21760    21907      +    no    1 0.33   0.5   87.7   8.1e-14 !   Staphylococcus gallinarum strain DSM 20610 contig_3, whole genome shotgun sequence
+gi|756892467|gb|JXCF01000007.1| -         L20_leader           RF00558    cm        1      127   180440   180567      +    no    1 0.47   0.0   76.0   4.7e-15 !   Staphylococcus gallinarum strain DSM 20610 contig_7, whole genome shotgun sequence
+gi|756892467|gb|JXCF01000007.1| -         L21_leader           RF00559    cm        1       78   220632   220705      +    no    1 0.41   0.0   60.6   2.4e-11 !   Staphylococcus gallinarum strain DSM 20610 contig_7, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./GPIPE.29.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Staphylococcus_gallinarum/1570948-DENOVO-20150217-0903.1469464/output/bacterial_annot/JXCF01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Staphylococcus_gallinarum.29.tbl --cut_ga --rfam --cpu 0 --nohmmonly ./GPIPE.29.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Staphylococcus_gallinarum/1570948-DENOVO-20150217-0903.1469464/output/bacterial_annot/JXCF01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:10:17 2015
+# [ok]

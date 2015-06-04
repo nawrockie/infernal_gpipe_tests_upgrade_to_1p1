@@ -1,0 +1,42 @@
+# command:    /usr/local/infernal/1.0/bin/cmsearch -T 40 --tabfile rfam11-i1p0/Ruminococcus_gnavus_AGR2154.5S.tbl ./RF00001.rfam11.i1p0.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Ruminococcus_gnavus_AGR2154/900478-DENOVO-20150227-1937.1486684/output/bacterial_annot/JAGQ01.annotation.nucleotide.fa
+# date:       Thu Apr  2 15:09:26 2015
+# num seqs:   5
+# dbsize(Mb): 7.448154
+#
+# Pre-search info for CM 1: 5S_rRNA
+#
+#                                  cutoffs            predictions     
+#                            -------------------  --------------------
+# rnd  mod  alg  cfg   beta     E value   bit sc     surv     run time
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+#   1  hmm  fwd  loc      -     373.186     7.68   0.0082  00:01:31.17
+#   2   cm  cyk  loc  1e-07      18.153     8.41   0.0004  00:00:13.88
+#   3   cm  ins  loc  1e-15     1.3e-06    40.00  1.9e-11  00:00:02.89
+# ---  ---  ---  ---  -----  ----------  -------  -------  -----------
+# all    -    -    -      -           -        -        -  00:01:47.95
+#
+#
+# CM: 5S_rRNA
+#                                            target coord   query coord                         
+#                                  ----------------------  ------------                         
+# target name                           start        stop  start   stop    bit sc   E-value  GC%
+# -------------------------------  ----------  ----------  -----  -----  --------  --------  ---
+  gi|573973165|gb|JAGQ01000002.1|     1024827     1024710      1    119     76.91  4.17e-16   59
+  gi|573973165|gb|JAGQ01000002.1|     1287612     1287495      1    119     76.91  4.17e-16   59
+  gi|573973158|gb|JAGQ01000004.1|      642292      642409      1    119     76.91  4.17e-16   59
+  gi|573973158|gb|JAGQ01000004.1|      485389      485506      1    119     76.91  4.17e-16   59
+  gi|573973158|gb|JAGQ01000004.1|      419446      419329      1    119     74.47  1.77e-15   58
+#
+# Post-search info for CM 1: 5S_rRNA
+#
+#                              number of hits       surv fraction  
+#                            -------------------  -----------------
+# rnd  mod  alg  cfg   beta    expected   actual  expected   actual
+# ---  ---  ---  ---  -----  ----------  -------  --------  -------
+#   1  hmm  fwd  loc      -     373.186      236    0.0082   0.0053
+#   2   cm  cyk  loc  1e-07      18.153        9    0.0004   0.0002
+#   3   cm  ins  loc  1e-15     1.3e-06        5   1.9e-11  7.9e-05
+#
+# expected time    actual time
+# -------------  -------------
+#   00:01:47.95    00:01:08.00

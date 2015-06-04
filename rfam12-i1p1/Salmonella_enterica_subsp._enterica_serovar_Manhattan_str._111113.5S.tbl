@@ -1,0 +1,23 @@
+#target name                      accession query name           accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#-------------------------------- --------- -------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+gi|519431011|emb|CBKW010000016.1| -         5S_rRNA              RF00001    cm        1      119   743070   742955      -    no    1 0.63   0.0   74.6   2.8e-15 !   Salmonella enterica subsp. enterica serovar Manhattan str. 111113, whole genome shotgun sequence
+gi|519433663|emb|CBKW010000001.1| -         5S_rRNA              RF00001    cm        1      119      258      373      +    no    1 0.65   0.0   74.3   3.3e-15 !   Salmonella enterica subsp. enterica serovar Manhattan str. 111113, whole genome shotgun sequence
+gi|519432882|emb|CBKW010000005.1| -         5S_rRNA              RF00001    cm        1      119   676466   676351      -    no    1 0.65   0.0   74.3   3.3e-15 !   Salmonella enterica subsp. enterica serovar Manhattan str. 111113, whole genome shotgun sequence
+gi|519432877|emb|CBKW010000006.1| -         5S_rRNA              RF00001    cm        1      119     5461     5576      +    no    1 0.65   0.0   74.3   3.3e-15 !   Salmonella enterica subsp. enterica serovar Manhattan str. 111113, whole genome shotgun sequence
+gi|519432731|emb|CBKW010000007.1| -         5S_rRNA              RF00001    cm        1      119      176      291      +    no    1 0.65   0.0   74.3   3.3e-15 !   Salmonella enterica subsp. enterica serovar Manhattan str. 111113, whole genome shotgun sequence
+gi|519432725|emb|CBKW010000008.1| -         5S_rRNA              RF00001    cm        1      119       87      202      +    no    1 0.65   0.0   74.3   3.3e-15 !   Salmonella enterica subsp. enterica serovar Manhattan str. 111113, whole genome shotgun sequence
+gi|519432639|emb|CBKW010000010.1| -         5S_rRNA              RF00001    cm        1      119      131      246      +    no    1 0.65   0.0   74.3   3.3e-15 !   Salmonella enterica subsp. enterica serovar Manhattan str. 111113, whole genome shotgun sequence
+gi|519432138|emb|CBKW010000012.1| -         5S_rRNA              RF00001    cm        1      119      232      347      +    no    1 0.65   0.0   74.3   3.3e-15 !   Salmonella enterica subsp. enterica serovar Manhattan str. 111113, whole genome shotgun sequence
+gi|519431011|emb|CBKW010000016.1| -         5S_rRNA              RF00001    cm        1      119   743315   743200      -    no    1 0.65   0.0   74.3   3.3e-15 !   Salmonella enterica subsp. enterica serovar Manhattan str. 111113, whole genome shotgun sequence
+gi|519431010|emb|CBKW010000017.1| -         5S_rRNA              RF00001    cm        1      119      322      437      +    no    1 0.65   0.0   74.3   3.3e-15 !   Salmonella enterica subsp. enterica serovar Manhattan str. 111113, whole genome shotgun sequence
+gi|519431010|emb|CBKW010000017.1| -         5S_rRNA              RF00001    cm        1      119      607      492      -    no    1 0.65   0.0   74.3   3.3e-15 !   Salmonella enterica subsp. enterica serovar Manhattan str. 111113, whole genome shotgun sequence
+#
+# Program:         cmsearch
+# Version:         1.1.1 (July 2014)
+# Pipeline mode:   SEARCH
+# Query file:      ./RF00001.rfam12.i1p1.cm
+# Target file:     /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Salmonella_enterica_subsp._enterica_serovar_Manhattan_str._111113/737948-DENOVO-20150126-0947.1448034/output/bacterial_annot/CBKW01.annotation.nucleotide.fa
+# Option settings: /usr/local/infernal/1.1.1/bin/cmsearch --tblout rfam12-i1p1/Salmonella_enterica_subsp._enterica_serovar_Manhattan_str._111113.5S.tbl -T 40 --rfam --cpu 0 --nohmmonly ./RF00001.rfam12.i1p1.cm /panfs/pan1.be-md.ncbi.nlm.nih.gov/gpipe/bacterial_pipeline/data19/Salmonella_enterica_subsp._enterica_serovar_Manhattan_str._111113/737948-DENOVO-20150126-0947.1448034/output/bacterial_annot/CBKW01.annotation.nucleotide.fa 
+# Current dir:     /home/nawrocke/notebook/15_0306_inf_1p1_gpipe_expts/inf1p0-inf1p1-rfam11-rfam12-gpipe-test-040215
+# Date:            Thu Apr  2 15:09:35 2015
+# [ok]
